@@ -1,2 +1,2 @@
 # pubnixhist
-Public Access UNIX (and GNU/Linux) Documentation Project
+Public Access UNIX (and GNU/Linux) History Documentation Project
