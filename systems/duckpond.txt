@@ -1,0 +1,16 @@
+## USE THE CONTENTS BELOW AS NAMED LINES DESCRIBING PUBNIX SYSTEMS.
+## NAME EACH CORRESPONDING FILE WITH THE SYSTEM NAME, REPLACING
+## ANY SPACES ( ) WITH DASHES (-).
+
+System Name	The Duck Pond
+UUCP Name(s)	quack
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	FreeBSD
+Hardware	?
+Location	Santa Clara, CA
+Key Figures	?
+Local Softwate	?
+Notes	https://web.archive.org/web/20010204043200/http://kfu.com/
