@@ -5,8 +5,9 @@ Last Seen	?
 Active?	no
 URL(s)	?
 Operating System(s)	FreeBSD
+Webserver  ?
 Hardware	?
 Location	Santa Clara, CA
 Key Figures	?
-Local Softwate	?
+Local Software	?
 Notes	https://web.archive.org/web/20010204043200/http://kfu.com/
