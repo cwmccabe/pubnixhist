@@ -1,0 +1,13 @@
+System Name	R-Node Public Access Unix System
+UUCP Name(s)	r-node
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Ontario, FL
+Key Figures	?
+Local Software	?
+Notes	?

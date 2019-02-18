@@ -5,7 +5,7 @@ Last Seen	?
 Active?	no
 URL(s)	?
 Operating System(s)	FreeBSD
-Webserver  ?
+Web Server  ?
 Hardware	?
 Location	Santa Clara, CA
 Key Figures	?
