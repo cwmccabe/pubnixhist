@@ -1,0 +1,13 @@
+System Name	ATDT Public Access Unix System
+UUCP Name(s)	atdt
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Massachusetts
+Key Figures	?
+Local Software	?
+Notes	?

@@ -1,0 +1,13 @@
+System Name	The Soup Kitchen
+UUCP Name(s)	unirot
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	System V UniPlus+
+Web Server  ?
+Hardware	Heurikon MiniBox
+Location	Edison, NJ
+Key Figures	Liz Sommers
+Local Software	?
+Notes	https://archive.org/details/bitsavers_heurikonbrBoxBrochure1985_1441602
