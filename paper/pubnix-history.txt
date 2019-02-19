@@ -11,40 +11,33 @@ of the technology
 * Add language about the importance of these systems passing 
 down the knowledge of operating the systems themselves.
 
+* Remove some of the more subjective commentary on the state of 
+the world. :) Get back to a focus on history!
 
+---------------------------------------------------------------
 
-
-
-History, Evolution and Future of Public Access Unix and GNU 
-Systems
+History, Evolution and Future of Public Access Unix and 
+GNU/Linux Systems
 
 By cmccabe@sdf.org
 
-
-
-
-
-This article explores the history of public access Unix and GNU 
-[1] systems, combining first-hand experience of contributors, 
-historical accounts from related documentaries, and materials 
-gathered from online archives.  In exploring this history, one 
-goal of this article is to provide overdue recognition to public 
-access Unix systems by clearly defining them as a category 
-distinct from bulletin board systems (BBSes), web forums, IRC 
-channels, and other computer-based social venues.  And through 
-this history and definition, this article will make a broader 
-argument, that Unix itself is a communications and social 
-medium, distinct from printed text, television and the World 
-Wide Web (WWW) -- and that it can provide a unique and powerful 
-role in society because of the special way in which it shapes 
-social interactions.  Finally, this article aims to encourage 
-participation in and support for public access Unix systems, 
-partly by brainstorming on what the next generation of systems 
-might look like.
-
-
-
-
+This article explores the history of public access Unix and 
+GNU/Linux [1] systems, combining first-hand experience of 
+contributors, historical accounts from related documentaries, 
+and materials gathered from online archives.  In exploring this 
+history, one goal of this article is to provide overdue 
+recognition to public access Unix systems by clearly defining 
+them as a category distinct from bulletin board systems (BBSes), 
+web forums, IRC channels, and other computer-based social 
+venues.  And through this history and definition, this article 
+will make a broader argument, that Unix itself is a 
+communications and social medium, distinct from printed text, 
+television and the World Wide Web (WWW) -- and that it can 
+provide a unique and powerful role in society because of the 
+special way in which it shapes social interactions.  Finally, 
+this article aims to encourage participation in and support for 
+public access Unix systems, partly by brainstorming on what the 
+next generation of systems might look like.
 
 A central thesis of what follows is that public access Unix 
 systems have played and continue to play an important role in 
@@ -56,10 +49,6 @@ public access Unix systems offer a meaningful alternative in
 which people can be valued for their interactions with others 
 rather than for the resale value of the information a site 
 collects on them.
-
-
-
-
 
 With this thesis in mind, this article is written for the 
 following audiences:
@@ -75,51 +64,6 @@ outlets.
 * People involved in media studies or those concerned with the 
 problems of corporate media in present-day society.
 
-Table of Contents
-
-Table of Contents        2
-
-Definition of Public Access Unix Systems        3
-
-Origins        3
-
-Early Public Access Unix Systems        5
-
-Change Over Time        6
-
-Current State        8
-
-Broader Context of Current State        10
-
-Unix as a Distinct Medium        11
-
-The Future of Public Access Unix Systems        11
-
-Enduring characteristics of current public access Unix systems        
-12
-
-Challenges facing current public access Unix systems        13
-
-Characteristics of next-gen public access Unix systems        14
-
-Summary        17
-
-Acknowledgements        18
-
-References        18
-
-Appendix A - Early Social Utilities Included in Unix Systems        
-24
-
-Appendix B: List of Known Public Access Unix Systems        26
-
-Appendix C: Developers of Programs Cited in the tilde.town  
-Section        26
-
-
-
-
-
 ________________
 
 Definition of Public Access Unix Systems
@@ -134,10 +78,6 @@ pass-through for Internet access.  This is also distinguished
 from BBSes which are often not based on Unix, and which provide 
 access to a BBS software interface rather than a Unix shell.
 
-
-
-
-
 Similar to public access Unix systems are those that provide 
 shell access restricted to members of a particular institution, 
 such as a university or research organization.  In fact, Unix as 
@@ -149,10 +89,6 @@ libraries are distinguished from university libraries.  Not
 surprisingly, public access Unix systems also tend to have a 
 larger and more diverse set of leisure uses than institutional 
 systems.
-
-
-
-
 
 Another important dimension of this definition is the use of 
 these systems for conferencing.  Conferencing facilities 
@@ -175,10 +111,6 @@ keypunch, but to encourage close communication."
 
 -- Dennis Ritchie [2]
 
-
-
-
-
 Although time-sharing operating systems were initially designed 
 in the early 1960s to solve the problem of efficiently sharing 
 computer resources by multiple users, they were very quickly 
@@ -190,10 +122,6 @@ electronic messages. Public user profiles originated with the
 ‘FINGER’ command, developed originally on a DEC-10 system in 
 1971 [4] before coming to Unix in 1980. And the first bulletin 
 board program was developed for the PLATO system in 1973 [5].
-
-
-
-
 
 Unix's well-documented history began in 1969, as a descendent of 
 the early time-sharing systems.  One goal in designing Unix, as 
@@ -207,10 +135,6 @@ had a file system permissions scheme that allowed files to be
 kept private to the user, shared with a group, or made available 
 to all users on the system.
 
-
-
-
-
 While these utilities proved very popular, and user communities 
 developed within these systems, access to Unix systems was 
 largely restricted to the research institutions where they were 
@@ -219,10 +143,6 @@ people had computers and modems at home.  But in the late 1970's
 and especially 1980's, the commercial availability of home 
 computers and modems changed all of that, and changed the 
 culture of computing forever.
-
-
-
-
 
 Computer based social networking outside of research 
 institutions first became available to home users during the 
@@ -238,27 +158,15 @@ constraints meant that early interaction among users was mostly
 limited to simple exchanges of text notes -- literally analogous 
 to a physical bulletin board.
 
-
-
-
-
 As an example of modem constraints, the early 1980's Hayes 
 Smartmodem supported 300 bits/sec of data transfer.  The article 
 you are reading now, in plaintext format, is about 60K in file 
 size.  It would have taken more than 27 minutes to download this 
 article.
 
-
-
-
-
 But despite these limiting factors, being able to interact with 
 others through your home computer was an incredible novelty and 
 computer-based social networking took off.
-
-
-
-
 
 The conditions that precipitated BBSes in the early 1980's also 
 yielded the first public access Unix systems.  Like BBSes, these 
@@ -278,10 +186,6 @@ Mike Myers in Ann Arbor, Michigan.  M-Net, as it was called, ran
 System III Unix on an Altos 68000 and primarily supported 
 conferencing through two programs called PicoSpan and Party [7].
 
-
-
-
-
 Also in 1982, Randy Seuss started up a separate public access 
 Unix system in Chicago [8].  Originally called wlcrjs, it 
 changed its name to Chinet around 1984.  Chinet ran Unix on a 
@@ -289,10 +193,6 @@ Compaq "portable" with a 4 MHz 8088 processor, 640k of memory,
 and a 10 MB hard drive.  It supported conferencing on variants 
 of PicoSpan, and also offered Internet access including e-mail 
 and newsgroup postings over UUCP [9].  
-
-
-
-
 
 Throughout the 1980's, many other public access Unix systems 
 were set up.  Some rose to notoriety, such as Sausalito, CA's 
@@ -308,10 +208,6 @@ updated list of known public access Unix systems, largely
 sponging off what was recorded in these nixpub lists for the 
 historical systems.
 
-
-
-
-
 Like M-Net and Chinet, many of these early systems offered shell 
 access but appear to have been primarily used for their 
 conferencing forums or, later, USENET, email, and file transfer 
@@ -319,10 +215,6 @@ conferencing forums or, later, USENET, email, and file transfer
 in academia, the government, or corporate research, and 
 conferencing topics tended to be of a higher technical or 
 intellectual level for that reason.
-
-
-
-
 
 Computer hobbyists were the most common user of these early 
 public access Unix systems, and their interests included not 
@@ -336,10 +228,6 @@ system.  The Unix OS was prohibitively expensive for home users
 during that time [11], so public access Unix systems provided 
 these enthusiasts a welcome opportunity to use it.
 
-
-
-
-
 There was wide diversity among these early public access Unix 
 systems, from small-scale hobby projects that attracted a 
 scattering of local users, to heavily used conferencing forums.  
@@ -350,10 +238,6 @@ dial into a local number and get access to systems in more than
 20 other end-point cities across the United States.  This 
 allowed some systems to cultivate user bases from a much broader 
 area.  
-
-
-
-
 
 Public access Unix systems were similar to BBSes in their use 
 for text-based conferencing and file sharing, but Unix offered 
@@ -380,10 +264,6 @@ the social spirit of the BBS era, the thrill of accessing the
 Internet's exploding amount of information, and the innovative 
 spark of a new and better equipped DIY programmer generation.
 
-
-
-
-
 Some of the main influences on these systems were formative 
 changes to the Internet, increases in modem speeds, and growth 
 and diversification of user numbers and interests.  One big 
@@ -397,10 +277,6 @@ and the corresponding explosion of the hobbyist programmer and
 sysadmin movement drew even more people into running and using 
 Unix-like systems [15].
 
-
-
-
-
 One of the key technological changes impacting public access 
 Unix systems was an increase in modem speeds.  From the period 
 of the early 1980's through the mid 1990's, dial-up speeds 
@@ -411,10 +287,6 @@ Early access was so rare, and modem speeds so slow, that
 connected time was precious.  Every word typed, every post made 
 was thoroughly thought out before sending.  Content was terse 
 and purposeful.
-
-
-
-
 
 But in the mid-1990's, dial-up Internet access from services 
 like AOL or CompuServe had become a strong force in the 
@@ -430,10 +302,6 @@ reflected in both declining user numbers and shifting patterns
 of system usage.  As 1980's veteran Phil Eschallier put it, "we 
 went from brilliant physicists, compsci, EE, etc. to pictures of 
 cats" [17].  
-
-
-
-
 
 This was also a period in which malicious user behavior became a 
 problem.  Spam mailers, script kiddies, and people hosting and 
@@ -451,10 +319,6 @@ support for user scripted game elements was replaced with the
 "it was a busy place with a vibrant community of players and 
 wizards."
 
-
-
-
-
 The 1990's was a time of reckoning for public access Unix 
 systems.  Some systems lost their user bases and closed as the 
 meowing of cat memes replaced interesting discussions.  Some 
@@ -465,10 +329,6 @@ into some of the big ISPs today.  And yet others carried on
 similar to before, but with a more refined sense of purpose.  
 The ones that persisted can be thought of as a second 
 generation.  
-
-
-
-
 
 The first generation public access Unix systems had been largely 
 focused on the novelty and fun of newly accessible 
@@ -482,10 +342,6 @@ education, public education, spiritual and intellectual
 enrichment, promoting a better-informed citizenry, 
 collaboration, non-commercialism, choice, privacy, cultural 
 enrichment, scientific research.
-
-
-
-
 
 These systems were consciously focused on having a positive 
 impact on society through the social medium of the Unix system.  
@@ -509,10 +365,6 @@ out a casual tweet to his Twitter followers and, to his
 surprise, within a few days tilde.club had hundreds of new 
 account registrations.
 
-
-
-
-
 Users logged on to tilde.club and started putting the system to 
 work.  They created and shared ascii art or simple retro-cool 
 pages; they wrote clever command line programs to impress other 
@@ -524,10 +376,6 @@ sized commercial websites, but the creative energy pulsing
 through the tilde.club community was something different and 
 special.
 
-
-
-
-
 Although tilde.club had to close its doors to new sign-ups, the 
 interest of many members of the current generation had been 
 piqued and others excitedly opened similar sites [21].  One 
@@ -536,10 +384,6 @@ took inspiration and general system design from tilde.club.
 Similar to tilde.club, registration was open to anyone, and 
 users were allowed (encouraged!) to express themselves freely 
 with the utilities a standard Linux box makes available.
-
-
-
-
 
 To this day, tilde.town is still active, very active, consisting 
 of users with all levels of experience, from non-developers who 
@@ -559,20 +403,12 @@ grow fields of crops through a (currently in-development)
 project called asciifarm.  (The developers of these programs are 
 listed in Appendix C)
 
-
-
-
-
 There are so many other little projects on tilde.town that a new 
 user can take weeks just to get an idea of what is available.  
 Not all projects are perfect, of course; some are buggy, others 
 are confusing to use.  But, they were made to share with others, 
 and the developers learned a lot while building them (somewhat 
 analogous to the paper you're now reading).
-
-
-
-
 
 Another interesting and active system is called Devio.us. This 
 system hosts a community dedicated to open source software and 
@@ -581,10 +417,6 @@ an expertly managed shell service, it has an active forum and
 IRC channel through which geeks, developers, IT professionals, 
 and enthusiasts chat, interact, and network around shared 
 interests.
-
-
-
-
 
 Meanwhile, over at SDF.org there continue to be thousands of 
 logins a day.  Captained by sysadmin Stephen Jones (smj), SDF 
@@ -605,10 +437,6 @@ and of course many, many programmers.  All experience levels are
 represented, from young learners to veterans and computer 
 science professors.
 
-
-
-
-
 One aspect that is fairly unique to SDF.org is its large number 
 of users with a passion for retro computing and 
 telecommunications.  While retro computing is only one of the 
@@ -626,25 +454,13 @@ which SDF users can log into.  And of course, you'll also see a
 lot of appreciation for the timeless value of classic text-based 
 games [22].
 
-
-
-
-
 Through the various retro computing activities on SDF, you sense 
 a deep respect for facets of computing and the Internet that are 
 currently being paved over by corporate saturation.  If you get 
 into discussions with SDF users, you'll find that concern with 
 the broader direction of the Internet runs deep.
 
-
-
-
-
 --
-
-
-
-
 
 There are not an overwhelming number of places like tilde.town 
 or SDF online these days, but there are still quite a few 
@@ -667,19 +483,11 @@ response to the commercially driven WWW, many share a particular
 view on the increasing dominance of corporate control over 
 mainstream media and social networking sites.  
 
-
-
-
-
 These concerns are reflected in comments by the inventor of the 
 WWW himself, Tim Berners Lee: “The system is failing. The way ad 
 revenue works with clickbait is not fulfilling the goal of 
 helping humanity promote truth and democracy. So I am concerned” 
 [23]. 
-
-
-
-
 
 Adding to the concerns of Berners Lee is a growing litany of 
 complaints.  You simply cannot use the web without being 
@@ -697,20 +505,12 @@ propaganda campaigns [27].  And mainstream news outlets have
 allowed the crowding out of real journalism by sensationalist, 
 clickbait news [28].  
 
-
-
-
-
 Underlying all of this is a deepening awareness that users are 
 being exploited.  Brinknews.com reporter Giovanni Buttarelli 
 describes this user exploitation as "digital sweatshops" in the 
 sense that "the digital information ecosystem farms people for 
 their attention, ideas and data in exchange for so called “free” 
 services" [29].
-
-
-
-
 
 As awareness of these problems rises, more and more people are 
 getting fed up with the commercial WWW.  This presents a special 
@@ -738,10 +538,6 @@ to use, and extremely powerful; but the learning curve is a
 barrier to entry that weeds out users who aren't willing to put 
 effort into their engagement with the system.
 
-
-
-
-
 In addition to the rite of passage of the Unix learning curve, 
 this article also argues that the Unix philosophy [30] itself 
 provides a perspective that helps a thinking person cut through 
@@ -753,10 +549,6 @@ is focused on software or system design, but can also be used to
 analyze these things.  By breaking a subject down into component 
 parts, complexity can be made analytically tractable and logical 
 inconsistencies can be more easily called out.
-
-
-
-
 
 But why might this perspective extend beyond software?  Just as 
 any form of habit can be developed through repetitive action, 
@@ -770,10 +562,6 @@ headlines from foxnews.com or cnn.com, or the sourceless
 comments floating through Facebook and Twitter.  Put crudely, 
 programming the Unix way has a side effect of giving you a good 
 BS detector.
-
-
-
-
 
 So this effortful medium shapes its own use in a few ways. For 
 one, it weeds out low-effort participation.  For two, it pushes 
@@ -797,15 +585,7 @@ value of these systems.  The time is right for users to take a
 deeper appreciation of these systems, and for new users to join 
 and help these systems grow by creatively participating.  
 
-
-
-
-
 So, what next?  Where do we go from here?
-
-
-
-
 
 This article hopes to stimulate discussions around a vision of 
 the future for public access Unix systems; a discussion that 
@@ -829,10 +609,6 @@ for which Unix has no strong competitor, and is the central
 value around which the others revolve.  Some of these 
 characteristics are listed here.
 
-
-
-
-
 Privacy and data ownership. Given that there is so much concern 
 about the practices of large commercial social media sites, it 
 is not surprising that users appreciate an alternative that 
@@ -840,10 +616,6 @@ respects and puts them in charge of their data.  It goes a long
 way when a system administrator pledges commitment to respecting 
 user privacy and data ownership.  See SDF.org's "ethical social 
 network" page [32] as a great example of this.
-
-
-
-
 
 Hackerspace.  Unix is not for everyone but rather appeals to 
 that sliver of society that wants to creatively engage with 
@@ -855,10 +627,6 @@ playroom is an increasing attraction of public access Unix
 systems, and one that allows them to provide an online parallel 
 to physical makerspaces.  
 
-
-
-
-
 Retro computing.  Unix provides a continuous and well-documented 
 lineage throughout much of the history of computing.  Because of 
 this, and because it is still in very active development, public 
@@ -866,10 +634,6 @@ access Unix systems provide an excellent environment for retro
 computing enthusiasts.  As described above, although much more 
 than just retro computing, SDF.org is again a great example of 
 this.
-
-
-
-
 
 Unique subculture. Facebook has the network effect of "everyone 
 you know is already using it".  By contrast, public access Unix 
@@ -881,10 +645,6 @@ have their own attractive network effect.  The networks also
 tend to be small enough that interactions between people don't 
 get drowned out in the racket and caterwauling of 
 advertisement-riddled, million-plus user web forums.
-
-
-
-
 
 Embracing diversity. The raw text of the Unix shell interface 
 allows users to meet on an intellectual level, where the only 
@@ -898,10 +658,6 @@ people can be found everywhere, of course --but Unix provides an
 environment where ideas and abilities can be valued above things 
 like age, skin color, sexual orientation, physical ability, 
 religion, or politics.
-
-
-
-
 
 Unix as medium. As stated above, this article aims to add to 
 this list of characteristics by raising awareness about Unix's 
@@ -927,10 +683,6 @@ For future public access Unix systems to be successful,
 organizers must put serious consideration into establishing a 
 sustainability model that addresses all of these concerns.  
 
-
-
-
-
 Sysadmin time and knowledge. A bare minimum requirement for 
 running a public access Unix system is, of course, the need for 
 a sysadmin (or a team) with the time and ability to manage the 
@@ -943,10 +695,6 @@ been pulled more into other parts of their lives.  Many former
 systems went offline because they were unable to replace trusted 
 sysadmins.
 
-
-
-
-
 Operations costs.  Another obvious challenge facing public 
 access Unix systems is the recurring costs of the network 
 connection, system hardware, and other resources.  Some systems 
@@ -956,18 +704,10 @@ organization (e.g. 501(c)(3) or 501(c)(7) in the U.S.) can
 facilitate receiving donations as well. SDF.org, Grex.org and 
 Nyx.net are set up this way.  
 
-
-
-
-
 Unlike Facebook or Google, public access Unix systems do not 
 earn revenue by selling user data to the highest bidder.  This 
 is a strong attraction for these systems, but it increases the 
 need to find other sources of support.
-
-
-
-
 
 User base. There are many free or cheap Unix shell providers 
 online, but what sets a good public access Unix system apart is 
@@ -977,19 +717,11 @@ systems, inability to retain active users or to attract new
 users can mean that an existing user base may lose interest or 
 age out.  
 
-
-
-
-
 Further, an interesting and welcoming user base is itself an 
 attraction, but it only takes a very small number of toxic users 
 to poison the culture.  Providing the necessary mechanisms to 
 support a healthy social environment and to reform or isolate 
 toxic users requires focused attention.  
-
-
-
-
 
 Trust. An absolutely critical topic for public access Unix 
 systems, related to both the sysadmin and user base challenges 
@@ -999,10 +731,6 @@ arrival that level of system access requires an exceedingly high
 level of trust in the new person's competence, reliability, 
 motivations, and dedication to the system's founding principles.  
 How can you establish this trust?
-
-
-
-
 
 Likewise, unless a system is prohibitively locked down, users 
 have access to utilities that can be abused to degrade system 
@@ -1024,10 +752,6 @@ direction for public access Unix systems is to embrace and build
 on the unique value of Unix in the model of an online 
 hackerspace.  And examples of this direction do already exist.
 
-
-
-
-
 Of course, a pure hackerspace model is not the only option.  
 SDF.org, for example, already has a well-established system 
 built around a menagerie of user interests.  So long as sysadmin 
@@ -1038,18 +762,10 @@ maintained an active user base largely because of their
 interesting real-time chat forums (e.g. The WELL, ECHO NYC, or 
 Blinkenshell.org).  
 
-
-
-
-
 Taking into account the challenges outlined above, and 
 considering examples thus far reviewed, below are some 
 characteristics that may be of value to next-gen public access 
 Unix systems.
-
-
-
-
 
 Hackerspace model. Taken to its extreme, an online hackerspace 
 could open up all aspects of the system to continual development 
@@ -1073,10 +789,6 @@ community to push you to create, and to share in the enjoyment
 of your creations. It is a positive feedback loop that can last 
 a lifetime."
 
-
-
-
-
 This model is especially attractive now, as computing skills are 
 important for more of the general public than ever before.  
 Public access Unix systems can provide a training ground for 
@@ -1084,19 +796,11 @@ interested users at all skills levels, just as physical
 makerspaces bring together experts, learners, and tools in a 
 project-oriented environment.  
 
-
-
-
-
 The hackerspace model also opens the doors to other new public 
 access Unix systems based around different interest topics.  
 Imagine for example, teaching and learning communities built 
 around game development, or digital art, or data science, or 
 security.  
-
-
-
-
 
 Emphasis on learning. Hand in hand with the hackerspace model, a 
 Unix shell in an environment populated by other enthusiasts is a 
@@ -1108,10 +812,6 @@ model.  Such systems might involve users in projects through
 which they can learn skills, demonstrate abilities, and grow 
 upward toward useful contributors to the system itself.  
 
-
-
-
-
 While public access Unix systems are often built on charitable 
 values, this by no means implies that users take vows of poverty 
 upon signing up.  To the contrary, many users are rightfully 
@@ -1121,10 +821,6 @@ system develops a reputation for putting out hot IT job
 candidates, this would further the attraction for new users, 
 both those coming to learn and those who have a passion for 
 teaching.  
-
-
-
-
 
 Mechanisms for establishing trust. As described above, the need 
 for trust among sysadmins and users is critical for a public 
@@ -1138,20 +834,12 @@ over time as a user demonstrates good intentions and abilities.
 This mechanism might be extended to use demonstrated skill set 
 as an additional criteria for elevation.
 
-
-
-
-
 Users can play a role in maintaining expectations and levels of 
 trust by self-policing each other as well.  For example, some 
 core Unix utilities like 'top' can help users monitor other 
 users and remind them when they're crossing certain lines.  
 Setting high expectations for users to take responsibility for a 
 healthy system culture is important.  
-
-
-
-
 
 Cost control. Unless a system has a sizable user base that pays 
 membership fees, or it has a generous benefactor (often the 
@@ -1167,10 +855,6 @@ environment conditions.  Developing infrastructure-as-code that
 includes a bare-bones configuration should be a hackable goal 
 for users.
 
-
-
-
-
 User base life cycle.  If multi-generational lifespan of a 
 system is a goal, it is important to balance the need to attract 
 new users against the need to carefully limit new membership to 
@@ -1180,10 +864,6 @@ entry can serve as one such selective mechanism.  On the other
 hand, producing cool stuff and giving people the opportunity and 
 tools to develop their skills will attract new users.
 
-
-
-
-
 Privacy protection and non-exploitation of users. As described 
 in the Enduring Characteristics section above, a commitment from 
 system organizers and administrators to security, privacy, and 
@@ -1192,20 +872,12 @@ of a good public access Unix system.  Along with a solid mission
 statement, discussed next, this should be explicitly described 
 for users to read.
 
-
-
-
-
 Mission. - All of these goals and the challenges listed further 
 above are more easily met when both the user base and 
 administrative team are dedicated and motivated by a shared 
 sense of purpose.  A clearly phrased mission statement that 
 resonates with users is invaluable in galvanizing a public 
 access Unix system's user base and staff.  
-
-
-
-
 
 This paper was written under the strong belief that public 
 access Unix systems can provide a valuable resource that 
@@ -1216,10 +888,6 @@ than the market value of the data in one's user profile. A
 mission statement revolving around this belief, and providing 
 people a refuge from everything that is wrong with the 
 commercial WWW, can go a long way to motivating users and staff.
-
-
-
-
 
 So a condensed suggestion for next-gen public access Unix 
 systems is: 
@@ -1239,18 +907,10 @@ well deserved recognition.  Further, the article has made an
 argument for their potential value for modern society and 
 provided some ideas for future systems.
 
-
-
-
-
 From the first systems in the early 1980's until the present 
 day, public access Unix systems have seen wild swings in 
 popularity and witnessed radical changes to society that have 
 been greatly impacted by the Internet.
-
-
-
-
 
 As print and television have both in turn surrendered their 
 roles as the dominant forms of media in the U.S., and as the WWW 
@@ -1260,10 +920,6 @@ this trajectory of events, and particularly for those interested
 in computing, public access Unix systems provide not only a 
 refuge from the storm, but a vibrant and engaging alternative 
 communications and social medium.
-
-
-
-
 
 If you are motivated by this vision, there are great 
 opportunities in front of you to enjoy these public access Unix 
@@ -1278,10 +934,6 @@ example for others.  Consider donating.  Be vocal (but tactful)
 about suggestions for system improvements.  Volunteer your 
 skills.
 
-
-
-
-
 This article will end with a proverbial glass of water that is 
 either half full or half empty, depending on how you want to see 
 it.  Concerns are rising about the growing influence of 
@@ -1293,10 +945,6 @@ The solution to this problem does not begin with finger pointing
 at big corporations.  It begins with the individual who rejects 
 passive media consumerism, who instead consciously follows their 
 own path.
-
-
-
-
 
 Mixed amongst the crowd of users building fascinating software 
 or leveraging the power of public access Unix systems in other 
@@ -1332,92 +980,48 @@ this reason, this paper makes careful effort to portray the role
 of the FSF and GNU in the history (and certainly future) of the 
 systems described here.
 
-
-
-
-
 [2] The Evolution of the Unix Time-sharing System | Dennis 
 Ritchie | Presented to the "Language Design and Programming 
 Methodology" conference | Sydney, Australia | Sep, 1979 | 
 
 http://cm.bell-labs.co/who/dmr/hist.html
 
-
-
-
-
 [3] Compatible Time-Sharing System | Wikpedia
 
 https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System
-
-
-
-
 
 [4] History of the Finger Protocol | Rajiv Shah | Jun 2, 2000 | 
 Draft Paper
 
 http://www.rajivshah.com/Case_Studies/Finger/Finger.htm 
 
-
-
-
-
 [5] PLATO | Wikipedia
 
 https://en.wikipedia.org/wiki/PLATO_(computer_system)
-
-
-
-
 
 [6] "Notes On The World's First PA Unix System" | Slashdot 
 post/discussion | Mar 19, 2000 | 
 
 https://tech.slashdot.org/story/00/03/17/0450236/notes-on-the-worlds-first-pa-unix-system 
 
-
-
-
-
 [7] On the origins of MNET...
-
-
-
-
 
 "The Once and Future M-Net " | James Howard | Mar 14, 2000 | 
 Great Green Room | 
 http://rootprompt.org/article.php3?article=170
-
-
-
-
 
 "A Partial History of Computer Conferencing in Ann Arbor" | Jan 
 Wolter | ~1997 | 
 
 https://web.archive.org/web/20160805221621/greatgreenroom.org/cgi-bin/bt/backtalk/wasabi/begin?item=19
 
-
-
-
-
 Arbornet and M-Net Records: 1985-2002 - History | University of 
 Michigan, Bentley Historical Library
 
 https://quod.lib.umich.edu/b/bhlead/umich-bhl-2012017?byte=70603759;focusrgn=bioghist;subview=standard;view=reslist
 
-
-
-
-
 [8] "Chinet -- Public Access since 1982" | 
 https://www.chinet.com
-
-
-
-
 
 [9] UUCP (Unix-to-Unix-Copy-Protocol) was, to quote Wikipedia, 
 "a suite of computer programs and protocols allowing remote 
@@ -1426,59 +1030,31 @@ between computers"
 
 https://en.wikipedia.org/wiki/UUCP
 
-
-
-
-
 [10] Many of the original 'nixpub' lists can still he found 
 here:
 
 https://groups.google.com/forum/#!searchin/comp.misc/nixpub%7Csort:date
 
-
-
-
-
 [11] Unix and Personal Computers: Reinterpreting the Origins of 
 Linux | Christopher Tozzi | Channel Futures | Apr 27, 2015 | 
 http://www.channelfutures.com/open-source/unix-and-personal-computers-reinterpreting-origins-linux 
 
-
-
-
-
 [12] PC Pursuit | 
 https://en.wikipedia.org/wiki/Telenet#PC_Pursuit 
-
-
-
-
 
 [13] "What Can We Learn from Dennis Ritchie" | John Biggs | Tech 
 Crunch | Oct 15, 2011
 
 https://techcrunch.com/2011/10/15/what-can-we-learn-from-dennis-ritchie/ 
 
-
-
-
-
 [14] "The Lost Civilization of Dial-Up Bulletin Board Systems" | 
 Benj Edwards | The Atlantic |  Nov 4, 2016
 
 https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/ 
 
-
-
-
-
 [15] (Linux and) the Enduring Magic of Unix | Ross Turk | Jan 
 1st, 2018 | Red Hat Enterprise Blog | 
 https://rhelblog.redhat.com/2018/01/12/linux-and-the-enduring-magic-of-unix/
-
-
-
-
 
 [16] BBSes declined but never went entirely extinct, and there 
 are a number of people still passionately dedicated to 
@@ -1495,33 +1071,17 @@ historical summaries of BBSes online, so this article steers
 clear of replicating any of that content.  Instead, here are 
 some pointers, if you're interested.
 
-
-
-
-
 Bulletin Board Systems, History | Wikipedia | 
 https://en.wikipedia.org/wiki/Bulletin_board_system#History
-
-
-
-
 
 "The BBS Documentary" | Jason Scott | May 2005 | 
 http://www.bbsdocumentary.com 
 
 A must see!
 
-
-
-
-
 The Wonderful WiFi232: BBSing Has (Literally) Never Been Easier 
 | Blake Patterson | May 30, 2017 | Byte Cellar | 
 https://www.bytecellar.com/2017/05/30/the-wonderful-wifi232-bbsing-has-literally-never-been-easier/ 
-
-
-
-
 
 BBS Corner
 
@@ -1529,50 +1089,22 @@ http://www.bbscorner.com/
 
  "...Helping BBS Sysops & Users since 1996"
 
-
-
-
-
 BBSing... All About Bulletin Board Systems
 
 http://www.bbsing.com/ 
-
-
-
-
 
 Telnet BBS Guide: https://www.telnetbbsguide.com 
 
 "the largest active listing of Dial-Up and Telnet accessible 
 Bulletin Board Systems on the Internet"
 
-
-
-
-
 [17] Phil Eschallier | Personal communication, Jun 5, 2018.
 
-
-
-
-
 [18] Ross Turk | Personal communication, Jun 4 2018.
-
-
-
-
 
 [19] In Noisy Digital Era, 'Elegant' Internet Still Thrives | 
 Todd Bookman | Apr 17, 2012 | NPR - All Things Considered |  
 https://www.npr.org/2012/04/17/150817325/in-noisy-digital-era-elegant-internet-still-thrives
-
-
-
-
-
-
-
-
 
 [20] "I had a couple drinks and woke up with 1,000 nerds" | The 
 story of Tilde.Club
@@ -1581,16 +1113,8 @@ Paul Ford, Oct 9, 2014 |
 
 https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf 
 
-
-
-
-
 [21] Other Tildes | 
 http://tilde.club/%7Epfhawkins/othertildes.html 
-
-
-
-
 
 [22] On ASCII Games...
 
@@ -1599,17 +1123,9 @@ SDF's ASCII Game Page | http://asciigames.com
 Text-based Games | Wikipedia | 
 https://en.wikipedia.org/wiki/Text-based_game 
 
-
-
-
-
 [23] Tim Berners-Lee on the future of the web: 'The system is 
 failing' | Olivia Solon | The Guardian | Nov 15,2017 | 
 https://www.theguardian.com/technology/2017/nov/15/tim-berners-lee-world-wide-web-net-neutrality 
-
-
-
-
 
 [24] Surveillance and user tracking
 
@@ -1624,52 +1140,28 @@ Online Behavioral Tracking | Electronic Frontier Foundation
 
 https://www.eff.org/issues/online-behavioral-tracking 
 
-
-
-
-
 [25] Experts Call Facebook's Latest Controversy a Social Media 
 'Breach of Trust' | Linsdey O'Donnell | Mar 20, 2018 | Threat 
 Post | 
 https://threatpost.com/experts-call-facebooks-latest-controversy-a-social-media-breach-of-trust/130572/
-
-
-
-
 
 [26] "Escape the echo chamber" | C Thi Nguyen | 09 April, 2018 | 
 Aeon | 
 
 https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult 
 
-
-
-
-
 [27] Facebook and Twitter are being used to manipulate public 
 opinion | Alex Hern | Jun 19, 2017 | The Guardian | 
 https://www.theguardian.com/technology/2017/jun/19/social-media-proganda-manipulating-public-opinion-bots-accounts-facebook-twitter
-
-
-
-
 
 [28] How technology disrupted the truth | Katharine Viner | Jul 
 12th, 2016 | The Guardian | 
 
 https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth 
 
-
-
-
-
 [29] We Are All Working in Digital Sweatshops | Giovanni 
 Buttarelli | Brink News | May 21st, 2018 | 
 http://www.brinknews.com/we-are-all-working-in-digital-sweatshops/
-
-
-
-
 
 [30] "The Art of Unix Programming - Chapter 1. Philosophy" | 
 Eric Raymond | 
@@ -1677,10 +1169,6 @@ Eric Raymond |
 https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
 
 Also available in printed form (Addison-Wesley, 2003)
-
-
-
-
 
 [31] "Tittytainment" is a term coined in Martin and Schumann's 
 (1997) book "The Global Trap: Globalization and the Assault on 
@@ -1690,45 +1178,23 @@ becomes docile and satisfied while nursing.  It is similar to
 older phrases like the Latin "panem et circenses" (bread and 
 circuses), or Karl Marx's "opiate of the masses".  
 
-
-
-
-
 [32] SDF - The Ethical Social Network | 
 http://sdf.org/?tutorials/social_network 
-
-
-
-
 
 [33] Bus Factor | Wikipedia | 
 https://en.wikipedia.org/wiki/Bus_factor 
 
-
-
-
-
 [34] hashbang.sh - github repo | https://github.com/hashbang 
-
-
-
-
 
 [35]
 
 "Amusing Ourselves to Death" | Neil Postman | 1985 | Viking 
 Penguin
 
- 
-
 "Amusing Ourselves to Death - Part II" | Nick Ingram | 
 ClearThinking.co | July 18, 2016 |
 
 http://clearthinking.co/amusing-death-part-two/
-
-
-
-
 
 "My dad predicted Trump in 1985 – it's not Orwell, he warned, 
 it's Brave New World"
@@ -1737,84 +1203,39 @@ Andrew Postman | The Guardian | Feb 2nd, 2017 |
 
 https://www.theguardian.com/media/2017/feb/02/amusing-ourselves-to-death-neil-postman-trump-orwell-huxley 
 
-
-
-
-
 [36] "Competition in the digital age - How to tame the tech 
 titans" | The Economist | Jan 18th 2018 | 
 https://www.economist.com/news/leaders/21735021-dominance-google-facebook-and-amazon-bad-consumers-and-competition-how-tame
-
-
-
-
 
 [37] "The Simple Unix Command That Gave Birth to Social 
 Networking" | Andre Torrez | 12/19/2011 | Gizmodo 
 https://gizmodo.com/5869385/the-simple-unix-command-that-gave-birth-to-social-networking
 
-
-
-
-
 ---
-
-
-
-
 
 Some relevant sources that are very interesting, but not (yet) 
 referenced in the text:
 
-
-
-
-
 London Hackerspace | New User Induction Program (implying the 
 type of responsibility needed from users)
-
 https://wiki.london.hackspace.org.uk/view/Induction 
-
-
-
-
 
 Teens are abandoning Facebook in dramatic numbers, study finds | 
 Olivia Solon | Jun 1, 2018 | The Guardian | 
-
 https://www.theguardian.com/technology/2018/jun/01/facebook-teens-leaving-instagram-snapchat-study-user-numbers 
 (This article summarizes some of the Pew Research Center study.)
-
-
-
-
 
 Rob Sweeney - some thoughts about the history of Big Electric 
 Cat as one of the first public access Unix systems (Wayback 
 Machine)
-
 https://web.archive.org/web/20010409063112/http://www.rsie.com/personal/compcomm.html
-
-
-
-
 
 "The History of Social Networking (3-part video documentary)" | 
 Rory Cellan-Jones | BBC
-
 https://www.bbc.co.uk/programmes/b00y5jgf
 
-
-
-
-
 Decentralize It! | Paul Ford | Aug 23, 2017 | Track Changes | 
-
 https://trackchanges.postlight.com/decentralize-it-2c9f0bc2ed8e 
-
-
-
-
 
 Bowling Alone - Robert Putnam - "described the reduction in all 
 the forms of in-person social intercourse upon which Americans 
@@ -1822,7 +1243,6 @@ used to found, educate, and enrich the fabric of their social
 lives. He argues that this undermines the active civil 
 engagement, which a strong democracy requires from its 
 citizens."
-
 https://en.wikipedia.org/wiki/Bowling_Alone
 
 ________________
@@ -1843,10 +1263,6 @@ systems. If you know of better information than listed below,
 please reach out to me.  This is not intended to be a definitive 
 source of this information, but rather to provide general 
 context to the early history of the Unix OS.
-
-
-
-
 
 Command
 
@@ -1923,10 +1339,6 @@ came across hundreds of old systems, and many new ones.  I am
 compiling a list of these systems and will continue to expand it 
 and add detail based on input from people like you.  
 
-
-
-
-
 Two things to note about this list: (1) not all systems listed 
 here label themselves as "public access Unix systems", but they 
 are included if they seem to follow the spirit of the definition 
@@ -1935,33 +1347,16 @@ here based on vague references I've come across on the Internet,
 and these ones are often sorely needing additional input from 
 well-informed readers like you.
 
-
-
-
-
 If you know of public access Unix systems that are missing from 
 this list. Please contact cmccabe@sdf.org to have them added.
-
-
-
-
 
 For the time being, the list is being maintained in a Google 
 Sheet (oh, the irony!).  However, note that this Sheet does not 
 contain all the references I have -- completing this list is 
 phase II, after the main text of the article is stabilized.
 
-
-
-
-
 You can view the list of systems here:
-
 https://docs.google.com/spreadsheets/d/1TIXEK_f0RIs14x6c5RVjEY9aYuqJOjvNywJ_p0TQ1Og/edit#gid=1099430226 
-
-
-
-
 
 Appendix C: Developers of Programs Cited in the tilde.town 
 Section
