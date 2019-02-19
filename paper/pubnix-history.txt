@@ -56,10 +56,10 @@ following audiences:
 * People who are already users of public access Unix systems, 
 both experienced and those just getting interested in them,
 
-* Potential users in the form of people who are concerned about 
-issues of privacy, user exploitation, and low quality, 
-sensationalistic content of mainstream media and social media 
-outlets.
+* Potential users in the form of technically-inclined people who 
+are concerned about issues of privacy, user exploitation, and 
+low quality, sensationalistic content of mainstream media and 
+social media outlets.
 
 * People involved in media studies or those concerned with the 
 problems of corporate media in present-day society.
@@ -114,10 +114,10 @@ keypunch, but to encourage close communication."
 Although time-sharing operating systems were initially designed 
 in the early 1960s to solve the problem of efficiently sharing 
 computer resources by multiple users, they were very quickly 
-adapted to become tools for communication among system users. 
+adapted to include tools for communication among system users. 
 CTSS [3], the very first time-sharing system, had by 1965 
 introduced the commands ‘WHO’ to list other users currently 
-connected to the system and ‘MAIL’ to allow users to exchange 
+connected to the system, and ‘MAIL’ to allow users to exchange 
 electronic messages. Public user profiles originated with the 
 ‘FINGER’ command, developed originally on a DEC-10 system in 
 1971 [4] before coming to Unix in 1980. And the first bulletin 
@@ -148,15 +148,15 @@ Computer based social networking outside of research
 institutions first became available to home users during the 
 early 1980's, largely in the form of bulletin board systems 
 (BBSes).  Early BBSes were simple computers (often not Unix) to 
-which users could connect via modem.  These systems rarely had 
-Internet access and users primarily drew from local calling 
-areas because long-distance charges were exceedingly expensive 
-at that time.  The dial-in connection gave users terminal access 
-to the machine and a limited ability to interact through the 
-functions of the BBS software interface.  Processor and modem 
-constraints meant that early interaction among users was mostly 
-limited to simple exchanges of text notes -- literally analogous 
-to a physical bulletin board.
+which users could remotely connect via modem.  These systems 
+rarely had Internet access and users primarily drew from local 
+calling areas because long-distance charges were exceedingly 
+expensive at that time.  The dial-in connection gave users 
+terminal access to the machine and a limited ability to interact 
+with others through the functions of the BBS software interface.  
+Processor and modem constraints meant that early interaction 
+among users was mostly limited to simple exchanges of text notes 
+-- literally analogous to a physical bulletin board.
 
 As an example of modem constraints, the early 1980's Hayes 
 Smartmodem supported 300 bits/sec of data transfer.  The article 
@@ -165,7 +165,7 @@ size.  It would have taken more than 27 minutes to download this
 article.
 
 But despite these limiting factors, being able to interact with 
-others through your home computer was an incredible novelty and 
+others through one's home computer was an incredible novelty and 
 computer-based social networking took off.
 
 The conditions that precipitated BBSes in the early 1980's also 
@@ -273,9 +273,9 @@ variety of other networked resources.  And for another, many new
 social utilities and other programs were added to the Unix 
 environment --IRC, USENET, Gopher, and others.  And of course, 
 in the early 1990's the Linux operating system was developed, 
-and the corresponding explosion of the hobbyist programmer and 
-sysadmin movement drew even more people into running and using 
-Unix-like systems [15].
+and the corresponding explosion of hobbyist programmers and 
+sysadmins drew even more people into running and using Unix-like 
+systems [15].
 
 One of the key technological changes impacting public access 
 Unix systems was an increase in modem speeds.  From the period 
@@ -328,7 +328,7 @@ for new users, and they became early Internet service providers
 into some of the big ISPs today.  And yet others carried on 
 similar to before, but with a more refined sense of purpose.  
 The ones that persisted can be thought of as a second 
-generation.  
+generation.
 
 The first generation public access Unix systems had been largely 
 focused on the novelty and fun of newly accessible 
@@ -347,6 +347,7 @@ These systems were consciously focused on having a positive
 impact on society through the social medium of the Unix system.  
 They saw change on the horizon from the now commercial Internet 
 and knew they had something important to protect from it.  
+
 Still, the overall trend of usage was one of decline and some 
 began to see public access Unix systems as just a quaint, 
 nostalgic reminder of a time gone by [19].
@@ -1350,13 +1351,13 @@ well-informed readers like you.
 If you know of public access Unix systems that are missing from 
 this list. Please contact cmccabe@sdf.org to have them added.
 
-For the time being, the list is being maintained in a Google 
-Sheet (oh, the irony!).  However, note that this Sheet does not 
+For the time being, the list is being maintained in a git repo 
+along with the paper you're reading now.  This repos does not 
 contain all the references I have -- completing this list is 
 phase II, after the main text of the article is stabilized.
 
 You can view the list of systems here:
-https://docs.google.com/spreadsheets/d/1TIXEK_f0RIs14x6c5RVjEY9aYuqJOjvNywJ_p0TQ1Og/edit#gid=1099430226 
+https://github.com/cwmccabe/pubnixhist
 
 Appendix C: Developers of Programs Cited in the tilde.town 
 Section
