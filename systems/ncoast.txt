@@ -1,0 +1,13 @@
+System Name	North Coast Public Access Unix
+UUCP Name(s)	ncoast
+Start Year	1991
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	Xenix/68000
+Web Server  ?
+Hardware	TRS-80 Model 16
+Location	?
+Key Figures	?
+Local Software	?
+Notes	?

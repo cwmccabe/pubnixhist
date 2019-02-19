@@ -1,0 +1,13 @@
+System Name	Simi Valley Public Access Unix System
+UUCP Name(s)	socal
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	AST Model 80, Microport        SV/AT
+Location	Simi Valley, CA
+Key Figures	Kirk Davis
+Local Software	?
+Notes	?

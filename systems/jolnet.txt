@@ -1,0 +1,13 @@
+System Name	Public Access Unix, Joliet
+UUCP Name(s)	jolnet
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	New Lenox, IL
+Key Figures	?
+Local Software	?
+Notes	?

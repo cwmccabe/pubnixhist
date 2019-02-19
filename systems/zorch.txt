@@ -1,0 +1,13 @@
+System Name	Zorch Public Access Unix
+UUCP Name(s)	zorch
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	San Jose, CA
+Key Figures	?
+Local Software	?
+Notes	http://spam.abuse.net/adminhelp/zorch.shtml

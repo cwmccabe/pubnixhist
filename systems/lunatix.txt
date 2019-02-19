@@ -1,0 +1,13 @@
+System Name	Lexington Public Access Unix
+UUCP Name(s)	lunatix	lunix
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Lexington, KY
+Key Figures	?
+Local Software	?
+Notes	?

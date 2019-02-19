@@ -1,0 +1,13 @@
+System Name	Gorn
+UUCP Name(s)	gorn
+Start Year	1988
+Last Seen	1998
+Active?	no
+URL(s)	gorn.santa-cruz.ca.us	gorn.iuma.com	gorn.evolve.com	gorn.chimeinteractive.com
+Operating System(s)	Xenix
+Web Server  ?
+Hardware	?
+Location	Santa Cruz, CA
+Key Figures	Jon R. Luini
+Local Software	?
+Notes	Some history here: http://www.chimeinteractive.com/gorn/

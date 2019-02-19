@@ -1,0 +1,13 @@
+System Name	Castle Public Access Unix
+UUCP Name(s)	
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	castle.org
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Portland, OR
+Key Figures	?
+Local Software	?
+Notes	?

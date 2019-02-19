@@ -1,0 +1,13 @@
+System Name	Deepthought
+UUCP Name(s)	deeptht
+Start Year	?
+Last Seen	?
+Active?	maybe
+URL(s)	http://deepthought.armory.com
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Santa Cruz, CA
+Key Figures	?
+Local Software	?
+Notes	Run out of The Armory, a Santa Cruz, CA "geek house"

@@ -1,0 +1,13 @@
+System Name	KISS Public Access Unix System
+UUCP Name(s)	kiss
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Joliet, Illinois
+Key Figures	Bruce and Tammy Corbett
+Local Software	?
+Notes	?

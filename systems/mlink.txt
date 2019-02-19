@@ -1,0 +1,13 @@
+System Name	mlink, Public Access Unix
+UUCP Name(s)	mlink
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Pompano Beach, FL
+Key Figures	?
+Local Software	?
+Notes	?
