@@ -1,0 +1,13 @@
+System Name	Digital Express Group (DIGEX)
+UUCP Name(s)	digex
+Start Year	1991
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Greenbelt, MD
+Key Figures	?
+Local Software	?
+Notes	https://en.wikipedia.org/wiki/Digex

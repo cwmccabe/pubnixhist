@@ -1,0 +1,13 @@
+System Name	SCHUNIX, Public Access Unix for Worcester County
+UUCP Name(s)	schunix
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Worcester, MA
+Key Figures	?
+Local Software	?
+Notes	?
