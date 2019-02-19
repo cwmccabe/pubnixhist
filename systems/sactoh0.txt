@@ -1,0 +1,13 @@
+System Name	Sacramento Public Access Unix
+UUCP Name(s)	sactoh0
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Sacramento, CA
+Key Figures	?
+Local Software	?
+Notes	?
