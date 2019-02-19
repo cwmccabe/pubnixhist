@@ -1,0 +1,13 @@
+System Name	Grex public access Unix and computer conferencing system
+UUCP Name(s)	grex
+Start Year	1991
+Last Seen	2019
+Active?	yes
+URL(s)	https://www.grex.org
+Operating System(s)	OpenBSD
+Web Server  ?
+Hardware	?
+Location	Ann Arbor, MI
+Key Figures	?
+Local Software	?
+Notes	Successor to M-Net

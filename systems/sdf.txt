@@ -1,0 +1,13 @@
+System Name	Super Dimension Fortress
+UUCP Name(s)	sdf
+Start Year	1987
+Last Seen	2019
+Active?	yes
+URL(s)	https://sdf.org
+Operating System(s)	NetBSD	CentOS
+Web Server  ?
+Hardware	?
+Location	Seattle, WA	Dallas, TX
+Key Figures	Stephen Jones
+Local Software	bboard	com	onliner	notes
+Notes	?

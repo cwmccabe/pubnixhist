@@ -1,0 +1,13 @@
+System Name	Solaria Public Access Unix
+UUCP Name(s)	solaria
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	http://www.sol.net/~jgreco/solaria/index.html
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Milwaukee, WI
+Key Figures	?
+Local Software	?
+Notes	?

@@ -1,0 +1,13 @@
+System Name	Chinet
+UUCP Name(s)	chinet
+Start Year	1982
+Last Seen	2019
+Active?	yes
+URL(s)	http://www.chinet.com
+Operating System(s)	Unix (System III)
+Web Server  ?
+Hardware	Compaq portable
+Location	Chicago, IL
+Key Figures	Randy Suess
+Local Software	?
+Notes	No longer shell-based; now a web forum

@@ -1,0 +1,13 @@
+System Name	PANIX | Public Access Networks Corporation
+UUCP Name(s)	panix
+Start Year	1991
+Last Seen	2019
+Active?	yes
+URL(s)	https://panix.com
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	New York, NY
+Key Figures	?
+Local Software	?
+Notes	Now is a full ISP, successor to Big Electric Cat

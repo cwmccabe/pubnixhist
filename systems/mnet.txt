@@ -1,0 +1,13 @@
+System Name	M-Net
+UUCP Name(s)	m-net
+Start Year	1983
+Last Seen	?
+Active?	no?
+URL(s)	?
+Operating System(s)	System III Unix
+Web Server  ?
+Hardware	Altos 68000
+Location	Ann Arbor, MI
+Key Figures	?
+Local Software	?
+Notes	One of the first public access Unix systems

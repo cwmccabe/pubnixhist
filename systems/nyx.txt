@@ -1,0 +1,13 @@
+System Name	Nyx | Free Public Internet Access
+UUCP Name(s)	nyx
+Start Year	1988
+Last Seen	2019
+Active?	yes
+URL(s)	https://www.nyx.net
+Operating System(s)	Ubuntu
+Web Server  ?
+Hardware	?
+Location	Denver, CO
+Key Figures	Andrew Burt
+Local Software	?
+Notes	?

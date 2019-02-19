@@ -1,0 +1,13 @@
+System Name	ECHO NYC
+UUCP Name(s)	?
+Start Year	1989
+Last Seen	2019
+Active?	yes
+URL(s)	https://echonyc.com
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	New York, NY
+Key Figures	Stacy Horn
+Local Software	?
+Notes	conference oriented, now $15/mo

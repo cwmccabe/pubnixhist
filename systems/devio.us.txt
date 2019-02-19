@@ -1,0 +1,13 @@
+System Name	Devio.us
+UUCP Name(s)	?
+Start Year	2010
+Last Seen	2019
+Active?	yes
+URL(s)	https://devio.us
+Operating System(s)	OpenBSD
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	Free OpenBSD Shell Provider

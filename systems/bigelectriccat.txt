@@ -1,0 +1,13 @@
+System Name	Big Electric Cat
+UUCP Name(s)	?
+Start Year	1987
+Last Seen	1990
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	New York, NY
+Key Figures	Rob Sweeney
+Local Software	?
+Notes	https://en.wikipedia.org/wiki/The_Big_Electric_Cat

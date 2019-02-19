@@ -1,0 +1,13 @@
+System Name	Hashbang
+UUCP Name(s)	?
+Start Year	2003
+Last Seen	2019
+Active?	yes
+URL(s)	https://hashbang.sh
+Operating System(s)	Debian
+Web Server  ?
+Hardware	VPS
+Location	The Cloud
+Key Figures	lrvick
+Local Software	?
+Notes	?
