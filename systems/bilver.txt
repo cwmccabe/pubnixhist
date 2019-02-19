@@ -1,0 +1,13 @@
+System Name	bilver?
+UUCP Name(s)	bilver
+Start Year	1980s
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	Tandy model 16 (68000) 
+Location	Orlando, FL
+Key Figures	Bill Vermillion
+Local Software	?
+Notes	https://tech.slashdot.org/comments.pl?sid=4476&cid=1192829

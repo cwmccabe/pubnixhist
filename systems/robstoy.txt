@@ -1,0 +1,13 @@
+System Name	robstoy
+UUCP Name(s)	robstoy
+Start Year	1980s
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	Ultrix
+Web Server  ?
+Hardware	Microvax
+Location	Orlando, FL
+Key Figures	Rob Talley
+Local Software	?
+Notes	https://tech.slashdot.org/comments.pl?sid=4476&cid=1192829

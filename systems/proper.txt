@@ -1,0 +1,13 @@
+System Name	proper
+UUCP Name(s)	proper
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	"early Unisoft Unix variant"
+Web Server  ?
+Hardware	Dual Systems 68000
+Location	San Leandro, CA
+Key Figures	Lee Kent
+Local Software	?
+Notes

@@ -1,0 +1,13 @@
+System Name	Nixsys Public Access UNIX System
+UUCP Name(s)	?
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	
+Local Software	?
+Notes	https://web.archive.org/web/20170610181849/http://nixsyspaus.org/

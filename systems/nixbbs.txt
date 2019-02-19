@@ -1,0 +1,13 @@
+System Name	NixBBS Public Access UNIX
+UUCP Name(s)	nixbbs
+Start Year	1990's
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Carpinteria, CA
+Key Figures	Donald Burr
+Local Software	?
+Notes

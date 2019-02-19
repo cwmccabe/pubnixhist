@@ -1,0 +1,13 @@
+System Name	Eskimo North
+UUCP Name(s)	eskimo
+Start Year	1980's
+Last Seen	2019
+Active?	yes
+URL(s)	https://www.eskimo.com
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Seattle, WA
+Key Figures	?
+Local Software	?
+Notes	?
