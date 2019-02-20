@@ -1,0 +1,13 @@
+System Name	tilde.center
+UUCP Name(s)	?
+Start Year	?
+Last Seen	2019
+Active?	yes
+URL(s)	https://tilde.center/
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	Austin Ewens (aka aewens)
+Local Software	?
+Notes	a system that will allow maintainers to easily setup and deploy their own ~center servers to join its network
