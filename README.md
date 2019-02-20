@@ -30,6 +30,9 @@ it!  More information can include annecdotes about how the system
 was used, about unique software on the system, or about community 
 culture on the system.
 
+Look at the HOW-YOU-CAN-HELP.md file for more information on how 
+you can contribute.
+
 CONTACT:
 
 cmccabe@sdf.org

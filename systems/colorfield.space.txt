@@ -1,0 +1,13 @@
+System Name	Colorfield Space
+UUCP Name(s)	?
+Start Year	2018
+Last Seen	2019
+Active?	yes
+URL(s)	ssh://colorfield.space
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	sloum
+Local Software	cspc	gab	burrow	colorsh	chalk colorchat	stubb	oberon
+Notes	Runs on a Raspberry Pi zero w
