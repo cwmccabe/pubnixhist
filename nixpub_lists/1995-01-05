@@ -1,0 +1,224 @@
+===============================================================================
+NixPub Short Listing -- January 05, 1995
+Public/Open Access UNIX (*NIX) Sites [both Fee and No Fee]
+===============================================================================
+Sites Listed <156>
+** Sites with multiple locations are only counted once **
+Legend:      $   - Fee                   -$  - No Fee
+             24  - 24 Hours/Day          -24 - Not 24 Hours/Day
+             H   - Courier HST           A   - Anonymous UUCP
+             P   - Telebit PEP           F   - Anonymous FTP
+             V   - V.32[bis]             I   - Live Internet Connection
+             W   - Worldblazer TurboPEP  M   - Electronic Mail
+                                         N   - USENET News
+                                         S   - UNIX Shell
+                                         T   - Multiple Telephone Lines
+
+===============================================================================
+
+Updated                 System                        Speed
+Last  Telephone #       Name       Location           Range     Legend
+----- ----------------- ---------- ------------------ --------- ---------
+
+08/94 201-236-8360      nic        Bergen County   NJ 300-FAST   24 $ IMNSTV
+04/94 201-432-0060      ritz       Jersey City     NJ 300-FAST   24 -$ IMNPSTV
+03/94 201-759-8450      tronsbox   Belleville      NJ 300-FAST   24 -$ MNPST
+04/94 203-230-4848      colmiks    Hamden          CT 2400-FAST  24 $ MNV
+03/93 203-661-1279      admiral    Greenwich       CT 300-FAST   24 -$ AHMNPTV
+03/94 206-367-3837      eskimo     Seattle         WA 300-FAST   24 $ MNSTVW
+03/94 206-382-6245      halcyon    Seattle         WA 300-FAST   24 $ IMNPST
+06/94 206-693-0325      pacifier   Vancouver       WA 300-FAST   24 $ IMNTV
+03/94 206-747-6397      seanews    Redmond         WA 1200-FAST  24 -$ MNV
+03/94 212-420-0527      magpie     NYC             NY 300-FAST   24 -$ APTWV
+03/94 212-675-7059      marob      NYC             NY 300-FAST   24 -$ APT
+03/94 212-787-3100      panix      New York City   NY 1200-FAST  24 $ IMNPSTV
+08/94 212-989-1258      interport  NYC             NY 1200-FAST  24 $ IMNPSTV
+08/94 212-989-4141      mindvox    NYC             NY 1200-FAST  24 $ IMNSTV
+09/93 212-989-8411      echo       NYC             NY 300-FAST   24 $ IMNT
+01/95 213-962-8191      kitana     Los Angeles     CA 300-FAST   24 -$ MNTV
+03/94 214-248-9811      sdf        Dallas          TX 300-FAST   24 -$ AMNPSTV
+03/94 214-705-2901      metronet   Dallas          TX 300-FAST   24 $ IMNSTV
+01/95 215-348-9727      jabber     Doylestown      PA 300-FAST   24 -$ AIMNSTV
+02/94 216-481-9445      wariat     Cleveland       OH 300-FAST   24 $ AMNSV
+03/94 216-582-2460      ncoast     Cleveland       OH 1200-FAST  24 $ MNPST
+03/93 217-789-7888      pallas     Springfield     IL 300-FAST   24 $ HMNSTV
+03/94 301-220-0462      digex      Greenbelt       MD 300-2400   24 $ IMNST
+03/94 303-871-3324      nyx        Denver          CO 300-FAST   24 -$ MNST
+06/94 305-587-1930      satelnet   Fort Lauderdale FL 300-FAST   24 $ INMSTV
+03/94 309-676-0409      hcserv     Peoria          IL 300-FAST   24 $ MNSTV
+11/94 312-248-0900      ddsw1      Chicago         IL 300-FAST   24 $ FIMNPSTV
+03/94 312-282-8606      gagme      Chicago         IL 300-FAST   24 $ IMNPSTV
+03/94 312-283-0559      chinet     Chicago         IL 300-FAST   24 $ HNPT
+02/94 313-623-6309      nucleus    Clarkston       MI 1200-2400  24 -$ AM
+03/93 313-761-3000      grex       Ann Arbor       MI 300-FAST   24 $ MNST
+03/94 313-996-4644      m-net      Ann Arbor       MI 300-2400   24 $ IMST
+03/93 401-455-0347      anomaly    Esmond          RI 300-FAST   24 -$ IMNPS
+02/94 403-569-2882      debug      Calgary         AB 300-FAST   24 $ HMNPTV
+03/94 407-299-3661      vicstoy    Orlando         FL 1200-2400  24 -$ MNS
+11/94 407-324-9964      gator      Orlando         FL 300-FAST  240 -$ MNPTV
+06/94 407-767-2583      stardust   Altamonte Sprin FL 300-FAST   24 -$ MNPT
+03/94 408-241-9760      netcom     San Jose        CA 1200-FAST  24 $ IMNPSTV
+03/94 408-245-7726      uuwest     Sunnyvale       CA 300-FAST   24 -$ N
+03/94 408-249-9630      quack      Santa Clara     CA 300-FAST   24 $ IMNPSTVW
+06/94 408-293-9010      a2i        San Jose        CA 1200-FAST  24 $ IMNPSTV
+04/93 408-423-4810      deeptht    Santa Cruz      CA 300-FAST   24 -$ AMNSTV
+02/94 408-423-9995      cruzio     Santa Cruz      CA 1200-2400  24 $ MNPT
+02/94 408-458-2289      gorn       Santa Cruz      CA 300-FAST   24 -$ MNPST
+03/94 408-725-0561      portal     Cupertino       CA 300-FAST   24 $ IMNSTV
+06/94 408-739-1520      szebra     Sunnyvale       CA 300-FAST   24 -$ MNPTV
+08/94 410-661-2598      wb3ffv     Baltimore       MD 1200-FAST  24 -$ AHMNPTV
+12/93 410-893-4786      magnus1    Belair          MD 300-FAST   24 $ MNSTV
+03/94 412-481-5302      telerama   Pittsburgh      PA 300-FAST   24 $ FIMNST
+05/94 414-241-5469      mixcom     Milwaukee       WI 1200-FAST  24 $ IMNSTV
+03/93 414-321-9287      solaria    Milwaukee       WI 300-2400   24 -$ MNS
+06/93 414-342-4847      solaria    Milwaukee       WI 300-FAST   24 -$ MNSV
+06/93 414-734-2499      edsi       Appleton        WI 300-FAST   24 $ MNT
+03/94 415-332-6106      well       Sausalito       CA 1200-FAST  24 $ IMNST
+03/94 415-949-3133      starnet    Los Altos       CA 300-FAST   24 $ MNPSTV
+03/94 415-967-9443      btr        Mountain View   CA 300-FAST   24 $ HMNPSTV
+03/93 416-249-5366      r-node     Etobicoke       ON 300-FAST   24 -$ MNPSTVW
+03/93 416-461-2608      tmsoft     Toronto         ON 300-FAST   24 $ MNS
+08/94 502-968-5390      iglou      Louisville      KY 300-FAST   24 $ FIMNSTV
+06/94 503-220-1016      teleport   Portland        OR 300-FAST   24 $ IMNPSTV
+11/94 503-227-1704      hevanet    Portland        OR 300-FAST   24 $ IMNSTV
+03/94 503-293-1772      agora      Portland        OR 1200-FAST  24 $ MNSTV
+03/94 503-297-3211      m2xenix    Portland        OR 300-FAST   24 -$ MNPSTV
+03/94 503-632-7891      bucket     Portland        OR 300-FAST   24 -$ IMNPSTV
+08/94 508-664-0149      genesis    North Reading   MA 300-FAST   24 -$ HIMNSTV
+09/93 508-853-0340      schunix    Worcester       MA 2400-FAST  24 $ MNPST
+03/93 510-294-8591      woodowl    Livermore       CA 1200-FAST  24 -$ MNP
+06/94 510-530-9682      bdt        Oakland         CA 1200-FAST  24 $ IMNPTV
+03/94 510-623-8652      jack       Fremont         CA 300-FAST   24 -$ MNPST
+02/94 510-704-1058      HoloNet    Berkeley        CA 1200-FAST  24 $ IMNTV
+03/94 512-346-2339      bigtex     Austin          TX FAST       24 -$ APS
+03/93 513-779-8209      cinnet     Cincinnati      OH 1200-FAST  24 $ MNPS
+05/94 513-887-8855      iac        Cincinnati      OH 300-FAST   24 $ IMNSTV
+03/93 514-435-8896      ichlibix   Blainville Queb CA 300-FAST   24 -$ HTV
+02/94 515-945-7000      cyberspace Jefferson       IA 300-FAST   24 -$ IMNSTV
+06/93 516-586-4743      kilowatt   Deer Park       NY 2400-FAST  24 -$ MNPTV
+03/93 517-789-5175      anubis     Jackson         MI 300-1200   24 -$ M
+03/93 518-346-8033      sixhub     upstate         NY 300-2400   24 $ MNST
+09/93 602-274-9600      indirect   Phoenix         AZ 300-FAST   24 $ IMNSTV
+03/93 602-293-3726      coyote     Tucson          AZ 300-FAST   24 -$ MN+P
+09/93 602-321-9600      indirect   Tucson          AZ 300-FAST   24 $ IMNSTV
+03/94 602-649-9099      telesys    Mesa            AZ 1200-FAST  24 $ AMNPSTVW
+02/94 602-991-5952      aa7bq      Scottsdale      AZ 300-2400   24 -$ MNS
+03/93 603-429-1735      mv         Litchfield      NH 1200-FAST  24 $ IMNPT
+03/93 603-448-5722      tutor      Lebanon         NH 300-FAST   24 -$ MN
+03/93 604-576-1214      mindlink   Vancouver       BC 300-FAST   24 $ HMNPT
+02/94 605-348-2738      loft386    Rapid City      SD 300-FAST   24 $ MNPS
+03/93 606-233-2051      lunatix    Lexington       KY 300-2400   24 -$ MNPST
+03/93 608-246-2701      fullfeed   Madison         WI FAST       24 -$ MNPSTV
+03/93 608-273-2657      madnix     Madison         WI 300-2400   24 -$ MNS
+08/94 609-896-3191      njcc       Lawrenceville   NJ 300-FAST   24 $ IMNSTV
+03/94 610-539-3043      cellar     Trooper/Oaks    PA 300-FAST   24 $ HMNTV
+08/93 612-458-3889      skypoint   Newport         MN 300-FAST   24 $ HMNPSTV
+03/94 612-473-2295      pnet51     Minneapolis     MN 300-2400   24 -$ MNT
+04/93 613-724-9817      latour     Ottawa          ON 300-FAST   24 -$ AMNSTV
+03/93 613-837-3029      micor      Orleans         ON 300-FAST   24 -$ MNPSTV
+03/94 614-868-9980      bluemoon   Reynoldsburg    OH 300-FAST   24 -$ HIMNPT
+03/93 615-288-3957      medsys     Kingsport       TN 1200-FAST  24 -$ ANP
+03/93 616-457-1964      wybbs      Jenison         MI 300-FAST   24 -$ AMNPST
+09/93 617-593-4557      northshore Lynn            MA 300-FAST   24 $ IMNSTV
+03/94 617-739-9753      world      Brookline       MA 300-FAST   24 $ IMNPST
+11/93 619-278-8267      cg57       San Diego       CA 1200-FAST  24 $ MNPTV
+04/94 619-634-1376      cyber      Encinitas       CA 300-FAST   24 -$ HMNTV
+03/94 619-637-3640      crash      San Diego       CA 12-FAST    24 $ FHIMNPSTVW
+03/94 703-281-7997      grebyn     Vienna          VA 300-2400   24 $ MNT
+04/93 703-528-4380      sytex      Arlington       VA 300-FAST   24 $ MNTV
+06/93 703-551-0095      ukelele    Woodbridge      VA 300-FAST   24 $ MNSTV
+08/94 703-720-4144      unx        Fredericksburg  VA 300-FAST   24 $ MNSTV
+03/94 703-803-0391      tnc        Fairfax Station VA 300-FAST   24 -$ MNPT
+08/94 707-444-6614      northcoast Eureka          CA 300-FAST   24 $ IMNSTV
+03/94 708-367-1871      sashimi    Vernon Hills    IL 300-FAST   24 $ IMNSTV
+03/93 708-425-8739      oaknet     Oak Lawn        IL 300-FAST   24 -$ MN
+03/94 708-833-8126      vpnet      Villa Park      IL 1200-FAST  24 -$ MNPST
+03/93 708-879-8633      unixuser   Batavia         IL 300-FAST   24 -$ MNSV
+03/93 708-983-5147      wa9aek     Lisle           IL 1200-FAST  24 -$ PTV
+03/94 713-480-2686      blkbox     Houston         TX 300-FAST   24 $ IMNTV
+03/94 713-668-7176      nuchat     Houston         TX 300-FAST   24 $ IMNPST
+08/94 713-684-5900      neosoft    Houston         TX 300-FAST   24 $ FIMNPSTVW
+03/94 714-635-2863      dhw68k     Anaheim         CA 1200-FAST  24 -$ MNPST
+03/94 714-842-5851      conexch    Santa Ana       CA 300-2400   24 $ AMNS
+03/94 714-894-2246      stanton    Irvine          CA 300-2400   24 $ MNS
+03/93 716-634-6552      exuco1     Buffalo         NY 300-FAST  -24 -$ MNPTV
+04/94 718-252-6720      intercom   New York        NY 300-FAST   24 $ IMNSTV
+04/93 718-729-5018      dorsai     NYC             NY 300-FAST   24 $ IMNTV
+05/94 719-520-1700      cns        Colorado Spring CO 300-2400   24 $ IMNST
+01/95 719-548-0782      alphacm    Colorado Spring CO 1200-FAST  24 -$ APT
+05/94 719-632-4111      oldcolo    Colorado Spring CO 1200-FAST  24 $ HMNT
+01/94 801-539-0900      xmission   Salt Lake City  UT 300-FAST   24 $ FIMNSTV
+06/94 803-271-0688      melanie    Greenville      SC 2400-FAST  24 $ AMNPTV
+04/93 804-627-1828      wyvern     Norfolk         VA 1200-FAST  24 -$ IMNSTV
+03/93 812-333-0450      sir-alan   Bloomington     IN 1200-FAST  24 -$ AHMPTV
+05/94 812-476-7564      aquila     Evansville      IN 2400-FAST  24 $ AMNV
+03/93 814-353-0566      cpumagic   Bellefonte      PA 1200-FAST  24 -$ AHMNV
+11/93 815-874-3998      maynard    Rockford        IL 300-FAST   24 $ MNSV
+11/94 818-287-5115      abode      El Monte        CA 2400-FAST  24 $ MNPS
+03/94 818-367-2142      quake      Sylmar          CA 300-FAST   24 $ MNPTVW
+08/94 818-997-7500      amazing    Los Angeles     CA 300-FAST   24 -$ IMNTV
+06/93 900-468-7727      uunet      Falls Church    VA 300-FAST   24 $ AIMNPTVW
+03/93 904-456-2003      amaranth   Pensacola       FL 1200-FAST  24 -$ MNP
+03/93 906-228-4399      lopez      Marquette       MI 1200-2400  24 $ MN
+08/93 908-937-9481      digex      New Brunswick   NJ 300-FAST   24 $ IMNSTV
+03/94 916-649-0161      sactoh0    Sacramento      CA 1200-FAST  24 $ MNPSTV
+02/94 916-923-5013      rgm        Sacramento      CA 1200-FAST  24 $ HMNS
+03/94 919-248-1177      rock       RTP             NC 300-FAST   24 $ IMNT
+11/93 +31-1720-42580    mugnet     Alphen a/d Rijn NL 300-FAST   24 -$ MNPSTV
+04/93 +358-0-455-8331   clinet     Espoo           FI 300-FAST   24 $ MNSTV
+09/93 +39-541-27135     nervous    Rimini (Fo)     IT 300-FAST   24 -$ HNPV
+08/94 +41-38-414081     alphanet   Colombier       NE 300-FAST   24 -$ MNTV
+04/93 +41-61-8115492    ixgch      Kaiseraugst     CH 300-FAST   24 -$ HMNV
+04/93 +44-734-34-00-55  infocom    Berkshire       UK 300-FAST   24 -$ AMNPTV
+03/94 +44 81 244 6677   ExNet      London          UK 300-2400   24 $ MN
+08/93 +44-81-317-2222   dircon     London          UK 300-FAST   24 $ IMNST
+12/93 +44-81-863-6646   ibmpcug    London          UK 300-FAST   24 $ IMSTV
+12/93 +44-81-863-6646   WinNET     London          UK 300-FAST   24 $ IMSTV
+11/94 +49-30-694-60-55  uropax     Berlin          DE 300-FAST   24 -$ AHIS
+02/94 +49-40-4915655    isys-hh    Hamburg         DE 300-FAST   24 $ AMNSTV
+04/93 +49-69-308265     odbffm     Frankfurt/Main  DE 300-FAST   24 -$ MNSV
+06/94 +61-2-837-1183    kralizec   Sydney          AU 1200-FAST  24 $ IMNST
+04/93 +64-4-389-5478    actrix     Wellington      NZ 300-FAST   24 $ HMNST
+===============================================================================
+
+===============================================================================
+NOTES: 1) The information in this document is kept as current as possible ...
+          however, you use this data at your own risk and cost.
+       2) Additions, updates and deletions requests should be directed to
+          'ph...@bts.com'.
+===============================================================================
+Lists are available via any of the following:
+      o  Anonymous uucp from jabber.
+            +1 215 348 9727 [Telebit access]
+            login: nuucp  NO PWD   [no rmail permitted]
+            long list: /usr/spool/uucppublic/nixpub.long
+            short list: /usr/spool/uucppublic/nixpub.short
+            (also available from the "*NIX Depot" BBS)
+      o  Mail server on jabber
+            mail to mail-...@bts.com
+            body containing:
+               get PUB nixpub.long
+            or
+               get PUB nixpub.short
+      o  The nixpub-list electronic mailing list.  To subscribe to
+         the list:
+            mail to mail-...@bts.com
+            body containing:
+               subscribe NIXPUB-LIST Your Name
+      o  USENET, regular posts to:
+            alt.bbs
+            comp.bbs.misc
+            comp.misc
+===============================================================================
+The ``nixpub'' listings are (C) Copyright 1993-95, Bux Technical Services.
+This publication is released for unlimited redistribution over any
+electronic media providing it remains in its original form.  Publishing,
+removing this copyright notice, or in any way revising this document's
+contents is forbidden without written consent from the owner.
+===============================================================================
+--
+ ======================================================================
+|  Phil Eschallier          |    Bux Technical Services                |
+|  ph...@bts.com    or       |    P.O. Box 110 / Doylestown, PA  18901  |
+|  ...!dsinc!jabber!phil    |    (215) 348-9721 / Fax (215) 348-2567   |
+ ======================================================================
