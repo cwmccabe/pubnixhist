@@ -1,0 +1,13 @@
+System Name	tilde.institute
+UUCP Name(s)	?
+Start Year	2018
+Last Seen	2019
+Active?	yes
+URL(s)	https://tilde.institute
+Operating System(s)	FreeBSD
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	Ben Morrison (ahriman)
+Local Software	?
+Notes	tilde institute for openbsd education

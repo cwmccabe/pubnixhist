@@ -1,0 +1,13 @@
+System Name	Polar Home
+UUCP Name(s)	?
+Start Year	?
+Last Seen	2019
+Active?	yes
+URL(s)	http://polarhome.com
+Operating System(s)	different flavours of Linux	MacOS X	OpenVMS	Solaris	OpenIndiana	AIX	QNX	IRIX	HP-UX	Tru64	SCO OpenServer	UnixWare	FreeBSD	OpenBSD	NetBSD	DragonFly/BSD	MirBSD	Ultrix	Minix	GNU Hurd	Syllable	OPENSTEP
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	a non commercial, educational effort for popularization of shell enabled operating systems and Internet services

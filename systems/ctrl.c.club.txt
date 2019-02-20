@@ -1,0 +1,13 @@
+System Name	ctrl-c club
+UUCP Name(s)	?
+Start Year	?
+Last Seen	2019
+Active?	yes
+URL(s)	https://ctrl-c.club
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	Eric Budd
+Local Software	?
+Notes	?

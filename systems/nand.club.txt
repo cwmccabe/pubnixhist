@@ -1,0 +1,13 @@
+System Name	nand.club
+UUCP Name(s)	?
+Start Year	?
+Last Seen	2019
+Active?	yes
+URL(s)	https://nand.club
+Operating System(s)	Ubuntu
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	vidak	phreaker
+Local Software	?
+Notes	?

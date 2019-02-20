@@ -1,0 +1,13 @@
+System Name	circumlunar.space
+UUCP Name(s)	?
+Start Year	2018
+Last Seen	2019
+Active?	yes
+URL(s)	http://circumlunar.space
+Operating System(s)	Debian
+Web Server  ?
+Hardware	VPS
+Location	?
+Key Figures	solderpunk	slugmax	yargo
+Local Software	telem	fellowsh	schat	lander
+Notes	circumlunar.space is a set of federated servers, including zaibatsu, republic, dome and others. most servers are loosely themed in the spirit of bruce stirling's schismatrix plus.

@@ -1,0 +1,13 @@
+System Name	Skylab
+UUCP Name(s)	?
+Start Year	1997
+Last Seen	2019
+Active?	yes
+URL(s)	http://skylab.org
+Operating System(s)	FreeBSD
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	?

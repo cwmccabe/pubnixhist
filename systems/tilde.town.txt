@@ -1,0 +1,13 @@
+System Name	tilde.town
+UUCP Name(s)	?
+Start Year	2014
+Last Seen	2019
+Active?	no
+URL(s)	https://tilde.town
+Operating System(s)	Ubuntu
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	vilibm
+Local Software	feels	bbj	cadstre	botany
+Notes	?

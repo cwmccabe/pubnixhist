@@ -1,0 +1,13 @@
+System Name	Squiggle City
+UUCP Name(s)	?
+Start Year	?
+Last Seen	2019
+Active?	yes
+URL(s)	https://squiggle.city
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	brennen
+Local Software	?
+Notes	a server for people to get started learning about the command line and how to make webpages

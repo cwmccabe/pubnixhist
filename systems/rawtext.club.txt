@@ -1,0 +1,13 @@
+System Name	rawtext.club
+UUCP Name(s)	?
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://rawtext.club
+Operating System(s)	Debian
+Web Server  ?
+Hardware	VPS
+Location	?
+Key Figures	cmccabe
+Local Software	linkulator
+Notes	a slow-movement pubnix for individuals interested in the role of non-commercial internet in modern society

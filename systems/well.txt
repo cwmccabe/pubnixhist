@@ -1,0 +1,13 @@
+System Name	The WELL
+UUCP Name(s)	well
+Start Year	1985
+Last Seen	2019
+Active?	yes
+URL(s)	https://www.well.com
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Sausalito, CA
+Key Figures	?
+Local Software	?
+Notes	?

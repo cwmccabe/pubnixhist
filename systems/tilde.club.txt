@@ -1,0 +1,13 @@
+System Name	tilde.club
+UUCP Name(s)	?
+Start Year	2014
+Last Seen	?
+Active?	no
+URL(s)	http://tilde.club
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	Paul Ford
+Local Software	?
+Notes	?

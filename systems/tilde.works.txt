@@ -1,0 +1,13 @@
+System Name	tilde.works
+UUCP Name(s)	?
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	http://tilde.works
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	?
