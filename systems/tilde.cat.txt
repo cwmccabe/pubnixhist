@@ -1,0 +1,13 @@
+System Name	tilde.cat
+UUCP Name(s)	?
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	https://tilde.cat
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	?

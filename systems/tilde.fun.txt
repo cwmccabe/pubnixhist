@@ -1,0 +1,13 @@
+System Name	tilde.fun
+UUCP Name(s)	?
+Start Year	?
+Last Seen	?
+Active?	no
+URL(s)	http://tilde.fun
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	?

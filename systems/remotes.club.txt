@@ -1,0 +1,13 @@
+System Name	remotes.club
+UUCP Name(s)	?
+Start Year	2014
+Last Seen	2019
+Active?	yes
+URL(s)	http://remotes.club
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	Rasmus Lerdorf
+Local Software	?
+Notes	A home for remote workers.

@@ -1,0 +1,13 @@
+System Name	Cosmic Voyage
+UUCP Name(s)	?
+Start Year	2018
+Last Seen	2019
+Active?	yes
+URL(s)	https://cosmic.voyage
+Operating System(s)	Ubuntu
+Web Server  ?
+Hardware	?
+Location	?
+Key Figures	James Tomasino (tomasino)
+Local Software	?
+Notes	a tilde community revolving around a collaborative, participatory sci-fi universe
