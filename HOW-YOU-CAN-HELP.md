@@ -6,8 +6,7 @@ HOW YOU CAN HELP
 This information about the history of public access Unix systems 
 (pubnixes) is maintained in a git repo.  This means that you can 
 clone the repo, add or improve content, and submit a pull 
-request to get it back into the main repo.  This relies on the 
-same collaborative spirit found in modern pubbnixes.
+request to get your contributions back into the main repo.
 
 You can help by improving the information or supporting tools 
 and documentation any way you know how.  Specifically, some
@@ -22,7 +21,7 @@ gleaned from these and transferred to the individual system
 records in the 'systems' directory.
 
 * Add information you know about any of the historical systems.  
-Were you a user? Were you a sysadmin? Or have you found 
+Were you a user? Were you a sysadmin? Or have you found other 
 references to these systems with more information?
 
 CONTACT:
