@@ -6,8 +6,8 @@ Active?	yes
 URL(s)	https://tilde.team	https://bsd.tilde.team
 Operating System(s)	Ubuntu	FreeBSD
 Web Server  https://tilde.team
-Hardware	VPS
-Location	The Cloud (tm)
+Hardware	dedicated server and VPS
+Location	cloud
 Key Figures	Ben Haris	khuxkm	cmccabe
 Local Software	?
 Notes	tilde.team is ~ben's creation and one of the key members of the Tildeverse
