@@ -22,6 +22,34 @@ a public request for help from those of you who know bits of the
 history.
 
 
+REPO STRUCTURE
+
+This repo was established with the assumption that people would 
+be exploring and contributing to it via the command line.  It 
+would be great if someone wanted to develop a gopher or www 
+front-end for it though.  The following describes the directory 
+stucture of the repo:
+
+nixpub_lists - These are old files that were shared on USENET in 
+the 1980's and 1990's with information about public access Unix 
+systems.  Thank you to Phil Eschallier for so much work on 
+these, and for helping me (cmccabe) to understand some of the 
+surrounding history.
+
+paper - This is a paper cmccabe wrote about the history of 
+public access unix systems.  it is open for contributions.  you 
+may also add your own papers to this directory if you've written 
+other topics on this history.
+
+scripts - A directory for scripts that may be used to browse, 
+analyze or otherwise interact with the data in this repo.
+
+systems - A file-based list of public access unix systems. This 
+is the main goal of the repo -- trying to collect information on 
+as many historical pubnixes as possible.  Most crowdsourced 
+contributions to this repo will occur here.
+
+
 HOW YOU CAN CONTRIBUTE: 
 
 If you know of systems that aren't yet here, please add them!  And 
@@ -33,8 +61,9 @@ culture on the system.
 Look at the HOW-YOU-CAN-HELP.md file for more information on how 
 you can contribute.
 
+
 CONTACT:
 
 cmccabe@sdf.org
-or 
+  or 
 gauntlet@ctrl-c.club
