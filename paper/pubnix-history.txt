@@ -232,12 +232,13 @@ There was wide diversity among these early public access Unix
 systems, from small-scale hobby projects that attracted a 
 scattering of local users, to heavily used conferencing forums.  
 M-Net, for example, was quite popular, with around 25,000 users 
-at one point.  By the late 1980's some cities had access to a 
-Telenet service called PC Pursuit [12] that allowed users to 
-dial into a local number and get access to systems in more than 
-20 other end-point cities across the United States.  This 
-allowed some systems to cultivate user bases from a much broader 
-area.  
+at one point.
+
+By the late 1980's some cities had access to a Telenet service 
+called PC Pursuit [12] that allowed users to dial into a local 
+number and get access to systems in more than 20 other end-point 
+cities across the United States.  This allowed some systems to 
+cultivate user bases from a much broader area.
 
 Public access Unix systems were similar to BBSes in their use 
 for text-based conferencing and file sharing, but Unix offered 
@@ -343,10 +344,11 @@ enrichment, promoting a better-informed citizenry,
 collaboration, non-commercialism, choice, privacy, cultural 
 enrichment, scientific research.
 
-These systems were consciously focused on having a positive 
-impact on society through the social medium of the Unix system.  
-They saw change on the horizon from the now commercial Internet 
-and knew they had something important to protect from it.  
+Some of these systems were consciously focused on having a 
+positive impact on society through the social medium of the Unix 
+system.  They saw change on the horizon from the now commercial 
+Internet and knew they had something important to protect from 
+it.
 
 Still, the overall trend of usage was one of decline and some 
 began to see public access Unix systems as just a quaint, 
@@ -354,9 +356,9 @@ nostalgic reminder of a time gone by [19].
 
 Current State
 
-In 2014, a funny thing happened.  As Facebook soared past 1.5 
-billion users, and snatched up Whatsapp for $19 billion; as the 
-world reeled in Edward Snowden's revelations about the U.S. 
+In 2014, the downward trend changed.  As Facebook soared past 
+1.5 billion users, and snatched up Whatsapp for $19 billion; as 
+the world reeled in Edward Snowden's revelations about the U.S. 
 surveillance apparatus; and as remaining public access Unix 
 systems continued to see flat or declining usage; a person by 
 the name of Paul Ford [20] (then of ftrain.com blog notoriety) 
@@ -420,23 +422,22 @@ and enthusiasts chat, interact, and network around shared
 interests.
 
 Meanwhile, over at SDF.org there continue to be thousands of 
-logins a day.  Captained by sysadmin Stephen Jones (smj), SDF 
-has developed into a fully articulated social community, with 
-free and paid membership tiers that provide varying levels of 
-system access.  It supports numerous ways for users to interact, 
-including IRC, an old school bulletin board program called 
-'bboard', and a multi-room chat program called 'commode'; among 
-great but lesser known utilities like 'oneliner' and an 
-anonymous blogging tool called 'happening'. It also hosts 
-several special interest groups including a ham radio users 
-group (SDFARC), a python study group, a group of gopher protocol 
-enthusiasts, a crowd of Minecraft players, and a user-driven 
-Internet radio service ("anonradio") on which any user can sign 
-up to broadcast their own shows.  Among the system's users are 
-digital artists, computer historians, web developers, gamers, 
-and of course many, many programmers.  All experience levels are 
-represented, from young learners to veterans and computer 
-science professors.
+logins a day.  SDF has developed into a fully articulated social 
+community, with free and paid membership tiers that provide 
+varying levels of system access.  It supports numerous ways for 
+users to interact, including IRC, an old school bulletin board 
+program called 'bboard', and a multi-room chat program called 
+'commode'; among great but lesser known utilities like 
+'oneliner' and an anonymous blogging tool called 'happening'. It 
+also hosts several special interest groups including a ham radio 
+users group (SDFARC), a python study group, a group of gopher 
+protocol enthusiasts, a crowd of Minecraft players, and a 
+user-driven Internet radio service ("anonradio") on which any 
+user can sign up to broadcast their own shows.  Among the 
+system's users are digital artists, computer historians, web 
+developers, gamers, and of course many, many programmers.  All 
+experience levels are represented, from young learners to 
+veterans and computer science professors.
 
 One aspect that is fairly unique to SDF.org is its large number 
 of users with a passion for retro computing and 
@@ -539,37 +540,12 @@ to use, and extremely powerful; but the learning curve is a
 barrier to entry that weeds out users who aren't willing to put 
 effort into their engagement with the system.
 
-In addition to the rite of passage of the Unix learning curve, 
-this article also argues that the Unix philosophy [30] itself 
-provides a perspective that helps a thinking person cut through 
-the "fake news" and propaganda of mainstream media.  This 
-philosophy is often stated something like "create small, simple 
-tools that do one thing, and do it well."  Or, put another way, 
-use the KISS principle -- Keep It Simple, Stupid.  This approach 
-is focused on software or system design, but can also be used to 
-analyze these things.  By breaking a subject down into component 
-parts, complexity can be made analytically tractable and logical 
-inconsistencies can be more easily called out.
-
-But why might this perspective extend beyond software?  Just as 
-any form of habit can be developed through repetitive action, 
-regular practice of building and analyzing software in line with 
-the Unix philosophy builds mental habits too, specifically 
-always desiring to clearly understand how something works rather 
-than passively accepting a hand-waving explanation about it.  
-Analytical thought habituated on this philosophy might also 
-yield a healthy skepticism when faced with the red, blinking 
-headlines from foxnews.com or cnn.com, or the sourceless 
-comments floating through Facebook and Twitter.  Put crudely, 
-programming the Unix way has a side effect of giving you a good 
-BS detector.
-
 So this effortful medium shapes its own use in a few ways. For 
 one, it weeds out low-effort participation.  For two, it pushes 
-its users to practice an analytical, skeptical mindset.    And 
-for three, it provides learned users with a diverse palette of 
-tools and utilities for collaboratively building and sharing 
-creative output.
+its users to practice an analytical, nuts and bolts mindset 
+[30].  And for three, it provides learned users with a diverse 
+palette of tools and utilities for collaboratively building and 
+sharing creative output.
 
 The Future of Public Access Unix Systems
 

@@ -4,7 +4,7 @@ Start Year	2014
 Last Seen	?
 Active?	no
 URL(s)	http://tilde.club
-Operating System(s)	?
+Operating System(s)	Fedora
 Web Server  ?
 Hardware	?
 Location	?
