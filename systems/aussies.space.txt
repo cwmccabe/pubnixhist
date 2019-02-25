@@ -1,0 +1,13 @@
+System Name	aussietilde
+UUCP Name(s)	?
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://aussies.space/
+Operating System(s)	?
+Web Server  ?
+Hardware	?
+Location	Australia
+Key Figures	fosslinux
+Local Software	?
+Notes	?

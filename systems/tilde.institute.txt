@@ -4,7 +4,7 @@ Start Year	2018
 Last Seen	2019
 Active?	yes
 URL(s)	https://tilde.institute
-Operating System(s)	FreeBSD
+Operating System(s)	OpenBSD
 Web Server  ?
 Hardware	?
 Location	?
