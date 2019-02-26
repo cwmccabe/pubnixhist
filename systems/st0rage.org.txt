@@ -1,0 +1,13 @@
+System Name	St0rage.org
+UUCP Name(s)	?
+Start Year	?
+Last Seen	2019
+Active?	yes
+URL(s)	https://st0rage.org/
+Operating System(s)	Debian
+Web Server  Apache
+Hardware	?
+Location	?
+Key Figures	?
+Local Software	?
+Notes	Related blog: https://linuxadministration.us/?cat=21
