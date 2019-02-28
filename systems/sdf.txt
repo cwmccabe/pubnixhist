@@ -8,6 +8,6 @@ Operating System(s)	NetBSD	CentOS
 Web Server  ?
 Hardware	?
 Location	Seattle, WA	Dallas, TX
-Key Figures	Stephen Jones
+Key Figures	Stephen Jones (smj)	Ted Uhlemann (iczer)
 Local Software	bboard	com	onliner	notes
 Notes	?
