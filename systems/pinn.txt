@@ -1,0 +1,13 @@
+System Name	pinn
+UUCP Name(s)	pinn
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Microport  SYS V
+Web Server
+Hardware	IBM AT
+Location	Ft. Lauderdale, FL
+Key Figures
+Local Software
+Notes	MAGIC BBS

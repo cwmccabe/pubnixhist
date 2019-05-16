@@ -1,0 +1,13 @@
+System Name	slacbbs
+UUCP Name(s)	slacbbs
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO XENIX
+Web Server
+Hardware	286
+Location	St. Louis, MO
+Key Figures
+Local Software
+Notes	"bbs, shell access to qualified REGULAR users"

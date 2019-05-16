@@ -1,0 +1,13 @@
+System Name	cguild
+UUCP Name(s)	cguild
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX V2.2.1
+Web Server
+Hardware	286
+Location	Bloomington, IN
+Key Figures
+Local Software
+Notes	xbbs

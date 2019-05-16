@@ -1,0 +1,13 @@
+System Name	herky
+UUCP Name(s)	herky
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO Xenix
+Web Server
+Hardware	386
+Location	Illinois
+Key Figures
+Local Software
+Notes	XBBS

@@ -1,0 +1,13 @@
+System Name	netsys
+UUCP Name(s)	netsys
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX SYSV 3.1
+Web Server
+Hardware	ATT 3B2/300
+Location	Germantown, MD
+Key Figures
+Local Software
+Notes

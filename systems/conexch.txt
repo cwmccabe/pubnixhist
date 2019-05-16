@@ -1,0 +1,13 @@
+System Name	conexch
+UUCP Name(s)	conexch
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	XENIX
+Web Server
+Hardware
+Location	Santa Anna, CA
+Key Figures
+Local Software
+Notes

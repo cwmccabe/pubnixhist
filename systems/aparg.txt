@@ -1,0 +1,13 @@
+System Name	aparg
+UUCP Name(s)	aparg
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX 2.21
+Web Server
+Hardware	286
+Location	Warwick, NY
+Key Figures
+Local Software
+Notes	xbbs
