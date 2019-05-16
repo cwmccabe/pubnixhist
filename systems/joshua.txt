@@ -1,0 +1,13 @@
+System Name	joshua
+UUCP Name(s)	joshua
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO 386 UNIX
+Web Server
+Hardware	Tandy 4000
+Location	Desoto, TX	Dallas, TX
+Key Figures
+Local Software
+Notes	"news, conference, downloads, free access, xbbs"
