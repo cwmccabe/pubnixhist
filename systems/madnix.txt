@@ -1,0 +1,13 @@
+System Name	madnix
+UUCP Name(s)	madnix
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX
+Web Server
+Hardware	286
+Location	Madison, WI
+Key Figures
+Local Software
+Notes	shell, no fee, USENET news, mail

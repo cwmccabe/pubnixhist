@@ -1,0 +1,13 @@
+System Name	pnet01
+UUCP Name(s)	pnet01
+Start Year	before 1988
+Last Seen	
+Active?
+URL(s)
+Operating System(s)	BSD Unix
+Web Server
+Hardware
+Location	Redondo Beach, CA
+Key Figures
+Local Software	Home of P-Net Software
+Notes	some USENET, email, conferencing, "Unix accounts available for regulars"

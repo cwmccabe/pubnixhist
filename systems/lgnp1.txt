@@ -1,0 +1,15 @@
+System Name	lgnp1
+UUCP Name(s)	lgnp1
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX
+Web Server
+Hardware	80286
+Location	Norriston, PA
+Key Figures	Phil Eschallier, Lagniappe Systems
+Local Software
+Notes	Limited number of shell accounts, currently no charges.
+  Services include E-mail, USENET, PD downloads, UNIX Software 
+  development and Text Processing tools."

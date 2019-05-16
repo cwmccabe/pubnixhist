@@ -6,8 +6,8 @@ Active?	yes
 URL(s)	https://ctrl-c.club
 Operating System(s)	?
 Web Server  ?
-Hardware	?
+Hardware	Digital Ocean VPS
 Location	?
 Key Figures	Eric Budd
 Local Software	?
-Notes	?
+Notes	Ctrl-C Club is a Linux server offering free SSH and web accounts to users who want to build webpages, chat online, learn Linux, play text console games, or fiddle around writing software.

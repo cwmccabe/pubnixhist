@@ -1,0 +1,13 @@
+System Name	portal
+UUCP Name(s)	portal
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SunOS
+Web Server
+Hardware
+Location	Cupertino, CA
+Key Figures
+Local Software
+Notes	multi-user chats; usenet; no shell access

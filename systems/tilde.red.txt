@@ -1,0 +1,13 @@
+System Name	tilde.red
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://tilde.red/
+Operating System(s)
+Web Server	https://tilde.red/
+Hardware
+Location
+Key Figures
+Local Software
+Notes	"a place for those who believe in equality for all, regardless of class membership."

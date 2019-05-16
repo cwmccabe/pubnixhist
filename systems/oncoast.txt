@@ -1,0 +1,13 @@
+System Name	oncoast
+UUCP Name(s)	oncoast
+Start Year	before 1988
+Last Seen	?
+Active?	no
+URL(s)	?
+Operating System(s)	?
+Web Server  ?
+Hardware	Tandy 12/6000
+Location	Meadville, PA
+Key Figures	?
+Local Software	?
+Notes	related to other pubnix, sir-alan: "New stuff on sir-alan, older on oncoast"

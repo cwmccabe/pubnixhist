@@ -5,7 +5,8 @@ Last Seen	2019
 Active?	yes
 URL(s)	https://rawtext.club
 Operating System(s)	Debian
-Web Server  ?
+Web Server  https://rawtext.club
+Gopher Server gopher://rawtext.club
 Hardware	VPS
 Location	?
 Key Figures	cmccabe

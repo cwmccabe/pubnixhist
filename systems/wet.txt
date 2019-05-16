@@ -1,0 +1,13 @@
+System Name	wet
+UUCP Name(s)	wet
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYS V.3
+Web Server
+Hardware	386
+Location	San Francisco, CA
+Key Figures	Chris Cilley
+Local Software
+Notes	uucp, PicoSpan bbs, games, multiple lines, games, shell access, email, multi-user chat/party.

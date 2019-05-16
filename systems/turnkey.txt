@@ -1,0 +1,13 @@
+System Name	turnkey.txt
+UUCP Name(s)	turnkey.txt
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix SYSV
+Web Server
+Hardware	286
+Location	Southern California
+Key Figures
+Local Software
+Notes

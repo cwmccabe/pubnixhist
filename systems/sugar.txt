@@ -1,0 +1,13 @@
+System Name	sugar
+UUCP Name(s)	sugar
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Microport SYS V
+Web Server
+Hardware	386/AT
+Location	Houston, TX
+Key Figures
+Local Software	homegrown bbs software
+Notes

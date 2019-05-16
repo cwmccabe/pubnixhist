@@ -1,0 +1,13 @@
+System Name	rpp386
+UUCP Name(s)	rpp386
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYS V
+Web Server
+Hardware
+Location	Dallas, TX
+Key Figures
+Local Software
+Notes

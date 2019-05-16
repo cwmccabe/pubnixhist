@@ -1,0 +1,13 @@
+System Name	igloo
+UUCP Name(s)	igloo
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	PC clone/microport
+Web Server
+Hardware
+Location	Northbrook, IL
+Key Figures
+Local Software
+Notes

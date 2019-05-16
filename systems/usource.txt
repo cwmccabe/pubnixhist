@@ -1,0 +1,14 @@
+System Name	usource
+UUCP Name(s)	usource
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO XENIX
+Web Server
+Hardware	386
+Location	Sarasota, FL
+Key Figures
+Local Software
+Notes	"fee depends on services provided, no fee for bbs.
+  Primary purpose is technical forum."

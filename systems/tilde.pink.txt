@@ -1,0 +1,14 @@
+System Name	tilde.pink
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	gopher://tilde.pink/	dpink573wk3qkz7.onion
+Operating System(s)	DragonflyBSD
+Web Server	http://rosa.tilde.pink
+Gopher Server	gopher://tilde.tink
+Hardware
+Location
+Key Figures	tiwesdaeg
+Local Software
+Notes	"way cooler than tilde.black"

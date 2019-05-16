@@ -1,0 +1,13 @@
+System Name	nwnexus
+UUCP Name(s)	nwnexux
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	BSD 4.3
+Web Server
+Hardware	VAX 11/750
+Location	Seattle, WA
+Key Figures
+Local Software
+Notes	"PC-pursuitable, Usenet mail/news, carry alternate newsgroups."

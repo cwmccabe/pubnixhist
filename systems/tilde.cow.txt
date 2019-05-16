@@ -1,0 +1,13 @@
+System Name	tilde.cow
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	http://www.tildecow.com/
+Operating System(s)
+Web Server	http://www.tildecow.com/
+Hardware
+Location
+Key Figures
+Local Software
+Notes

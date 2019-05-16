@@ -1,0 +1,13 @@
+System Name	netcom
+UUCP Name(s)	netcom
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Unix System V
+Web Server
+Hardware
+Location
+Key Figures
+Local Software
+Notes	"Shell Access [Bourne, Korn, C-Shell], BBS, USENET, Languages: C, Lisp, Prolog, Clips"

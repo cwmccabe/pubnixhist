@@ -1,0 +1,15 @@
+System Name	grebyn
+UUCP Name(s)	grebyn
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Ultrix
+Web Server
+Hardware	VAX
+Location	Vienna, VA
+Key Figures
+Local Software
+Notes	"GNU EMACS, USENET, PC/BLUE archives, Telebit on 7998
+  and 7999, archives, Ada repository, comp.sources.(misc,unix,games) archives, 
+  net.sources archives, 3 C compilers, Ada compiler,  500MB disk"

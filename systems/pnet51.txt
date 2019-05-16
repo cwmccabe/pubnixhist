@@ -1,0 +1,13 @@
+System Name	pnet51
+UUCP Name(s)	pnet51
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix
+Web Server
+Hardware
+Location	Minneapolis, MN
+Key Figures
+Local Software
+Notes	"some Usenet news, email, multi-threaded conferencing"

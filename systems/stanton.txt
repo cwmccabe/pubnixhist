@@ -1,0 +1,15 @@
+System Name	stanton
+UUCP Name(s)	stanton
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO Xenix
+Web Server
+Hardware	286
+Location	Irvine, CA
+Key Figures
+Local Software
+Notes	"limit 240 min, XBBS, USENET news
+  UNIX access granted on request through BBS, 20$/year, access includes
+  C development system (XENIX/MSDOS), PROCALC 1-2-3 clone, FOXBASE+"

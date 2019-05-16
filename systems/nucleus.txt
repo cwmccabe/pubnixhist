@@ -1,0 +1,13 @@
+System Name	nucleus
+UUCP Name(s)	nucleus
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX SYS V
+Web Server
+Hardware
+Location	Clarkston, MI
+Key Figures
+Local Software
+Notes

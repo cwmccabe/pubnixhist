@@ -1,0 +1,13 @@
+System Name	amazing
+UUCP Name(s)	amazing
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Microport (see https://en.wikipedia.org/wiki/Microport_(software))
+Web Server
+Hardware
+Location	Pacific Palisades, CA
+Key Figures
+Local Software
+Notes

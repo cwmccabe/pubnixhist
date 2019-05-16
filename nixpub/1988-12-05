@@ -1,0 +1,324 @@
+Path: utzoo!utgpu!watmath!clyde!att!osu-cis!tut.cis.ohio-state.edu!mailrus!uflorida!haven!umbc3!uunet!ccicpg!turnkey!sandy
+From: sa...@turnkey.TCC.COM (Sanford 'Sandy' Zelkovitz)
+Newsgroups: comp.unix.xenix,comp.unix.microport,comp.unix.questions,alt.bbs
+Subject: Public Access Unix/Xenix Systems
+Keywords: Unix Xenix Public_ACCESS
+Message-ID: <3924@turnkey.TCC.COM>
+Date: 5 Dec 88 01:13:10 GMT
+Organization: Turnkey Computer Consultants, Costa Mesa, Ca.
+Lines: 314
+
+The following is a listing of public access Unix/Xenix systems that are 
+online:
+ 
+------------------------------ cut here ----------------------------------
+
+
+
+         nixpub--> PUBLIC ACCESS UNIX (*NIX) SITES [11-30-88]
+                         (mapped sites only!)
+
+Systems listed (57):
+ [ alphacm, amazing, anet, bigtex, bucket, chariot, chief, chinet, cpro     ] 
+ [ dasys1, ddsw1, dhw68k, eklektik, grebyn, igloo, jolnet, killer           ] 
+ [ lgnp1, lunapark, m-net, madnix, magpie, marob, ncoast, nuchat, nucleus   ] 
+ [ oncoast, ozdaltx, pallas, pedro, pnet01, pnet02, pnet51, portal, prapc2  ] 
+ [ raider, rpp386, rtmvax, sharks, sir-alan, sixhub, spies, stanton         ]
+ [ stb, sugar, tmsoft, tnl, turnkey, uport, usource, vpnet, warble, well    ]
+ [ wet, wybbs, xroads, ziebmef                                              ]
+
+Last                                                                     
+Contact                                                           
+Date    Telephone #   Sys-name       Location          Baud      Hours
+-----   ------------  --------      -----------       -------    -----
+10/08  212-420-0527   magpie      NYC                 NY  3/12/24/96  24
+  ? - UNIX SYSV - 2, Magpie BBS, no fee, Authors: Magpie/UNIX,/MSDOS
+  two lines plus anonymous uucp: 212-677-9487 (9600 bps Telebit modem)
+  NOTE: 9487 reserved for registered Magpie sysops & anon uucp
+  Contact: Steve Manes, {rutgers|cmcl2|uunet}!hombre!magpie!manes	
+ 
+08/19  212-675-7059   marob       NYC                 NY  3/12/24  24
+  386 SCO-XENIX 2.2, XBBS, magpie bbs, no fee, limit 60 min
+  Telebit Trailblazer (9600 PEP) only 212-675-8438
+  Contact:  {philabs|rutgers|cmcl2}!{phri|hombre}!marob!clifford
+ 
+07/07  212-879-9031^  dasys1      NYC                 NY  12/24    24
+  Unistride - SYS V, multiple lines, fee $5/mo  AKA Big Electric Cat
+  USENET, games, multi-user chat, email, login: new
+ 
+03/19  213-376-5714   pnet02      Redondo Bch         CA  3/12/24  24
+  XENIX (also 213-374-7404) no fee, 90 min limit, login: pnet id: new
+  some USENET, net-work e-mail, multi-threaded conferencing
+ 
+09/30  213-397-2987^  stb         Santa Monica        CA  3/12/24  24
+  Tandy 16 Serial Tree bbs, shell access, uucp-anon: ogin: uucp NO PASSWD
+ 
+03/19  213-459-5891   amazing     Pacific Palisades   CA  3/12/24  24
+  AMT 286 - Microport  David's Amazing BBS  Fee $7.50/month;$35/6;$60/year
+  5 lines on rotary; Unique original software with conferencing, electronic
+  bar, matchmaking, no file up/downloading
+ 
+07/31  214-247-2367   ozdaltx     Dallas              TX  3/12/24  24
+  INTEC/SCO XENIX 2.2.1, OZ BBS, Membership only adult BBS, fee $40
+  year. Multiple lines.  Closed system, carries limited USENET
+  newsgroups. Login: guest (no PW).  Voice verification on all new users.
+ 
+11/25  214-250-1764^  warble      Plano               TX  12/24/96  -24
+  3b2/310 sysv 3.1 no shell, no fee, no bbs, archive site comp.sources.unix,
+  misc, etc.  News, mail feeds available. 5pm-5am Mon-Thur, 24 hours Fri 5pm-
+  Mon 5am. Uucp login: anon NOPWD. Archive dir /usr/spool/net/all.files.list
+  Contact: wayne ross { killer, rpp386, uunet }!warble!wayne
+ 
+11/01  214-250-6272^  rpp386      Dallas              TX  12/24    24
+  386 SYSV, no shell, no bbs, anonymous uucp file transfer site only, no fee
+  uucp and kermit server available, login uucp or kermit NO PASSWD
+ 
+11/30  214-824-7881^  killer      Dallas              TX  3/12/24  24
+  3b2/400 - UNIX, uucp-anon: 1200 bps -->214-827-2919 in: uupdsrc word: Public
+  uucp-anon: 2400 bps --> 214-821-3795 in: uupdsrc word: Public 
+  uucp-anon info in: /bbsys4/README  no fee
+ 
+11/26  215-275-2429^  prapc2      Philadelphia        PA  12/24    24
+  SystemV iAPX286, shell access only.  Login as new to register,
+  USENET news access and mail are available to registered users only.
+  Voice verification on all new users is required. Pc-Pusuitable.  
+  Anonymous uucp is supported, login: nuucp (noPW).  Request the file    
+  /usr1/pubsrc/SOFTWARE.prapc2 for a list of available software. 
+ 
+11/26  215-279-5921^  lgnp1       Norristown          PA  3/12/24/96  24
+  80286 w/ SCO-XENIX -- Telebit used.  Limited number of shell accounts,
+  currently no charges.  Services include E-mail, USENET, PD downloads,
+  UNIX Software development and Text Processing tools.  NO BBS!!
+    anon-uucp: nuucp  NO PWD  (download /usr/spool/uucppublic/PD_FILES)
+ 
+09/23  216-781-6201^  ncoast      Cleveland           OH  3/12/24  24
+  Plexus P/35 System III, UNaXcess BBS, 5 lines; donation requested; shell
+  access, Usenet access; news feeds available; home of UNaXcess software
+  login: bbs for BBS, login: makeuser to register for shell access
+  system may go DOWN soon
+ 
+08/14  217-529-3223   pallas      Springfield         IL  3/12/24  24
+  Convrgnt Minifrme, multiple lines, 200 meg Minnie bbs $25 donation
+ 
+07/02  312-272-5912   igloo       Northbrook          IL  3/12/24/96  24
+  PC clone/microport   no limit/no fee   PicoSpan and (linked) AKCS
+  full usenet   read access/all  post access/limited   112megs HD
+  2 lines rotary, 9600 telebit on 272-5917   rsh till validation   
+  Contact: igloo!learn 
+ 
+08/14  312-283-0559   chinet      Chicago             IL  3/12/24  24
+  3b2/300 - SYS V 3.1, multiple lines, Picospan BBS, system & BBS free
+  Extra phone lines and usenet, $50/yr.
+ 
+05/12  312-301-2100   jolnet      Joliet/Orland Pk    IL  3/12/24  24
+  3b2/400 - Unix, public access and contributions, fee for postnews.
+  $50.00 per year  5 lines  XBBS bbs.  Newsfeeds available. 
+  Free Shell access.  Telenet access. 
+ 
+08/11  312-566-8911   ddsw1       Mundelein           IL  3/12/24/96  24
+  Televideo 386 -SCO XENIX 386, guest usr 1 hr daily, fee extends use
+  AKCS bbs, fee $30/6 months $50/year, Authors of AKCS bbs
+  multiple lines, 9600 bps available, anonymous uucp, ~/README for info
+  Contact: Karl Denninger (...!ddsw1!karl) Voice: (312) 566-8910
+ 
+04/16  312-833-8126   vpnet       Villa Park          IL  3/12     24
+  3B1 UNIX Sys V 3.5, no fee, shell access, AKCS BBS (linked)
+ 
+07/31  313-623-6309   nucleus     Clarkston           MI  12/24    24
+  286 - UNIX SYS V, donation requested, shell access, full usenet access
+  AKCS BBS, *.sources.* archive
+ 
+02/20  313-994-6333   m-net       Ann Arbor           MI  3/12     24
+  Altos 68020 - SYS III, limits unstated, fee for extended service
+  Picospan conference system, multiple lines, 160 meg, packet radio
+ 
+08/21  313-996-4644   anet        Ann Arbor           MI  12       24
+  Altos 68000 -Sys III, multiple lines, $20/month, services provided unknown 
+ 
+05/16  407-380-6228   rtmvax      Orlando             FL  3/12/24  24
+  mVAX-I - Ultrix-32 V1.2  USENET & UUCP Email Gateway. XBBS front end for
+  new user subscribing. No Fees. Primary function is Technical exchange.
+  Contact: { cbosgd!codas, hoptoad!peora }!rtmvax!rob 
+ 
+04/04  408-247-4810   sharks      Santa Clara         CA  3/12     24
+  Altos 886/80/80  - XENIX 3.2f AKA: Shark's Head BBS,  BBCS Network
+  Multiple lines,no fee for non-members,members $25 year
+  Restricted sh access and UUCP/Usenet access for advanced members
+ 
+08/14  408-438-6567   uport       Northern            CA  3/12/24  24
+  Compaq 386 Mport V/386, no fee, XBBS, 120 min limit, Microport sponsored BBS
+  other telnos: 408-438-6687 (3/12/24), 408-438-2492 (3/12)
+ 
+05/07  408-725-0561   portal      Cupertino           CA  3/12/24  24
+  Networked Suns (SunOS), multiple lines, Telenet access, no shell access
+  fees: $10/month + Telenet charges (if used) @ various rates/times
+  conferencing, multi user chats, usenet 
+ 
+06/07  412-431-8649   eklektik    Pittsburg           PA  3/12     24
+  UNIX PC- SYSV - UNaXcess BBS, new system - donation requested for shell,
+  login: bbs for BBS, uucp-mail, limited Usenet news feeds.  Gaming SIGS.
+  Contact:  ...!gatech!emoryu1!eklektik!anthony
+ 
+04/16  415-332-6106   well        Sausalito           CA  3/12     24
+  VAX 750 - BSD 4.2, multiple lines, Telenet access, Picospan bbs
+  fees: $8/month, $3/hour direct, Telenet $20/$4 hour (peak/off peak)
+ 
+06/09  415-582-7691   cpro        Hayward             CA  12/24    24
+  Microport SYSV 2, UNaXcess bbs, no fee, 60 min limit, shell access
+ 
+08/01  415-753-5265   wet         San Francisco       CA  3/12/24  24
+  386 SYS V.3.  Wetware Diversions.  $15 registration, $0.01/minute.
+  uucp, PicoSpan bbs, games, multiple lines, games, shell access, email
+  multi-user chat/party.  Newusers get initial credit on the system!
+  contact:claris!wet!cc (Chris Cilley)
+ 
+10/22  416-461-2608   tmsoft      Toronto             ON  3/12/24/96  24
+  NS32016, Sys5r2, shell; news+mail $30/mo, general-timesharing $60/mo
+  All newsgroups.  Willing to setup mail/news connections.
+  Archives:comp.sources.{unix,games,x,misc}
+  Contact: Dave Mason <mason@tmsoft> / Login: newuser
+ 
+10/05  416-654-8854   ziebmef     Toronto             ON  3/12/24  24
+  3B1, Sys V, shell, news, mail, no fee
+  Contact: Chris Siebenmann, {ontmoh!moore,ncrcan}!ziebmef!cks
+ 
+09/04  503-254-0458   bucket      Portland            OR  3/12/24  24
+  Tektronix 6130 UTek 2.3, bit bucket bbs, news, email, no fee, shell on
+  selective basis only, multiple lines, bbs message only, home control interests
+ 
+10/08  512-346-2339   bigtex      Austin              TX  96       24
+  Equip unknown, no shell, no fee, anonymous uucp ONLY, Telebit 9600/PEP
+  mail & newsfeeds (limited) available.  Carries GNU software.
+  anon login: nuucp NO PASSWD, file list /usr3/index
+  Contact: ...!uunet!utastro!bigtex!james	
+ 
+04/16  517-337-3844   lunapark    E. Lansing          MI  12/24    24
+  equip ?, lunabbs bulletin board & conferencing system, no fee 
+  conferencing system currently in beta test, 2400 --> 8 N 1
+  1200 -->7 E 1
+ 
+07/04  518-346-8033   sixhub      upstate             NY  3/12/24  24
+  equip (?), hub machine of the upstate NY UNIX users group (*IX)
+  two line reserved for incoming, bbs no fee, news & email fee $15/year
+  Smorgasboard of BBS systems, UNaXcess and XBBS online,
+  Magpie and Citadel in beta test. Contact: david...@sixhub.uucp.
+ 
+09/26  602-941-2005   xroads      Phoenix             AZ  12/24    24
+  Motorola VME1121, UNIX 5.2, Crossroads BBS, Fee $30/yr + $.50/.25 (call)
+  prime (evenings)/non-prime, USENET news, multi-chat, online games,
+  movie reviews, adventure games, dos unix/xenix files for dload, multi lines
+ 
+08/27  608-273-2657   madnix      Madison             WI  3/12/24  24
+  286 SCO-XENIX, shell, no fee, USENET news, mail, login: newuser
+  Contact: ray@madnix
+ 
+04/15  612-929-6699^  pnet51      Minneapolis         MN  3/12/24  24
+  Equip ?, Xenix, multi-line, no fee, some Usenet news, email, multi-threaded
+  conferencing, login: pnet id: new, PC Pursuitable
+  UUCP: {rosevax, crash}!orbit!pnet51!admin
+ 
+11/02  615-896-8716   raider      Murfreesboro        TN  12/24    24
+  Tandy 4000 XENIX, UnaXcess, shell accounts, news and mail, newsfeeds
+  available (on Node 2) 2 machine LAN;Node 1 is OPUS BBS 615-896-7905
+  Contact: r...@raider.MFEE.TN.US (Bob Reineri); NO CHARGE.
+ 
+06/24  616-457-1964   wybbs       Jenison             MI  3/12/24  24
+  286 - SCO-XENIX 2.2.1, no fee, two lines, shell access, news  
+  AKA: Consultants Connection
+ 
+07/31  619-444-7006^  pnet01      El Cajon            CA  3/12/24  24
+  BSD Unix, 3 lines, login: pnet id: new, some USENET, email, conferencing 
+  Home of P-Net software, mail to crash!bblue or pnet01!bblue for info.
+  Contributions requested
+  Unix accounts available for regulars, PC Pursuit access 2/88.
+ 
+10/03  703-281-7997^  grebyn      Vienna              VA  3/12/24/96  24
+  Vax/Ultrix.  $25/month.  GNU EMACS, USENET, PC/BLUE archives, Telebit on 7998
+  and 7999, archives, Ada repository, comp.sources.(misc,unix,games) archives, 
+  net.sources archives, 3 C compilers, Ada compiler,  500MB disk, multiple lines
+ 
+03/16  713-334-1204   nuchat      Houston             TX  3/12/24  24
+  286 - Mport USENET, mail, shell access available 120 meg 
+ 
+08/11  713-438-5018   sugar       Houston             TX  3/12/24  24
+  386/AT (2) networked - Microport SYS V, usenet, news, downloads
+  Homegrown BBS software, currently no charges
+ 
+05/25  714-635-2863   dhw68k      Anaheim             CA  12/24    24
+  Unistride 2.1, no fee, also 714-385-1915, TBIT at 19200 on 714-635-2863 
+ 
+07/31  714-662-7450   turnkey     Southern            CA  12/24    24
+  286 - Xenix SYSV, XBBS
+ 
+08/11  714-894-2246   stanton     Irvine              CA  3/12/24  24
+  286 - SCO Xenix - donation requested, limit 240 min, XBBS, USENET news
+  UNIX access granted on request through BBS, 20$/year, access includes
+  C development system (XENIX/MSDOS), PROCALC 1-2-3 clone, FOXBASE+
+  anon uucp: ogin: nuucp, no word, 2400/1200/300 MNP supported
+ 
+06/24  714-898-8634   alphacm     Southern            CA  12/24    24
+  386 - SCO-XENIX no fee, 90 minute per login, 4 lines, XBBS
+  The home of XBBS.
+  9600/2400/1200 baud connections. 9600 is MicroComm/Hayes compatible.
+  MNP Protocol supported at all baud rates.
+  uucp-anon:  ogin: nuucp  NO PASSWD
+ 
+05/08  719-632-4111   chariot     Colo Sprgs          CO  3/12     24
+  Convrgnt Minifrme - SYS V, multiple lines, fee $12/mo Picospan
+ 
+06/29  801-277-0272   pedro       Salt Lake City      UT  3/12/24/96  24
+  386 SYS V, Unidel BBS, a.k.a. Bitsko's Bar & Grill, no limit, no fee, UseNet
+  and Citadel feeds available, home of Unidel software, Telebit 19200 used,
+  anonymous uucp, archiving .amiga, .atari.st, .ibm.pc, .mac, .misc and .unix.
+  Contact: ken_macl...@pedro.UUCP or uunet!iconsys!caeco!pedro!ken_macleod
+ 
+06/05  802-865-3614   tnl         Burlington          VT  3/12/24  24
+  386 - SCO-XENIX; no fee, 2 hr session limit; XBBS/USENET, shell
+ 
+08/19  813-952-1981   usource     Sarasota            FL  12/24    -24
+  386 - SCO-XENIX, fee depends on services provided, no fee for bbs. New users
+  subscribe by logging in as 'help' or 'newuser' (no password).  Primary
+  purpose is technical forum. 6pm-8am M-Th, 24 hrs weeekends (6pm Fri-8am Mon)
+  uucp-anon: 1200/2400 bps --> ogin: auucp  word: gateway
+  uucp-anon directory: /usr/spool/uucppublic; contact: fr...@usource.UUCP
+ 
+08/25  814-333-6728   sir-alan    Meadville           PA  3/12/24  24
+  Tandy XENIX/68000 03.01.02, Allegheny College, UNaXcess BBS
+  uucp-anon: ogin: pdsrc  NO PASSWD
+  uucp-anon directory: /usr/spool/pdsrc/all.subjects 
+  Telebit TB+ available at 814 337 0894, now operating.
+  Contact: sir-alan!mikes 
+ 
+05/16  814-337-3159   oncoast     Meadville           PA  3/12/24/96  24
+  Tandy 12/6000, no fee, no bbs, archive site, USR HST 9600, cycle 24/96/12
+  vols 1 - 13 of mod.sources/comp.sources.unix, comp.sources.misc
+  New stuff on sir-alan, older on oncoast. 2 uucp logins "uucp" and "pdsrc"
+  files list =  /usr/spool/uucppublic/my.directory or /usr/spool/pdsrc/
+  all.subjects.Z 
+ 
+06/17  818-884-7821   chief       Woodland Hills      CA  3/12     24
+  286 - SCO XENIX 2.2.1, no fee, XBBS, interests: coins & coin investments 
+  No file transfers
+  Contact: ...!srhqla!chief!lance
+ 
+05/11  914-666-3997   spies       Mount Kisco         NY  3/12     24
+  Wicat sys 200/150 SYSV, networked, AKCS bbs, USENET, news, no fee
+  shell access, 2400 bps avail to friendly/peacefull users.
+  uucp-anon: ogin: uucp (NO PASSWORD)
+ 
+---------------------------------------------------------------------------
+NOTE:  ^ means the site is reachable using PC Pursuit.
+===========================================================================
+This list is now maintained by Phil Eschallier on lgnp1.  Any additions,
+deletions, or corrections should be sent to "nixpub@lgnp1".
+Nixpub is kept as current as possible.  However, you use this data at your
+own risk and cost -- all standard disclaimers apply!!!
+------
+  Lists available via uucp.  From lgnp1 login: nuucp  NO PWD
+             this list: /usr/spool/uucppublic/nixpub
+            short list: /usr/spool/uucppublic/nixpub.short
+------
+  uucp: ..!{hombre,rutgers}!lgnp1!phile                 CIS: 71076,1576
+===========================================================================
+  COMPAQ, IBM, PC Pursuit, [SCO] XENIX, UNIX, etc. are trademarks of the
+  respective companies.

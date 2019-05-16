@@ -1,0 +1,13 @@
+System Name	atrium
+UUCP Name(s)	atrium
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX SYS V.2
+Web Server
+Hardware	3B1 Unix PC
+Location	Chicago, IL
+Key Figures
+Local Software
+Notes	"Chicago MM, no fee, no limit, multiple lines, national pen-pal service"

@@ -1,0 +1,13 @@
+System Name	tnl
+UUCP Name(s)	tnl
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO XENIX
+Web Server
+Hardware	386
+Location	Burlington, VT
+Key Figures
+Local Software
+Notes	"no fee, 2 hr session limit; XBBS/USENET, shell"

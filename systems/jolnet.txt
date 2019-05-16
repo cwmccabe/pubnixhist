@@ -7,7 +7,7 @@ URL(s)	?
 Operating System(s)	?
 Web Server  ?
 Hardware	?
-Location	New Lenox, IL
+Location	New Lenox, IL	Joliet, IL	Orland Park, IL
 Key Figures	?
 Local Software	?
 Notes	?

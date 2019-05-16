@@ -1,0 +1,13 @@
+System Name	cpro
+UUCP Name(s)	cpro
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYSV 2
+Web Server
+Hardware	Microport
+Location	Hayward, CA
+Key Figures
+Local Software
+Notes	UNaXcess BBS (see: http://software.bbsdocumentary.com/UNIX/GENERIC/UNAXCESS/)

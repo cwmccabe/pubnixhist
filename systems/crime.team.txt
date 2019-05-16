@@ -1,0 +1,13 @@
+System Name	crime.team
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://crime.team
+Operating System(s)
+Web Server	https://crime.team
+Hardware
+Location
+Key Figures	Jae Kaplan
+Local Software
+Notes	"like tilde club but for trans women"

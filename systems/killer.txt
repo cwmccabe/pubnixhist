@@ -1,13 +1,13 @@
-System Name	The UNIX Connection
-UUCP Name(s)	killer	attctc
-Start Year	?
-Last Seen	1990, Feburary 20
+System Name	killer
+UUCP Name(s)	killer
+Start Year	before 1988
+Last Seen
 Active?	no
-URL(s)	?
-Operating System(s)	?
-Web Server  ?
-Hardware	?
+URL(s)
+Operating System(s)	UNIX (?)
+Web Server
+Hardware
 Location	Dallas, TX
-Key Figures	Charlie Boykin
-Local Software	?
-Notes	Shut down as part of Operation Sundevil (https://en.wikipedia.org/wiki/Operation_Sundevil).  See SDF's FAQ for more info and a connection to the origins of SDF: https://sdf.org/?faq?BASICS?02
+Key Figures
+Local Software
+Notes

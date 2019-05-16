@@ -1,0 +1,13 @@
+System Name	ozdaltx
+UUCP Name(s)	ozdaltx
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO XENIX 2.2.1
+Web Server
+Hardware
+Location	Dallas, TX
+Key Figures
+Local Software
+Notes	"Membership only adult BBS"

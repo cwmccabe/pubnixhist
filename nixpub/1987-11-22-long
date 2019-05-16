@@ -1,0 +1,162 @@
+Relay-Version: version B 2.10 5/3/83; site utzoo.UUCP
+Path: utzoo!mnetor!uunet!husc6!cmcl2!phri!dasys1!patth
+From: patth@dasys1.UUCP (Patt Haring)
+Newsgroups: news.newsites
+Subject: Re: Public access sites -- include your data phone number!
+Message-ID: <2102@dasys1.UUCP>
+Date: Sun, 29-Nov-87 09:13:56 EST
+Article-I.D.: dasys1.2102
+Posted: Sun Nov 29 09:13:56 1987
+Date-Received: Wed, 2-Dec-87 23:20:23 EST
+References: <1658@netsys.UUCP> <3378@hoptoad.uucp>
+Organization: The Big Electric Cat
+Lines: 147
+Summary: news.newsites public access UNIX systems - resource list
+
+Here's the latest update of public access UNIX systems; any
+new sites can send info to the SA who maintains this list;
+you'll find his address at the end of the list:
+
+
+       nixpub--> PUBLIC ACCESS UNIX (*NIX) SYSTEMS [11-22-87]
+    (Please send additions, corrections, and feedback to warble)
+Last                                                         d=wkdays
+Contact                                                      k=wkends
+Date      Telephone #   Sys-name  Location         Baud      Hours
+-----     ------------  --------  -----------     -------    -----
+Systems listed:
+  [ alphacm, chariot, cguild, chinet, conexch, dasys1, ddsw1, dhw68k      ] 
+  [ eskimo, herky, igloo, killer, m-net, magpie, marob, ncoast, netsys    ]
+  [ nuchat, nucleus, pallas, pinn, pnet01, pnet02, portal, prapc-1        ] 
+  [ sir-alan, slacbbs, stanton, stb, turnkey, unirot, vpnet, warble, well ]
+  [ xenlink, * = not currently on net                                     ]
+
+11/22     206-863-0453   *        Sumner      WA  12             24
+  Tandy 6000 - XENIX  * Micro Magic BBS Fee $30/yr $5 setup shell access
+  multiple lines 863-0454/5/6
+
+11/22     618-277-6417  herky     ?           IL  3/12/24        24
+  386 - SCO Xenix - no fee 60 min. XBBS
+
+11/21     714-894-2246  stanton   Irvine      CA  12/24          24
+  286 - SCO Xenix - donation requested, XBBS, limit 240 min, XBBS
+
+11/04     314-947-0895  slacbbs   St. Louis   MO  3/12           24 
+  286 - SCO XENIX - no fee 60 min. - XBBS - LOGIN: bbs, shell access to
+  qualified REGULAR users
+
+11/02     215-275-2429  prapc-1   Norristown  PA  12             24
+  286 - Coherent sys7, no fee, 60 min, UNaXcess BBS, shell access, bbs
+  login : fhbbs (Far Horizons BBS)
+
+11/01     212-420-0527  magpie    NYC         NY  3/12/24        24
+  ? - UNIX SYSV - 2, Magpie BBS, no fee, Authors: Magpie/UNIX,/MSDOS
+
+10/09     812-334-8453  cguild    Bloomington IN  12             24
+  286 - SCO-XENIX V2.2.1, xbbs, also 812-334-8465
+
+10/09     713-334-1204  nuchat    Houston     TX  3/12/24        24
+  286 - Mport USENET, mail, shell access available 120 meg 
+
+10/06     714-662-7450  turnkey   Southern    CA  12/24          24
+  286 - Xenix SYSV, XBBS
+
+10/04     312-833-8126  vpnet     Villa Park  IL   3/12          24
+  3B1 UNIX Sys ?, no fee, shell access, AKCS/ERACS BBS
+
+10/30     212-675-7059  marob     NYC         NY   12/24         24
+  286 SCO-XENIX 2.2, XBBS
+
+10/31     814-333-6728  sir-alan  Meadville   PA   3/12/24       24
+  Tandy XENIX/68000 03.01.02, Allegheny College, UNaXcess BBS, anon ftp
+
+09/24     313-623-6309  nucleus   Clarkston   MI   12/24         24
+  286 - UNIX SYS V, donation requested, AKCS/ERACS BBS
+
+09/03     216-781-6201  ncoast    Cleveland   OH   3/12/24       24
+  PLEXSUS, no fee, donation requested -> $2.00/hr prime, $1.00/hr non-prime
+
+08/31     206-367-3837  eskimo    Seattle     WA   3/12          24 
+  Tandy-6000 XENIX, 8 lines, fee $1/mo, 1st 2 weeks free
+
+10/18     217-529-3223  pallas    Springfield IL   3/12/24       24
+  Convrgnt Minifrme, multiple lines, 200 meg Minnie bbs $25 donation
+
+08/30     312-283-0559  chinet    Chicago     IL   3/12/24       24
+  3b2/300 - SYS V 3.1, multiple lines, Picospan BBS, fee $50/yr for usenet
+  access and other than public lines
+
+BBS DOWN  403-295-2541  xenlink   Calgary     AB   3/12/24       24
+  286 - SCO -XENIX, no fee, Term BBS, shell access, login bbs
+
+10/28     408-725-0561  portal    Cupertino   CA   3/12          24
+  Networked Suns (SunOS), multiple lines (some at 2400 bps), Telenet access,
+  fees: $10/month + Telenet charges (if used) @ various rates/times
+  conferencing, multi user chats, usenet, no shell access 
+
+08/29     415-332-6106  well      Sausalito   CA   3/12          24
+  VAX 750 - BSD 4.2, multiple lines, Telenet access, Picospan bbs
+  fees: $8/month, $3/hour direct, Telenet $20/$4 hour (peak/off peak)
+
+08/28     214-824-7881  killer    Dallas      TX   3/12/24       24
+  3b2/400 - UNIX, no fee, various time limits, 4 lines 860 meg online
+
+08/28     312-566-8909  ddsw1     Mundelein   IL   3/12          24
+  286 - Mport guest usr 1 hr daily, fee extends use, ERACS/UX bbs
+    2400 bps for contributors($) on 312-566-8911/12 Authors of ERACS/UX bbs
+
+10/23     312-272-5912  igloo     ??          IL   12         unknown
+  PC7300 - UNIX limits unstated PicoSpan conference system
+
+08/23    201-752-2820   unirot    ??          NJ    12        unknown
+  Heurikon - Unisoft SYS V, fee status unknown AKA Soup Kitchen
+
+08/23    714-635-2863   dhw68k    Anaheim     CA    3/12/24      24 
+  Unistride 2.1, fee status unknown, avoid 0200-0700 hrs local time
+
+08/23    212-879-9031   dasys1    NYC         NY    12        unknown
+  Unistride - SYS V, multiple lines, fee $5/mo  AKA Big Electric Cat
+
+08/22    714-842-5851   conexch   Santa Anna  CA  3/12/24        24
+  XENIX  714-842-6348 (bbs) - 3/12 various limits fee $25/quarter XBBS
+
+10/30    714-828-0288   alphacm   Southern    CA   12/24         24
+  286 - SCO-XENIX no fee, 60 minute per login, 4 lines, XBBS
+
+08/02    301-540-3656-9 netsys    Germantown  MD   12        unknown
+  ALTOS 986(2) - Xenix, networked 240 meg, fee $5/mo  
+
+10/06     619-444-7006  pnet01    El Cajon    CA   3/12/24       24
+   BSD Unix, 3 lines, contributions requested, login: pnet id: new
+   some USENET, net email, multi-thread conferencing.  Home of
+   P-Net software, mail to crash!bblue or pnet01!bblue for info.
+
+07/22     213-376-5714  pnet02    Redondo Bch CA   3/12/24       24
+   XENIX (also 213-374-7404) no fee, 90 min limit, login: pnet id: new
+   some USENET, net-work e-mail, multi-threaded conferencing
+
+DOWN	  213-459-7231	stb	  Sta Monica  CA   3/12/24       24
+   Tandy 16 no limits, no fee, Serial Tree bbs (home made), shell access
+
+10/31     305-584-4440  pinn      Ft. Laud.   FL   3/12/24       24
+  IBM AT - Microport  SYS V, multiple lines, fee $12/yr MAGIC BBS
+
+07/12     303-632-4111  chariot   Colo Sprgs  CO   3/12          24
+  Convrgnt Minifrme - SYS V, multiple lines, fee $12/mo Picospan
+
+07/11     313-994-6333  m-net     Ann Arbor   MI   3/12          24
+  Altos 68020 - SYS III, limits unstated, fee for extended service
+  Picospan conference system, multiple lines, 160 meg
+
+===========================================================================
+List originated and maintained on:
+09/15    214-250-1764  warble     Plano       TX   12/24    d 5pm-5am k 24
+  286 - SCO-XENIX, no fee, XBBS
+     uucp: ...!killer!warble!wayne  CIS: 73205,1172  
+===========================================================================
+
+-- 
+Patt Haring                       UUCP:    ..cmcl2!phri!dasys1!patth
+Big Electric Cat                  Compu$erve: 76566,2510
+New York, NY, USA                 MCI Mail: 306-1255;  GEnie: PHaring
+(212) 879-9031                    FidoNet Mail: 1:107/701 or 107/222

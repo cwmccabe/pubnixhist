@@ -1,0 +1,13 @@
+System Name	warble
+UUCP Name(s)	warble
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	sysv 3.1
+Web Server
+Hardware
+Location	Plano, TX
+Key Figures	Wayne Ross
+Local Software
+Notes	may be the same as killer and rpp386

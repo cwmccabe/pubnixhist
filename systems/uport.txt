@@ -1,0 +1,13 @@
+System Name	uport
+UUCP Name(s)	uport
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Microport V/386
+Web Server
+Hardware	Compaq 386
+Location	Nothern CA
+Key Figures
+Local Software
+Notes

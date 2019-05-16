@@ -1,0 +1,13 @@
+System Name	floyd
+UUCP Name(s)	floyd
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO Xenix V
+Web Server
+Hardware	Gateway 386
+Location	Columbia, MO
+Key Figures	Ken Ross
+Local Software
+Notes	related to gensis?

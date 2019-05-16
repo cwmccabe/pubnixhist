@@ -1,0 +1,13 @@
+System Name	bucket
+UUCP Name(s)	bucket
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UTek 2.3 (a Berkeley 4.2 Unix-based OS that ran on this hardware)
+Web Server
+Hardware	Tektronix 6130 (see https://www.computerhistory.org/collections/catalog/102729236)
+Location
+Key Figures
+Local Software
+Notes	"bit bucket bbs, news, email, no fee, shell on selective basis only, multiple lines, bbs message only, home control interests"

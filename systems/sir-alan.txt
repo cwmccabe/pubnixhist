@@ -4,10 +4,10 @@ Start Year	?
 Last Seen	?
 Active?	no
 URL(s)	?
-Operating System(s)	?
+Operating System(s)	XENIX/68000 03.01.02
 Web Server  ?
-Hardware	?
-Location	Bloomington, IN
+Hardware	Tandy
+Location	Bloomington, IN	Meadville, PA (moved at some point?)
 Key Figures	?
 Local Software	?
-Notes	?
+Notes	related to other pubnix, oncoast:- "New stuff on sir-alan, older on oncoast"

@@ -1,0 +1,14 @@
+System Name	tilde.black
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://tilde.black	tdblackjcbw5kc46.onion
+Operating System(s)
+Web Server	https://tilde.black
+Gopher server	gopher://tilde.black
+Hardware
+Location
+Key Figures	James Tomasino
+Local Software
+Notes	A tilde focused on privacy, anonymity, and security

@@ -1,0 +1,13 @@
+System Name	prapc2
+UUCP Name(s)	prapc2
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SystemV iAPX286 (Microport)
+Web Server
+Hardware
+Location	Philadelphia, PA
+Key Figures
+Local Software
+Notes

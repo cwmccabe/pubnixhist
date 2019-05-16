@@ -1,0 +1,13 @@
+System Name	vpnet
+UUCP Name(s)	vpnet
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX Sys V 3.5
+Web Server
+Hardware
+Location	Villa Park, IL
+Key Figures
+Local Software
+Notes

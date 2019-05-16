@@ -1,0 +1,15 @@
+System Name	telly
+UUCP Name(s)	telly
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix
+Web Server
+Hardware	286
+Location	Brampton, ON
+Key Figures	Evan Leibovitch
+Local Software
+Notes	"proprietary menu-based BBS includes Usenet site searching.
+  News (all groups, incl biz, pubnet, gnu), mail (including to/from Internet),
+  some archives."

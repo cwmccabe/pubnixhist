@@ -4,10 +4,11 @@ Start Year	?
 Last Seen	?
 Active?	no
 URL(s)	?
-Operating System(s)	?
+Operating System(s)	Sys V
 Web Server  ?
-Hardware	?
-Location	Ontario, Canada
-Key Figures	?
+Hardware	3B1 Unix PC (see https://en.wikipedia.org/wiki/AT%26T_Unix_PC)
+Location	Toronto, Ontario, Canada
+Key Figures	Chris Siebenmann
 Local Software	?
-Notes	?
+Notes	"shell, news, mail, no fee (donations accepted)
+  Carries most newsgroups (willing to add extra ones on request)"

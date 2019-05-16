@@ -1,0 +1,15 @@
+System Name	gensis
+UUCP Name(s)	gensis
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO Xenix V
+Web Server
+Hardware	Gateway 386
+Location	Columbia, MO
+Key Figures
+Local Software
+Notes	"Online gaming, game design, and (oddly enough) data base design are the main focus."
+
+related to floyd?

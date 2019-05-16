@@ -1,0 +1,13 @@
+System Name	ddsw1
+UUCP Name(s)	ddsw1
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO XENIX 386
+Web Server
+Hardware
+Location	Mundelein, IL
+Key Figures	Karl Denninger
+Local Software
+Notes

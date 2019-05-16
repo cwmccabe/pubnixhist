@@ -1,0 +1,13 @@
+System Name	rw.rs
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active	yes
+URL(s)	http://rw.rs	https://github.com/adsr/rw.rs
+Operating System(s)
+Web Server
+Hardware
+Location
+Key Figures
+Local Software
+Notes	"An experimental software community with a 199X aesthetic."

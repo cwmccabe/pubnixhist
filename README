@@ -1,0 +1,48 @@
+  ___ _   _ ___ _  _ _____  __  _  _ ___ ___ _____ ___  _____   __
+ | _ \ | | | _ ) \| |_ _\ \/ / | || |_ _/ __|_   _/ _ \| _ \ \ / /
+ |  _/ |_| | _ \ .` || | >  <  | __ || |\__ \ | || (_) |   /\ V /
+ |_|  \___/|___/_|\_|___/_/\_\ |_||_|___|___/ |_PROJECT|_|_\ |_|
+ =================================================================
+
+Public Access UNIX Systems (PAUS) are a type of server that provide
+various services to a multi-user community.  They first began in the
+early 1980's and continue today. Early servers ran various flavors of
+UNIX, hence the name Public Access "UNIX" Systems, but later generations
+saw a large mix of Unix-variants and, of course, GNU/Linux.  To
+recognize the many different operating systems online today, these
+systems are increasingly referred to generically as "pubnixes".
+
+One of the enduring characteristics of pubnixes, beyond the simple
+access to computational services, is the community that develops among
+each system's users.  These communities tend to have a particular flavor
+of shared interests, and in many ways it is within these communities
+that the vision of a non-corporate Internet remains alive.
+
+The Pubnix History Project is a compilation of writings and resources
+about the history of public access UNIX and GNU/Linux systems
+(pubnixes).  Its goals are to document the history of these systems and
+their communities, and to encourage ongoing participation by new
+generations of users and sysadmins.
+
+ =================================================================
+   _        _      _ 
+  | |_  ___| |_ __| |
+  | ' \/ -_) | '_ \_|
+  |_||_\___|_| .__(_)
+             |_|
+This git repo maintains data for the pubnix history project. This data 
+is surfaced in a gopher site hosted on rawtext.club.
+
+    ** YOU ARE ENCOURAGED TO CONTRIBUTE TO THIS DATA BY **
+    ** SUBMITTING A PULL REQUEST WITH ANY NEW DATA OR   **
+    ** REVISIONS TO THE EXISTING DATA.                  **
+
+You can view this data and related content directly at: 
+gopher://rawtext.club/1/~cmccabe/pubnixhist/
+
+Or indirectly, throgh a gopher-to-web proxy, at:
+https://gopher.mills.io/rawtext.club/1/~cmccabe/pubnixhist/
+
+ =================================================================
+
+CONTACT:  cmccabe@sdf.org or gauntlet@ctrl-c.club

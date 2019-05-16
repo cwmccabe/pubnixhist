@@ -1,0 +1,15 @@
+System Name	xroads
+UUCP Name(s)	xroads
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX 5.2
+Web Server
+Hardware	Motorola VME1121
+Location	Phoenix, AZ
+Key Figures
+Local Software
+Notes "Crossroads BBS, Fee $30/yr + $.50/.25 (call),
+  USENET news, multi-chat, online games,
+  movie reviews, adventure games, dos unix/xenix files for dload, multi lines"

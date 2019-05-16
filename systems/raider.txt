@@ -1,0 +1,13 @@
+System Name	raider
+UUCP Name(s)	raider
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	XENIX
+Web Server
+Hardware	Tandy 4000
+Location	Murfreesboro, TN
+Key Figures	Bob Reineri
+Local Software
+Notes	"UnaXcess, shell accounts, news and mail, newsfeeds"

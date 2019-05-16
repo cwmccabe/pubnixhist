@@ -1,0 +1,1196 @@
+===============================================================================
+NixPub Long Listing -- April 15, 1994
+Public/Open Access UNIX (*NIX) Sites [both Fee and No Fee]
+===============================================================================
+Sites Listed <146>
+** Sites with multiple locations are only counted once **
+|  a2i         aa7bq       abode       actrix      admiral     agora         |
+|  alphacm     amaranth    anomaly     anubis      aquila      bdt           |
+|  bigtex      blkbox      bluemoon    btr         bucket      cellar        |
+|  cg57        chinet      cinnet      clinet      cns         colmiks       |
+|  conexch     coyote      cpumagic    crash       cruzio      cyber         |
+|  cyberspace  ddsw1       debug       deeptht     dhw68k      digex         |
+|  dircon      dorsai      echo        edsi        eskimo      ExNet         |
+|  exuco1      fullfeed    gagme       genesis     gorn        grebyn        |
+|  grex        halcyon     hcserv      HoloNet     ibmpcug     ichlibix      |
+|  indirect    infocom     intercom    isys-hh     ixgch       jabber        |
+|  jack        kilowatt    kitana      kralizec    latour      loft386       |
+|  lopez       lunapark    lunatix     m-net       m2xenix     madnix        |
+|  magnus1     magpie      marob       maynard     medsys      metronet      |
+|  micor       mindlink    mindvox     mixcom      mugnet      mv            |
+|  ncoast      nervous     netcom      netlink     northshore  nuchat        |
+|  nucleus     nyx         oaknet      odbffm      oldcolo     pallas        |
+|  panix       pnet51      polari      portal      quack       quake         |
+|  r-node      rgm         ritz        rock        sactoh0     sashimi       |
+|  satelnet    schunix     scuzzy      sdf         seanews     sir-alan      |
+|  sixhub      skypoint    solaria     stanton     starnet     sugar         |
+|  sytex       szebra      teleport    telerama    telesys     tmsoft        |
+|  tnc         tronsbox    tutor       ukelele     unixuser    uunet         |
+|  uuwest      vicstoy     vpnet       wa9aek      wariat      wb3ffv        |
+|  well        wet         WinNET      woodowl     world       wybbs         |
+|  wyvern      xmission                                                      |
+
+===============================================================================
+
+Updated                 System                        Speed
+Last  Telephone #       Name       Location           Range     Hours
+----- ----------------- ---------- ------------------ --------- -----
+
+04/94 201-432-0060      ritz       Jersey City     NJ 300-FAST  24
+  Gateway2000 486/66 EISA, 28mb RAM, 1 gig FAST SCSI-2 disk space (with
+  2.1 gig of Barracuda FAST SCSI-2 disk on the way).  BSDI/386 unix.
+  8 dialins, all support MNP 3-5 and v.42/v.42bis.  7 modems are AT&T
+  Dataport (14.4kbps/v.32bis) and one is a Telebit T2000 (19.2kbps/PEP).
+  Shells supported: ash, csh, ksh, tcsh.  **Full Internet access.**  Our
+  IP number is 165.254.109.51.  All user accounts have complete internet
+  access (FTP,IRC,Archie,Lynx(WWW),Gopher,Telnet, and more!) Mailers
+  supported: elm,pine. Full USENET feed.  Newsreaders supported: tin,trn,
+  nn,rn.  Editors supported: emacs,vi,jove, pico.  RIP interface coming
+  soon.
+  Contact: ri...@mordor.com
+
+03/94 201-759-8450      tronsbox   Belleville      NJ 300-FAST  24
+  Generic 386, UNIX 3.2;  Provides shell for some users, USENET, E-Mail
+  (feeds available) at $15 a month flat;
+  Multiple line (-8568 300 - 2400 baud).
+
+04/94 203-230-4848      colmiks    Hamden          CT 2400-FAST 24
+  Linux.  Public Access Unix site.  Internet mail, Usenet news, FTP, Telnet,
+  gopher, www, wais, archie, etc. are all available.  News becomes stale in
+  one week.  Low monthly fee; no per hour connect charges and no setup fees.
+  First two weeks free.  Unix account with choice of two shells and three
+  newsreaders.  In addition, members can select new Usenet newsgroups that
+  Colmik's is not currently receiving.  Login as 'newuser'.
+  Contact: m...@colmiks.com.
+
+03/93 203-661-1279      admiral    Greenwich       CT 300-FAST  24
+  SCO Unix 3.2.2. (HST/V32) 203-661-2873, (PEP/V32) 203-661-1279, (V32)
+  203-661-0450, (MNP6) 203-661-2967. Magpie BBS for local conversation
+  and Waffle for Internet mail/Usenet news. Interactive chat and games.
+  BBS name is "The Grid." Willing to give newsfeeds and mail access.
+  Shell (tcsh, ksh avail) accounts available at no charge. Direct connect
+  to Internet site (Yale) via UUCP. 230 megs disk space. For more information
+  contact uunet!admiral!doug (Doug Fields) or field...@cs.yale.edu.
+
+03/94 206-328-4944      polari     Seattle         WA 300-FAST  24
+  Equip ???;  8-lines, Trailblazer on 206-328-1468;  $50/year (flat rate);
+  Multi-user games, chat, full USENET.
+  Contact: bruceki%p...@sumax.seattleu.edu
+
+03/94 206-367-3837      eskimo     Seattle         WA 300-FAST  24
+  Sun 3/180 SUN/OS 4.1.1_U1 - Everett Tel 206-742-1150 Fast 206-362-6731
+  14 Lines including TB World:lazer and TB-3000.  Free 2-week trial account.
+  Rates $10/month or $96/year.   Everybody gets their choice of sh, csh, tcsh,
+  ksh, bash, or zsh.  Full Usenet News feed 7 day expire.  Unique real-time
+  conference, message and files system.  UUCP mail and news feeds available.
+  Home of the Western Washington BBS List.  Many applications online.
+  Lots of Unix source code archived online.  Internet ftp/telnet coming soon!
+
+03/94 206-382-6245      halcyon    Seattle         WA 300-FAST  24
+  ULTRIX 4.1, (PEP/V.32) 206-382-6245; monthly and annual fee schedules
+  available.  56kBaud commercial Internet link to the T-3 backbone; NNTP
+  news feed.  Waffle bbs available.  Irc server, archie and gopher clients,
+  hytelnet, spop; dialup or telnet: login as 'bbs' and provide account
+  information.  For more information, contact: in...@remote.halcyon.com,
+  or call voice (PST, USA) +1 206 426 9298
+
+03/94 206-747-6397      seanews    Redmond         WA 1200-FAST 24
+  Xenix 386 2.3.2.  SEANEWS is a free public service, providing
+  access to Usenet and Internet mail.  There are no games, very limited
+  files, etc.  However SEANEWS does have up-to-date Usenet news and
+  excellent mail-handling capability.
+
+03/94 212-420-0527      magpie     NYC             NY 300-FAST  24
+  ? - UNIX SYSV - 2, Magpie BBS, no fee, Authors: Magpie/UNIX; No Shell;
+  Muli-line (using Telebit Worldblazers) plus anonymous uucp;
+  Contact: Steve Manes, ma...@magpie.com
+
+03/94 212-675-7059      marob      NYC             NY 300-FAST  24
+  386 SCO-XENIX 2.2, XBBS, no fee, limit 60 min;  Telebit Trailblazer (9600
+  PEP) only 212-675-8438;
+  Contact:  {philabs|rutgers|cmcl2}!phri!marob!clifford
+
+03/94 212-787-3100      panix      New York City   NY 1200-FAST 24
+  2 Sparc10/40 & 2 Sparc2, 176MB RAM, 12GB disk, Cisco routers, Annex 64-port
+  term servers. Use any of 6 shells or our own custom-written menu system. 119
+  dialins, all support MNP3-5 & V.42/V.42bis. 62 are V.32bis Zyxels (14.4kbps
+  and higher), the rest 2400bps. We are a full internet site with high-speed
+  (T1) line- telnet to panix.com (198.7.0.2). Full UseNet; (t)rn, nn, GNUs,
+  Tin. Elm, Pine, MM, other mail readers. Vi, Emacs, Jove, Pico, other editors.
+  Compile your own code (C/C++). $10/mn or 100/yr for basic, $9 per month add'l
+  for telnet/ftp/gopher/www/etc. Feeds, domains, IP, more.
+     NEW: SLIP or PPP service for only $35/month on 10 (soon 30) new lines.
+          24 local numbers in Long island (516) 626-7863.
+     COMING SOON: Local numbers in N.J. (201) and Westchester (914).
+                  4-processor CPU upgrade. And, as usual, more lines.
+     Contact: Alexis Rosen (ale...@panix.com) 212-877-4854, or Jim Baumbach
+     (j...@panix.com). Or email/finger in...@panix.com, 212-787-6160.
+
+03/94 212-989-4141      mindvox    New York        NY 1200-FAST 24
+  Sparc10/51, SparcServer, 2 TurboSparcs, 256MB Ram, 15GB Disk, 96 dialups,
+  32 additional Hayes V.FC modems @ 212-645-8065.  More high-speed lines
+  added every month.  No startup fees.  Conference-oriented system with
+  CyberPunk/Creative Arts focus.  Custom Interface.  Wired, Mondo 2000,
+  aXcess and others host online conferences.  We are a full internet site
+  with a high-speed leased line connection, telnet to phantom.com (198.67.3.2)
+  and login as "guest" for a tour.  Telnet, ftp, gopher, www, lynx, wais, irc,
+  ddial, SLIP, PPP, newsfeeds, QWK, POP3.  Prices go from $10-$17.50 per month
+  for full access, discounts for pre-payment are available.
+    Contact: in...@phantom.com, gopher phantom.com, or 800-MindVox
+
+09/93 212-989-8411      echo       NYC             NY 300-FAST  24
+  Equip ???, OS ???;  A full Internet site with a highspeed leased line:
+  telnet to echonyc.com (198.67.15.1).  Members have full access to shell,
+  Usenet, telnet, ftp, gopher et al.  $19.95/month, $13.95/month for
+  students and seniors.  We are a public computer conferencing system with
+  1500 members (40% female) and full Internet access.
+  Contact: ho...@echonyc.com (Voice: (212) 255-3839)
+
+03/94 214-248-9811      sdf        Dallas          TX 300-FAST  24
+  i386/25 isc 2.0.1;  sdf.lonestar.org;  8-line rotary, 2400 bps, 14.4k, PEP;
+  No Fees;  Shell account and UUCP mail/news feeds available;  Providing
+  access to Internet E-Mail, 1600+ USENET newsgroups, online games, pro-
+  gramming utilities and more.
+  login 'info' for registration information.
+  contact:  s...@sdf.lonestar.org
+
+03/94 214-705-2901      metronet   Dallas          TX 300-FAST  24
+  HP-UX 8.07, HP 9000/705; Texas Metronet Communications Service.
+  10 14.4k dialups (7052901), 10 2400 dialups (7052917).  Offers shell
+  accounts w/ ftp, telnet, irc, UseNet, etc.  Also UUCP and SLIP.  Flat
+  monthly fees from $10-$50, depending on service type.  telnet connections
+  to feenix.metronet.com welcome.  For more information login as info/info,
+  or mail in...@metronet.com, or call voice at 7052900.
+
+04/94 215-348-9727      jabber     Doylestown      PA 300-FAST  24
+  80486DX/33, ISC 386/ix 4.0;  Telebit Trailblazer+;  No fee services:
+  "*NIX Depot" BBS - XBBS Software w/ messaging and many UNIX/Xenix specific
+  downloads, RFCs, CERT advisories, DDN Newsletters, etc.;  Anonymous UUCP
+  available for access to the latest nixpub lists, please see the footer of
+  this list for more details.  Fee services: UUCP feeds, providing access to
+  Internet E-mail and full USENET News (3000+ groups);
+  Contact: Phil Eschallier (ph...@bts.com).
+     anon-uucp:  ogin: nuucp  (No passwd)
+
+02/94 216-481-9445      wariat     Cleveland       OH 300-FAST  24
+  ISC Unix SysV/386; USR DS on 481-9445, T-3000 on 481-9425. Shell and
+  UUCP/Internet mail access available. News and mail feeds are
+  available; also, DOS and UNIX files. Anonymous uucp: login: nuucp,
+  no password; request /x/files/ls-lR.Z; nuucp account does not allow
+  mail exchange; UnixBBS distribution point. BBS free (with e-mail)
+  for shell/uucp/newsfeed donation requested. For details, e-mail to:
+  zb...@wariat.org (Zbigniew Tyrlik)
+
+03/94 216-582-2460      ncoast     Cleveland       OH 1200-FAST 24
+  80386 Mylex, SCO Xenix;  600 meg. storage;  XBBS and Shell;  USENET
+  (newsfeeds available), E-Mail; donations requested; login as "bbs"
+  for BBS and "makeuser" for new users.
+  Telebit used on 216-237-5486.
+
+03/93 217-789-7888      pallas     Springfield     IL 300-FAST  24
+  AT&T 6386, 600 meg disk space;  4 lines w/ USRobotics Dual Standard modems;
+  BBS available at no fee (UBBS), shell access for $50/year;  E-Mail, Usenet;
+  "guest" login available.
+
+03/94 301-220-0462      digex      Greenbelt       MD 300-2400  24
+  Express Access Online Communications.  Local to Washington, Baltimore,
+  Annapolis and Northern Virginia (area code 703); Baltimore dialup
+  410-766-1855, Gaithersburg/Damascus 301-570-0001.  SunOS shell, full
+  Usenet, and e-mail $15/month or $150/year;  Internet services incl.
+  Telnet, FTP, IRC with news/mail $25/month or $250/year; includes
+  unlimited usage 3am - 3pm and 1 hour between 3pm and 3am.  Login as
+  new (no password) for info and account application, major credit
+  cards accepted.  Telnet to digex.com or mail to in...@digex.com for
+  more info; voice phone 800-969-9090 (or 301-220-2020).
+
+03/94 303-871-3324      nyx        Denver          CO 300-FAST  24
+  A sort of "social experiment" aimed at providing Internet access to the
+  public with minimal operational costs with a "friendly" front end (a
+  home-made menu system).  Completely donation and volunteer
+  operated, no user fees at all.  Log in as 'new' to create an account.
+  Equipment: Sun SparcServer II + Pyramid 90x, ~6Gb disk space, 16 phone
+  lines (+ network logins; usually ~50 users logged in).  Public domain
+  file area, private file area, games, full USENET news, internet e-mail.
+  Provides shell and more network access with proof of identity.
+  Contact: Andrew Burt, ab...@nyx.cs.du.edu
+
+02/94 305-434-7340      satelnet   Fort Lauderdale FL 300-FAST  24
+  MIPS RISCserver RC3260, UNIX (RISCos 4.52).  Login "new" for
+  1 week of free access.  Rates: $17/month or $60 for 4 months ($15/mo).
+  Full internet access (telnet, ftp, gopher, irc, etc), unix shell access,
+  usenet (nn, tin, rn, trn), e-mail (elm, pine, mail).  Any other PD software
+  installed upon request.
+  Contact: ro...@sefl.satelnet.org
+
+03/94 309-676-0409      hcserv     Peoria          IL 300-FAST  24
+  SGI 4d70 SysV and 386BSD - Public Access UNIX Systems - Mult.Lines/ 1.8GB
+  Access fee structure based on usage and a $0.02 a minute connection with
+  a cap of $20.00 a month. Shells (sh,csh,bash,tcsh,zsh), Compilers C and
+  Fortran, games, File and Pic. Libs., UUCP and USENET access with various
+  news readers, U.S. Patent and USPS Stamp databases, general timesharing
+  and programmed on-line applications. Three gateways including AT&T mail
+  services with outgoing FAX. Self register.
+    Contact: Victoria Kee  {uunet!hcserv!sysop   sysop%...@uunet.uu.net}
+
+11/93 312-248-0900      ddsw1      Chicago         IL 300-FAST  24
+  Intel Machines, BSDI/DELL; guest users have free BBS access; fee for
+  shell, Usenet, Internet, unlimited use, and offsite mail; Authors
+  of AKCS bbs;  6.5GB storage, fee varies with service classification,
+  V.32bis & PEP available.  Newsfeeds and mail connections available;
+  Full Internet services including SLIP, PPP, and leased circuits
+  Contact: Karl Denninger (ka...@MCS.COM) or voice/fax at 312-248-UNIX
+
+03/94 312-282-8606      gagme      Chicago         IL 300-FAST  24
+  80486 - Linux.  World Wide Access (TM)  Full Internet Access now
+  available! Full netnews, E-mail, ftp, telnet, IRC, MUD, and so much
+  more!  Shell and BBS options.  Multiple V.32bis and PEP lines.  More
+  lines added as needed.  UUCP feeds also available.  Send mail to or
+  finger in...@wwa.com for more information.
+
+03/94 312-283-0559      chinet     Chicago         IL 300-FAST  24
+  '386, SysVr3.2.1;  Multiple lines including Telebit and HST;
+  Picospan BBS (free), USENET at $50/year (available to guests on
+  weekends).
+
+02/94 313-623-6309      nucleus    Clarkston       MI 1200-2400 24
+  AMI 80386 - ESIX 5.3.2, large online sources archive accessible by
+  anonymous UUCP, login: nuucp, nucleus!/user/src/LISTING lists
+  available public domain/shareware source code.
+  Contact: je...@nucleus.mi.org
+
+03/93 313-761-3000      grex       Ann Arbor       MI 300-FAST  24
+  Sun 2/170 with SunOS 3.2.  Full Usenet feed, Internet e-mail, shell
+  accounts, on-line games, PicoSpan, UUCP accounts.  Voluntary
+  donation ($6/month or $60/year) for coop membership and Usenet
+  posting access.  6 lines, 300MB.  Cooperatively owned & operated by
+  Cyberspace Communications.
+  Contact: in...@cyberspace.org
+
+03/94 313-996-4644      m-net      Ann Arbor       MI 300-2400  24
+  486 - BSDI, open access; run by Arbornet, tax-exempt nonprofit; donations
+  tax deductible; dues for extended access; user supported; 15 lines;
+  Picospan conferencing; 500 MB disk; Internet e-mail; UUCP available;
+  free shell access, C compiler, multiuser party, games (including nethack,
+  empire, rotisserie baseball); M-Net 10 year anniversary in June, 1993!
+  Access from the Internet:  telnet m-net.ann-arbor.mi.us
+  contact:  he...@m-net.ann-arbor.mi.us
+
+03/93 401-455-0347      anomaly    Esmond          RI 300-FAST  24
+  Informtech 486 mongrel; SCO Open Desktop 1.1; Trailblazer+ (0347) and
+  v.32 T2500 (401-331-3706) dialins. Directly connected to the Internet:
+  IP Address: 155.212.2.2, or 'anomaly.sbs.risc.net'. Current fees: $15/mo.
+  includes complete Internet access. Mail and USENET Newsfeeds available,
+  limited feeds for non-PEP sites. SCO software archive site, anonymous
+  UUCP login: xxcp, pass: xenix. Anonymous FTP also supported. Software
+  listing & download directions in anomaly!~/SOFTLIST
+
+02/94 403-569-2882      debug      Calgary         AB 300-FAST  24
+  386, SCO-Xenix; Login: gdx; Telebit, HST, V.32bis, MNP-5 supported;
+  6 phone lines: (403) 569-2882, 569-2883, 569-2884, 569-2885, 569-2886;
+  System runs modified GDX BBS software; Services: Usenet, Internet email,
+  IRC, local-chat, 50+ games, legal-forms, programming, ftp-via-email,
+  and much more; Fee: $10/month-3hrs/day to $25/month-24hrs/day;
+  Visa & Amex accepted.  Demo accounts with limited access are free.
+  Contact: Rob Franke ro...@debug.cuc.ab.ca
+
+03/94 407-299-3661      vicstoy    Orlando         FL 1200-2400 24
+  ISC 386/ix 2.0.2. Partial USENET, e-mail (feeds available);  Login as
+  bbs, no passwd (8N1);  Free shell access;  Orlando BBS list, games;
+  cu to Minix 1.5.10 system (weather permitting);  USENET includes
+  Unix/Minix source groups.  Contact: uunet!tarpit!bilver!vicstoy!vickde
+  or vickde@vicstoy.UUCP (Vick De Giorgio).
+
+03/94 408-241-9760      netcom     San Jose        CA 1200-FAST 24
+  UNIX, Sun Network SunOS 4.1;  Netcom - Online Communication Services;
+  70 Telebit lines V.32/V.42  9600/2400/;  USENET (16 days), Lrg archive,
+  News/Mail Feeds, Shell, Internet (ftp, telnet, irc),  Slip Connections,
+  Local access via CALNet San Jose,  Palo Alto, Red Wd Cty, San Fran,
+  Oklnd, Berkly, Alameda, Pleasanton, Los Angeles, and Santa Cruz;
+  Fee $17.50/mo + Reg fee of $15.00.  Login: guest (510)865-9004,
+  (408)241-9760,(408)459-9851,(310)842-8835,(415)424-0131,(510)426-6860;
+  Just Say No to connect fees, Login as guest (no password).
+
+03/94 408-245-7726      uuwest     Sunnyvale       CA 300-FAST  24
+  SCO-XENIX, Waffle. No fee, USENET news (news.*, music, comics, telecom, etc)
+  The Dark Side of the Moon BBS. This system has been in operation since 1985.
+  Login: new Contact: (UUCP) ames!uuwest!request (Domain) req...@darkside.com
+
+03/94 408-249-9630      quack      Santa Clara     CA 300-FAST  24
+  Sun 4/75, SunOS 4.1.3; 3 lines: First two are Zyxel U-1496E (300-2400,
+  v.32bis/v.42bis), third is a Worldblazer (same and add PEP); Internet
+  connectivity; Shell - $10/mo; New users should login as 'guest';
+  Contact: postm...@quack.kfu.com
+
+08/93 408-293-9010      a2i        San Jose        CA 1200-FAST 24
+  Usenet/Email/Internet/SunOS (Unix).  20 lines.  Dial 408-293-9010
+  (v.32bis, v.32) or 408-293-9020 (PEP) and log in as "guest".  Or
+  telnet to a2i.rahul.net, 192.160.13.1.  Or send any message to
+  in...@rahul.net; a daemon will auto-reply.  $12/month for 6-month
+
+04/93 408-423-4810      deeptht    Santa Cruz      CA 300-FAST  24
+  4 dialin lines (2 2400 at 423-4810, 2 v32 at 423-1767), 486/40+32M,
+  2 GB disk space including a large part of the uunet source archives,
+  SCO UNIX 3.2v4.1, C/Pascal/Fortran/BASIC compilers, TinyMud, rn/trn.
+  Domain name: deeptht.armory.com (and alias armory.com).
+
+02/94 408-423-9995      cruzio     Santa Cruz      CA 1200-2400 24
+  Tandy 4000, Xenix 2.3.*, Caucus 3.*;  focus on Santa Cruz activity
+  (ie directory of community and government organizations, events, ...);
+  USENET Support;  Multiple lines;  no shell; fee: $15/quarter.
+  Contact: ...!uunet!cruzio!chris
+
+02/94 408-458-2289      gorn       Santa Cruz      CA 300-FAST  24
+  Everex 386, SCO xenix 2.3.2;  2 lines, -2837 telebit for PEP connects;
+  Standard shell access, games, email injection into the internet, up to
+  date archive of scruz-sysops information, upload/download, usenet news
+  including scruz.* hierarchy for santa cruz area information;  UUCP set
+  up on as-requested;  No charge, donations accepted; newuser:  log in as
+  ``gorn'' and fill out online form.
+  Contact: fal...@gorn.echo.com
+
+03/94 408-725-0561      portal     Cupertino       CA 300-FAST  24
+  Networked Suns (SunOS), multiple lines, shell or "online menu" access;
+  Live Internet;  fees: $19.95/mn;  conferencing, multi-user chats, computer
+  special interest groups; E-Mail/USENET;  UUCP service also available.
+  Contact: Customer Service (c...@portal.com).
+
+03/94 408-739-1520      szebra     Sunnyvale       CA 300-FAST  24
+  386PC, AT&T SVR4v3; Trailblazer+; Full Usenet News, email (Internet & UUCP),
+  first time users login: bbs, shell access/files storage/email available
+  (registration required); GNU, X11R4 and R5 source archives.  viet-net/SCV
+  and VNese files/sftware archives.
+  contact: t...@szebra.Saigon.COM or {claris,zorch,sonyusa}!szebra!tin
+
+03/93 410-661-2598      wb3ffv     Baltimore       MD 1200-FAST 24
+  80486, UNIX V.3.2.x;  XBBS for HAM radio enthusiasts;  1.6 Gigabytes online;
+  Multiple lines, dial in - TB WorldBlazer, 2475 - USR HST DS V.32bis/42bis,
+  2648 - Tb+ PEP; Some USENET;  Anon-UUCP available;  Login as bbs (8-N-1).
+
+12/93 410-893-4786      magnus1    Belair          MD 300-FAST  24
+  Equip Unisys S/Series, UNIX 3.3.2;  ksh, csh, sh;  Multiple lines;
+  $60.00/yr;  E-Mail/USENET,ftp, telnet,finger;  'C', Pascal, Fortran, Cobol,
+  Basic development systems; Interactive chat and games;  Files for download;
+  USA Today, Online Magazines, Daily Business News;  PC Catalog;  Local Online
+  Forums as well; as Technical Help;  Clarinet News;  No limits.
+  Contact cyn...@magnus1.com
+
+03/94 412-481-5302      telerama   Pittsburgh      PA 300-FAST  24
+  Telerama Public Access Internet. 4.3 bsd. Multiple lines. Hourly fee
+  includes telnet, ftp, e-mail, Usenet, ClariNet/UPI, gopher, IRC, games,
+  compilers, editors, shell or menu navigation and 1 meg disk quota.  Also
+  offering SLIP, UUCP and commercial accounts. Fees: $20/mo (personal),
+  $50/mo (commercial);  Registration: login as new. FTP info from
+  telerama.pgh.pa.us; /info/telerama.info
+  Contact: Kristen McQuillin, in...@telerama.pgh.pa.us. 412/481-3505 voice.
+
+03/94 414-241-5469      mixcom     Milwaukee       WI 1200-FAST 24
+  80386, SCO UNIX 3.2;  MIX (Milwaukee Internet eXchange);  $9/mo
+  access to Internet services including email, Usenet BBS and file
+  archives;  MIX has comprehensive and easy to use menus, along with
+  shell access;  Multiple lines;  login as 'newuser' password 'newuser'.
+  Contact: Dean Roth  (sy...@mixcom.com)  [414-962-8172 voice]
+
+03/93 414-321-9287      solaria    Milwaukee       WI 300-2400  24
+  Sun 3/60LE, SunOS 4.1.  Internet E-mail, limited USENET news, shell access,
+  Telebit WorldBlazer soon.  Feeds available.  Donations requested,
+  registration required.  One hop off of the Internet.
+  Contact: jgr...@solaria.mil.wi.us (Joe Greco) or log in as "help"
+
+06/93 414-342-4847      solaria    Milwaukee       WI 300-FAST  24
+  Sun 3/60LE, SunOS 4.1.  Internet E-mail, limited USENET news, shell access,
+  feeds available,  donations requested, registration required.
+  One hop off of the Internet.
+  Contact: jgr...@solaria.mil.wi.us (Joe Greco) or log in as "help"
+
+06/93 414-734-2499      edsi       Appleton        WI 300-FAST  24
+  IBM PS/2 Model 55SX, SCO Xenix 2.3.2;  Running STARBASE II Software.
+  Enterprise Data Systems Incorporated (Non-profit).  100+ local rooms,
+  PLUS USENET, Multi Channel Chat, 9 ports, $15 yr, flat rate for full
+  access to net news (no alternet yet), mail.  The Fox Valley's only public
+  access Unix based BBS.
+  Contact: Chuck Tomasi (ch...@edsi.plexus.COM)
+
+03/94 415-332-6106      well       Sausalito       CA 1200-FAST 24
+  6-processor Sequent Symmetry (i386); Internet, UUCP and USENET
+  access; multiple lines; access via CPN and Internet (well.sf.ca.us);
+  PICOSPAN BBS; $15/mo + $2/hr (CPN or 9600 +$4/hr);
+  Contact (415) 332-4335
+
+03/94 415-826-0397      wet        San Francisco   CA 1200-FAST 24
+  386 SYS V.3.  Wetware Diversions.  $15 registration, $0.01/minute.
+  Public Access UNIX System:  uucp, PicoSpan bbs, full Usenet News,
+  Multiple lines (6), shell access.  Newusers get initial credit!
+  contact:{ucsfcca|hoptoad|well}!wet!editor (Eric Swanson)
+
+03/94 415-949-3133      starnet    Los Altos       CA 300-FAST  24
+  SunOS 4.1. 8-lines. MNP1-5 and v42/bis, or PEP on all lines.
+  Shell access for all users.  USENET--900+ groups.  E-mail (feeds
+  available).  smart mail.  Publically available software (pd/shareware).
+  $12/mo. Contact: admin@starnet.uucp or ...!uunet!apple!starnet!admin
+
+03/94 415-967-9443      btr        Mountain View   CA 300-FAST  24
+  Sun (SunOS UNIX), shell access, e-mail, netnews, uucp, can access by
+  Telenet PC Pursuit, multiple lines, Telebit, flat rate: $12.50/month.
+  For sign-up information please send e-mail to Customer Service at
+  c...@btr.com or ..!{decwrl,fernwood,mips}!btr!cs
+  or call 415-966-1429 Voice.
+
+03/93 416-249-5366      r-node     Etobicoke       ON 300-FAST  24
+  80386, ISC SV386; SupraModem2400 on Dial-in line, Worldblazer and
+  Cardinal2400 on other two lines; No fee services: Uniboard BBS for
+  BBS users; shell access for those who ask; Fee services: access
+  to subsequent lines, unlimited dl/ul access; full USENET News and
+  International E-mail access through Usenet/Internet mail; Free
+  UUCP connections;
+  Contact: Marc Fournier (ma...@r-node.gts.org)
+
+03/93 416-461-2608      tmsoft     Toronto         ON 300-FAST  24
+  NS32016, Sys5r2, shell; news+mail $30/mo, general-timesharing $60/mo
+  All newsgroups.  Willing to setup mail/news connections.
+  Archives:comp.sources.{unix,games,x,misc}
+  Contact: Dave Mason <mason@tmsoft> / Login: newuser
+
+03/94 503-220-1016      teleport   Portland        OR 300-FAST  24
+  SPARCstations, SunOS 4.1.3,  5.5GB disk; 30 lines and support PEP/V.32
+  and V.32bis; E-Mail/USENET;  Shell access for $120 / year includes
+  choice of shell, full news feed, complete internet (ftp, telnet, irc,
+  mud) access; apply with "new" or email in...@teleport.com
+
+03/94 503-293-1772      agora      Portland        OR 1200-FAST 24
+  Intel Unix V/386, $6/mo or $60/yr, news, mail, ftp, telnet, irc.
+  Six lines with trunk-hunt, all V.32bis.  Agora is part of RAINet.
+  Contact: Alan Batie, ba...@agora.rain.com
+
+03/94 503-297-3211      m2xenix    Portland        OR 300-FAST  24
+  '386/20, Xenix 2.3.  2 Lines (-0935);  Shell accounts available, NO BBS;
+  No fee;  E-mail, USENET News, program development.
+  Contact: ...!uunet!m2xenix!news or on Fido at 297-9145
+
+03/94 503-632-7891      bucket     Portland        OR 300-FAST  24
+  Tektronix 6130, UTek 3.0(4.2bsd-derived).  Bit Bucket BBS no longer
+  online.  Modem is Telebit Trailblazer+ (PEP).  Users interested in
+  access to Unix should send EMail to ri...@pail.rain.com.  $30/year
+  access fee includes USENET News, EMail (fast due to local Internet
+  access), and access to all tools/utilities/games.  Internet 'ftp'
+  available upon request.   UUCP connections (1200, 2400, 9600V.32,
+  9600PEP, 19200PEP) available (through another local system which is
+  not publically available) to sites which will poll with reasonable
+  regularity and reliability.
+
+06/93 508-664-0149      genesis    North Reading   MA 300-FAST  24
+  SVR3 UNIX; Internet mail; Usenet News; No Fees; Shell access and menu
+  system; Three lines; One hop from the Internet; HST and V.32bis; UUCP
+  feeds available.  Contact: ste...@genesis.nred.ma.us (steve belczyk).
+  Automated reply: in...@genesis.nred.ma.us
+
+09/93 508-853-0340      schunix    Worcester       MA 2400-FAST 24
+  Sparc 2, 1.9GB; Email, Shell, Full UseNet, C/C++, over 11GB on CD's,
+  $5/month $3/hr, $10/mn 5hrs incl. $2/hr, uucp-feeds call,
+  login:guest for info, Free BBS inside of schunix, login:pbbs,
+  Contact: Robert Schultz (sc...@schunix.com) 508-853-0258
+  SCHUNIX 8 Grove Heights Drive, Worcester, MA 01605
+
+03/93 510-294-8591      woodowl    Livermore       CA 1200-FAST 24
+  Xenix/386 3.2.1.  Waffle BBS,  Usenet Access;  Reasonable users welcome.
+  No fee;  For more information contact: william@woodowl.UUCP,
+  lll-winken!chumley!woodowl!william, or call and just sign up on system.
+
+01/94 510-530-9682      bdt        Oakland         CA 1200-FAST 24
+  Sun 4, SunOS 4.1;  BBS access to Usenet news, E-mail (Internet and
+  UUCP).  QWK support.  PEP/V.32 on 510-530-6915.  First time users
+  login: bbs. Unix, Atari ST, and IBM-PC sources and PD/shareware.
+  $35 annual fee. 30-day free trial. Newsfeeds and UUCP access by
+  special arrangement.  Contact: David Beckemeyer da...@bdt.com
+
+03/94 510-623-8652      jack       Fremont         CA 300-FAST  24
+  Sun 4/470 running Solaris 2.2 offers downloading of netnews archives
+  and all uploaded software. Each user can log in as bbs or as the account
+  which they create for themselves. This is a free Public Access Unix
+  System that is part of a network of 4 machines. The primary phone line
+  is on a rotary to five other lines.
+
+02/94 510-704-1058      HoloNet    Berkeley        CA 1200-FAST 24
+  DECstations, ULTRIX;  Commercial network, over 850 cities;  Custom shell;
+  Full Internet, IRC, telnet, USENET, USA Today Decisionline, games;
+  $2/hr off-peak;  Telnet: holonet.net, Info sever: in...@holonet.net,
+  Contact: sup...@holonet.net
+
+03/94 512-346-2339      bigtex     Austin          TX FAST      24
+  SysVr3.2 i386, anonymous shell, no fee, anonymous uucp ONLY,
+  Telebit 9600/PEP; Mail links available.  Carries GNU software.
+  anon uucp login: nuucp NO PASSWD, file list /usr3/index
+  anon shell login: guest NO PASSWD, chroot'd to /usr3
+  Contact: ja...@bigtex.cactus.org
+
+03/93 513-779-8209      cinnet     Cincinnati      OH 1200-FAST 24
+  80386, ISC 386/ix 2.02, Telebit access, 1 line; $7.50/Month; shell
+  access, Usenet access; news feeds available;
+  login: newacct password: new user to register for shell access
+
+03/93 514-435-8896      ichlibix   Blainville Queb CA 300-FAST  24
+  80386, ISC 2.2.1;  2400 bps modem on dial in, HST DS on -2650;  BBS
+  program is Ubbs (RemoteAccess Clone) - named Soft Stuff, no shell;
+  No fees required but are recommended for more access ($25 - $75/yr);
+  Files for both dos and UNIX + a lot of binaries for ISC;  Possibility
+  to send/receive UUCP mail from the BBS
+
+02/94 515-945-7000      cyberspace Jefferson       IA 300-FAST  24
+  SUNOS: FREE SERVICE, no time limits;  T1 (1.536MB) Internet Link, Full
+  News Feed, Irc, Archie, Lynx, WWW, telnet
+  ncftp, and more.  FREE Unix Shell, PPP & Slip Accounts.
+
+06/93 516-586-4743      kilowatt   Deer Park       NY 2400-FAST 24
+  Consensys SVR4 running on a clone 80486-33. 516-586-4743 for Telebit World-
+  Blazer, 516-667-6142 for a Boca V.32bis. Providing FREE USENET email/news
+  to the general public. FREE feeds available with a selection of all of
+  alt, biz, comp, rec, talk, sci, soc, and vmsnet newsgroups ... using UUCP
+  or QWK-packets. Contact: Arthur Krewat 516-253-2805 krewat@kilowatt.UUCP
+  or kre...@kilowatt.linet.org Telnet/Ftp not available here, so don't
+  even ask!
+
+03/93 517-487-3356      lunapark   E. Lansing      MI 1200-2400 24
+  Compaq 386/20 SCO-UNIX 3.2, lunabbs bulletin board & conferencing
+  system, no fee, login: bbs password: lunabbs.  Primarily UNIX software
+  with focus on TeX and Postscript, also some ATARI-ST and IBM-PC stuff
+  2400/1200 --> 8 N 1
+  Contact: ...!{mailrus,uunet}!frith!lunapark!larry
+
+03/93 517-789-5175      anubis     Jackson         MI 300-1200  24
+  Equip ???, OS ???; 1200 baud dial-in (planning on 19.2kbps);
+  UUCP connections to the world, PicoSpan BBS software, Teleconferencing,
+  C programming compiler, 3 public dial-in lines, Online games;
+  Contact: Matthew Rupert (ro...@anubis.mi.org).
+
+03/93 518-346-8033      sixhub     upstate         NY 300-2400  24
+  PC Designs GV386.  hub machine of the upstate NY UNIX users group (*IX)
+  two line reserved for incoming, bbs no fee, news & email fee $15/year
+  Smorgasboard of BBS systems, UNaXcess and XBBS online,
+  Citadel BBS now in production. Contact: davidsen@sixhub.uucp.
+
+09/93 602-274-9600      indirect   Phoenix         AZ 300-FAST  24
+  Sun/SunOS + multiple 486/50's;  Live internet, multiple lines (up to 14.4k);
+  E-Mail/USENET, 5mb disk quota, shell or menu system, multi-user games, off-
+  line news readers (personal $20/mo, business $30/mo);  UUCP feeds available
+  ($20-$45/mo);  SLIP/PPP connection at speeds up to 14.4k - demand/dedicated
+  lines (leased line connections to 24kbps) (basic rates $150/mo).
+  Contact: in...@indirect.com
+
+03/93 602-293-3726      coyote     Tucson          AZ 300-FAST  24
+  FTK-386, ISC 386/ix 2.0.2;  Waffle BBS, devoted to embedded systems
+  programming and u-controller development software;  E-Mail/USENET;
+  UUCP and limited USENET feeds available;
+  Contact: E.J. McKernan (e...@datalog.com).
+      bbs: ogin: bbs    (NO PWD)
+     uucp: ogin: nuucp  (NO PWD)
+
+09/93 602-321-9600      indirect   Tucson          AZ 300-FAST  24
+  Refer to primary entry (Phoenix, AZ) for system/services details.
+
+03/94 602-649-9099      telesys    Mesa            AZ 1200-FAST 24
+  SCO UNIX V/386 3.2.4; Telebit WorldBlazers; TeleSys-II Unix based BBS
+  (no fee) login: bbs; Unix archives available via BBS or ANON UUCP;
+  Shell Accounts available for full access USENET, email (fees);
+  Phoenix Matchmaker with more than 9000 members (fees) login: bbs
+  Regional supplier of USENET Newsfeeds; uucp-anon: nuucp NOPWD;
+  Contact: kr...@tnet.com  or  ...!ncar!noao!enuucp!telesys!kreed
+
+02/94 602-991-5952      aa7bq      Scottsdale      AZ 300-2400  24
+  Sun 4, SunOS 4.1.2;  NB bbs system;  900 meg online;  Primarily Ham Radio
+  related articles from usenet (Rec.radio.amateur.misc), complete Callsign
+  Database, Radio and scanner modifications, frequency listings, shell access
+  by permission, No fees, Free classified ads, Local e-mail only.
+  Login: bbs (8N1) or
+  Login: callsign for callsign database only.  Don't use MNP!
+  For additional info contact Fred....@West.Sun.COM
+
+03/93 603-429-1735      mv         Litchfield      NH 1200-FAST 24
+  80386; ISC UNIX; MV is on the Internet (mv.MV.COM, host 192.80.84.1);
+  mail connections and news feeds via uucp; domain registrations;
+  membership in "domain park" MV.COM; domain forwarding; archives of
+  news and mail software for various platforms; mailing lists;
+  area topics;  $7/month for 1 hour/month; $20/month for 3 hours/month
+  $2/hour thereafter; blocks of 30 hours for $20 month - First month free
+  up to 20 hours.
+  Voice: 603-429-2223; USMail: MV Communications Inc, PO Box 4963
+  Manchester NH 03108; Or dial the modem and login as "info" or "rates".
+
+03/93 603-448-5722      tutor      Lebanon         NH 300-FAST  24
+  Altos 386 w/ System V 3.1;  Limited newsfeed;  E-Mmail and USENET available
+  via UUCP.
+  Contact: peter....@dartmouth.edu
+
+03/93 604-576-1214      mindlink   Vancouver       BC 300-FAST  24
+  80386 w/ SCO Xenix;  14 lines, 660 Meg disk space, TB+ & 9600 HST available;
+  No shell;  Fee of $45/year for BBS access;  E-Mail, USENET, hundreds of megs
+  of file downloads;  Operating since 1986.
+
+02/94 605-348-2738      loft386    Rapid City      SD 300-FAST  24
+  80386 SYS V/386 Rel 3.2, Usenet mail/news via UUNET, UUNET archive access.
+  NO BBS!  News feeds available.  400 meg hd.  Fees: $10/month or $25/quarter.
+  Call (605) 343-8760 and talk to Doug Ingraham to arrange an account or email
+  uunet!loft386!dpi
+
+03/93 606-233-2051      lunatix    Lexington       KY 300-2400  24
+  SCO Unix 3.2.2.  2 2400 baud lines.  V32bis later in the fall.
+  Home grown Pseudo BBS software.  Multiuser games, Full USENET Feed on
+  tap, USENET Feeds available.  Shells available, No Fees.
+
+03/93 608-246-2701      fullfeed   Madison         WI FAST      24
+  Sun SPARC station SLC, 16Mb RAM, 1Gb disk, SunOS 4.1.1, Telebit
+  WorldBlazers;  operated by FullFeed Communications;  USENET/E-Mail,
+  UUCP plus other digital communication services;  login: fullfeed;
+  UUCP starts at $24/month, shells cost $16/month;  No-cost, limited-term,
+  evaluation accounts are setup over the telephone;  FullFeed plans to offer
+  Internet connections (SLIP, PPP, 56Kbps) within 6 months.
+  Contact "SYSop@FullFeed.Com" or call +1-608-CHOICE-9 (voice).
+
+03/93 608-273-2657      madnix     Madison         WI 300-2400  24
+  486, MST UNIX SysV/386, shell, no fee required, USENET news, mail, login: bbs
+  Contact: ray@madnix.uucp
+
+03/94 610-539-3043      cellar     Trooper/Oaks    PA 300-FAST  24
+  DTK 486/33, SCO Unix 3.2, Waffle BBS - The Cellar BBS, no shell; USR
+  Dual-Standard modems, five lines and growing.  BBS is free; net news
+  (full feed) and net mail by subscription.  $10/mo, $55/6-mo, or $90/yr.
+  Fancies itself to be more of a colorful "electronic community" than the
+  best plug into the net, and as such, it features a lively local message
+  base.  But it also generally carries the latest Linux distribution,
+  just to prove it hasn't forgotten its hacker roots.
+  Contact: Tony Shepps (to...@cellar.org).
+
+08/93 612-458-3889      skypoint   Newport         MN 300-FAST  24
+  Unixware System V R4.2. VGA Graphics BBS/OIS using Sentience BBS
+  software from Cyberstore - Sentience uses the RIP graphics protocol; 4
+  lines are Courier 14.4 Modems, 1 Worldblazer;  Full News Feed 7 day expire,
+  Clarinet Feed Site, USA Today, Board Watch, News Bytes, Internet Mail, Real
+  time games and conferences;  Unix, DOS, Windows and OS/2 source and binary
+  archives on CDROMS and 2.1 Gigabytes of Disk;  $45 dollars year basic
+  services $85 dollars a year for full access, $100 a year for Unix shell
+  account and access to full development tools;  Will provide Clarinet and
+  USENET News Feeds;  Will add Fidonet and other networks in the near future;
+  Login as 'guest'.
+  Contact:  in...@skypoint.com
+
+03/94 612-473-2295      pnet51     Minneapolis     MN 300-2400  24
+  Equip ?, Xenix, multi-line, no fee, some Usenet news, email, multi-threaded
+  conferencing, login: pnet id: new, PC Pursuitable
+  UUCP: {rosevax, crash}!orbit!pnet51!admin
+
+04/93 613-724-9817      latour     Ottawa          ON 300-FAST  24
+  Sun 3/60, SunOS 4.1, 8meg Ram, 660 meg of disk; 2nd line v.32[bis];
+  No BBS;  Unix access rather than usenet;  Login as guest for a shell
+  (send mail to postmaster asking for an account);
+  Anon uucp is login as 'anonuucp' (/bin/rmail is allowed) --
+  Grab ~uucp/README[.Z] for an ls-lR.
+
+03/93 613-837-3029      micor      Orleans         ON 300-FAST  24
+  386/25, 600 Meg, Xenix 2.3.2, USENET, email, 2 phone lines
+  fee required to get more than 15 mins/day of login and to access
+  additional phone lines.
+  Available:  bbs accounts (waffle) or shell accounts.
+  Contact: mic...@micor.ocunix.on.ca or michel@micor.uucp, Michel Cormier.
+
+03/94 614-868-9980      bluemoon   Reynoldsburg    OH 300-FAST  24
+  Sun 4/75, SunOS;  2.2gb;  Leased line to the Internet;  Multiple lines,
+  HST Dual on -9980 & -9982, Telebit T2500 on -9984;  2gb disk space;
+  Bluemoon BBS -- supporting UNIX, graphics, and general interest;  Full
+  USENET, gated Fidonet conferences, E-Mail;
+  Contact: grant@bluemoon.uucp (Grant DeLorean).
+
+03/93 615-288-3957      medsys     Kingsport       TN 1200-FAST 24
+  386 SCO-UNIX 3.2, XBBS;  No fee, limit 90 min;  Telebit PEP, USENET, 600mb;
+  login: bbs   password: bbs
+  anon uucp --> medsys Any ACU (speed) 16152883957 ogin: nuucp
+  Request /u/xbbs/unix/BBSLIST.Z for files listing
+  Contact: laverne@medsys (LaVerne E. Olney)
+
+03/93 616-457-1964      wybbs      Jenison         MI 300-FAST  24
+  386 - SCO-XENIX 2.3.2, two lines, XBBS for new users, mail in for shell
+  access, usenet news, 150 meg storage, Telebit. Interests: ham radio, xenix
+  AKA: Consultants Connection  Contact: dan...@wyn386.mi.org
+  Alternate phone #: 616-457-9909 (max 2400 baud). Anonymous UUCP available.
+
+09/93 617-593-4557      northshore Lynn            MA 300-FAST  24
+  Sun SPARCstation, SunOS 4.1.3;  Telebit Worldblazer modems (v.32bis, v.32,
+  2400, 1200 baud);  Eco Software, Inc;  GNU, archie, gopher, wais, etc. -
+  any software you need, we'll add it;  $9/month for 10 hours connect time,
+  3 Mb disk quota (additional usage: connect - $1/hour, disk - $1/Mb/month);
+  UUCP feeds available;  Hours: 7 days/week, 24 hours/day (except Friday
+  15:00-18:00 for backups).
+  Contact: in...@northshore.ecosoft.com (Voice: (617) 593-3110).
+
+03/94 617-739-9753      world      Brookline       MA 300-FAST  24
+  Sun 4/280, SunOS 4.0.3;  Shell, USENET, E-Mail, UUCP, IRC, Alternet
+  connection to the Internet, and home of the Open Book Initiative (text
+  project), multiple lines;  fees: $5/mo + $2/hr or $20/20hrs per month;
+  Contact: g...@world.std.com
+
+11/93 619-278-8267      cg57       San Diego       CA 1200-FAST 24
+  i386 Unix ISC 3.2 R4.0, UniBoard BBS Software (login as bbs);  Worldblazer
+  on dial-in, -3905 Telebit Trailblazer Plus, -9837 Practical Peripherals
+  (V32);  BBS is free;  Over 800 meg of downloadable software
+  (UNIX/FreeBSD/386BSD/Linux/NETBSD and DOS systems + Soundblaster files);
+  Shell accounts available for $30 for 3 months with access to ftp/telnet/
+  irc/gopher/archie/etc.  Full (USENET) news feed, and selected Fidonet
+  uucp accounts available. cg57.esnet.com is on the internet (198.180.239.3)
+  Anonymous uucp - login: nuucp (no password).  Get file ls-lR.Z for
+  complete files listing.
+  Contact: st...@cg57.esnet.com
+
+03/94 619-453-1115      netlink    San Diego       CA 1200-FAST 24
+  The Network Information eXchange (NIX). i386 Unix system, provides
+  access to email, over 1000 Usenet newsgroups, and file archives
+  through Waffle BBS interface (no shell).  Multiple lines, NO FEE for basic
+  access (E-mail only).  Higher access available to contributing members.
+  Mail feeds available.  Login: nix   Contact: sys...@netlink.nix.com
+
+04/94 619-634-1376      cyber      Encinitas       CA 300-FAST  24
+  Equip ???;  Multiple lines [HST16.8/V.32];  The Cyberspace Station;
+  On the Internet (telnet to CYBER.NET [192.153.125.1]);  A Public Access
+  Unix service with full Internet connectivity;  E-Mail/USENET,
+  International communications, hunting for files, and interactive chatting;
+  Login on as "guest" and send feedback (Don't forget to leave a phone number
+  where you can be reached).
+  Contact: in...@cyber.net
+
+03/94 619-637-3640      crash      San Diego       CA 12-FAST   24
+  CTSNET Public Access Unix.  A network of 486-66/DX2 64mb+32mb, SCO
+  Unix 3.2v4.1 machines, 41 lines; HST: 619-593-6400, 637-3640,
+  220-0836; V32/V32.bis:  619-593-7300, 637-3660, 220-0853; PEP:
+  619-593-9500, 637-3680, 220-0857.  V42.bis most lines, All modems at
+  38,400bps, Telebits at 19,200/38,400bps.  8N1 only.  International
+  Usenet (6600+ groups), Clarinet News Service, Reuters News, worldwide
+  email, shell and uucp accounts.  3.5gb disk.  Direct Internet T1
+  dedicated.  Shell accounts $18 per month flat, newfeeds, SLIP, PPP,
+  other svcs.  Contact bb...@crash.cts.com, sup...@ctsnet.cts.com,
+  in...@crash.cts.com
+
+03/94 703-281-7997      grebyn     Vienna          VA 300-2400  24
+  Networked Vax/Ultrix. $30/month for 25 hours.  $1.20 connect/hr after 25
+  hours.  1 MB disk quota.  $2/MB/month additional quota.  USENET News.
+  Domain mail (grebyn.com).  Full Internet IP connectivity expected in the
+  summer of 1992.  Mail to in...@grebyn.com, voice 703-281-2194.
+
+04/93 703-528-4380      sytex      Arlington       VA 300-FAST  24
+  ISC Unix, UUCP, Waffle BBS, 5 lines.  Login as "bbs".  Mail, usenet news,
+  ftp available via ftp-requests though UUnet.  Serving Washington DC,
+  Northern Virginia, Southern Maryland.  First year startup Charter member
+  accounts available for $120. Gives fullest access as the system develops.
+
+06/93 703-551-0095      ukelele    Woodbridge      VA 300-FAST  24
+  Genuine Computing Resources.  SVR4/386.  Calling area includes
+  District of Columbia, Fairfax Cty, Prince William Cty, Manassas, and
+  Dumfries, VA.  Shell, Full Usenet, Internet E-Mail.  $15/month
+  for access to (703)551 exchange, $10/month for (703)878 access.
+  All lines V.32bis or higher.  You get 1 hour/day connect time and
+  1.5MB disk storage.  Direct Internet connectivity expected soon
+  without rate increase for existing users.  Login as 'guest' or
+  send mail to in...@gcr.com for further details.  For human interaction
+  send mail to c...@gcr.com.  News and mail feeds also considered.
+
+03/94 703-803-0391      tnc        Fairfax Station VA 300-FAST  24
+  Zenith Z-386, SCO Xenix; 120 MB HDD;  12 lines, tb+ for UUCP only;
+  "The Next Challenge";  Usenet, mail, Unique (sysop written) multi-user
+  space game;  No Shell;  Free and user supported --> No fee for light mail
+  and usenet;  Subscription required for game and unlimited mail and usenet
+  at $25 / year;
+  Contact: Tom Buchsbaum (tom@tnc.UUCP or uunet!tnc!tom).
+
+03/94 708-367-1871      sashimi    Vernon Hills    IL 300-FAST  24
+  80486 - SVR4.  World Wide Access (TM)  Full Internet Access now
+  available! Full netnews, E-mail, ftp, telnet, IRC, MUD, and so much
+  more!  Shell and BBS options.  Multiple V.32bis lines.  More
+  lines added as needed.  UUCP feeds also available.  Send mail to or
+  finger in...@wwa.com for more information.
+
+03/93 708-425-8739      oaknet     Oak Lawn        IL 300-FAST  24
+  386 Clone running AT&T System V release 3.2.1, no access charges.
+  Free shell accounts, USENET news, and internet email...
+  Contact: ja...@oaknet.chi.il.us, Jason Vanick (708)499-0905 (human).
+
+03/94 708-833-8126      vpnet      Villa Park      IL 1200-FAST 24
+  386 Clone - Interactive Unix R2.2 (3.2), Akcs linked bbs FREE, inclu-
+  ding many selected Usenet groups.  Shells are available for a minimum
+  $60/year  contribution; under 22, $30.  Includes access to our FULL
+  Usenet feed.  Well connected.  Five lines including three Trailblazers.
+  Two hunt groups - V.32 modems call 708-833-8127 (contributors only).
+  Contact: lis...@vpnet.chi.il.us, Gerry Swetsky (708)833-8122 (human).
+
+03/93 708-879-8633      unixuser   Batavia         IL 300-FAST  24
+  386, w/ Linux/Waffle; v.32[bis] support;  Linux downloads;  Limited free
+  use;  Paid subscribers get Internet mail access, some USENET groups;
+  Subscription is $25/year;  CDROM disk available - changes monthly;
+  Shell accounts are available.
+
+03/93 708-983-5147      wa9aek     Lisle           IL 1200-FAST 24
+  80386, UNIX V.3.2.3;  XBBS for HAM radio enthusiasts;  1.5 Gigabytes online;
+  Multiple lines, dial in - USR HST DS V.32bis/42bis, 8138 - Tb T2500;
+  Login as bbs (8-N-1).
+
+03/94 713-480-2686      blkbox     Houston         TX 300-FAST  24
+  486/33, SCO Open Desktop;  5 lines, all V32[bis]/V42[bis];  E-Mail/USENET
+  (4500+ groups);  25 online adventure games, IRC, SLIP/PP;  $21.65 / month
+  for full shell access.
+  Contact: Marc Newman (mkne...@blkbox.com)
+
+03/94 713-668-7176      nuchat     Houston         TX 300-FAST  24
+  i486/25, UHC Unix SVR4, 2.5 Gigs online, ** 56kb internet connection
+  **, 7 lines (2 Trailblazers, 5 Worldblazers), full Usenet news feed,
+  personal accounts ($3/hour), UUCP feeds (several options), dedicated
+  lines available w/ unlimited usage @$120/month (SLIP or any protocol
+  you like).  Full internet access (ftp, telnet, gopher, archie),
+
+03/94 713-684-5900      sugar      Houston         TX 300-FAST  24
+  486/AT, SCO UNIX, 16+ lines (V.22, V.32, PEP, TurboPEP), Usenet news, email,
+  Clarinet, complete *.sources and *.binaries archives, dial-up SLIP, access
+  to Internet (FTP, telnet, ...), varying fees for shell access, news feeds.
+
+03/94 714-635-2863      dhw68k     Anaheim         CA 1200-FAST 24
+  Unistride 2.1;  Trailblazer access;  2nd line -1915;  No fee;  USENET News;
+  /bin/sh or /bin/csh available
+
+03/94 714-821-9671      alphacm    Cypress         CA 1200-FAST 24
+  386 - SCO-XENIX, no fee, Home of XBBS, 90 minute per login, 4 lines,
+  Trailblazer pluses in use.
+    uucp-anon:  ogin: nuucp  NO PASSWD
+
+03/94 714-842-5851      conexch    Santa Ana       CA 300-2400  24
+  386 - SCO Xenix - Free Unix guest login and PC-DOS bbs login, one
+  hour initial time limit, USENET news, shell access granted on request &
+  $25/quarter donation.  Anon uucp: ogin: nuucp  NO PASSWD.  List of
+  available Unix files resides in /usr3/public/FILES.
+
+03/94 714-894-2246      stanton    Irvine          CA 300-2400  24
+  80386-25, SCO Xenix-386, 320mb disk, 2400/1200/300 MNP supported;  E-Mail &
+  USENET;  Fixed fee $20/yr;  X11R4 archive and many packages ported to Xenix
+  386;  C development system (XENIX/MSDOS), PROCALC 1-2-3 clone, FOXBASE+;
+  anon uucp: ogin: nuucp, no word
+
+03/93 716-634-6552      exuco1     Buffalo         NY 300-FAST  -24
+  SGI Iris Indigo;  2 Lines, both Telebit WorldBlazers (on a hunt) [PEP
+  Answer sequence last];  "The Buffalo Computer Society", Western New York's
+  first Public Access UNIX; Mon - Fri 6:00pm - 7:00am EST, 24 Hours on
+  Weekends;  No Fee;  E-Mail/USENET
+  Come March '93 -- will be running on several DEC Vaxen running BSD 4.3,
+  and MANY MANY MANY more lines.
+
+04/94 718-252-6720      intercom   New York        NY 300-FAST  24
+  Dell Pentium/60, SVR4.2, 64MB RAM, 4.8 gigabytes disk space, all 16
+  dialups are Zyxel v.32bis, user-friendly menu system, 3000+ newsgroups,
+  Internet mail, PINE, TIN, Games, DOS/Windows/OS2 CD-ROM with 5000+ files,
+  PC/Mac/Amiga/Text Library, Gopher, WWW, IRC, Hytelnet, Lynx, WAIS, MUD.
+  Fees: starting $5/month (standard access) and $10/month (full access).
+  Contact: in...@intercom.com
+
+04/93 718-729-5018      dorsai     NYC             NY 300-FAST  24
+  80386, ISC 386/ix, Waffle bbs;  Live Internet connection; 3 phone lines
+  (V.32bis for contributors);  no shell (yet);  BBS with over 250 non-Usenet
+  newsgroups, 1.2 gb of mac, ibm, amiga, cp-m, appleII, cbm files;  BBS is
+  free, $25/yr for UseNet access, (180 min/day), $50/yr for extended gold
+  access (300 min/day);  $?? for platinum access (i.e. ftp/telnet/irc/etc);
+  Full news and mail feed from uupsi; login through bbs.
+  Contact: postm...@dorsai.com
+
+02/94 719-520-1700      cns        Colorodo Spring CO 300-2400  24
+  Sun 3/260,  SunOS;  22 lines (on rollover); $35 signup fee, CNS has national
+  800 service for $8/hr (incl Alaska, Hawaii, Virgin Islands and Puerto Rico),
+  In Colo Springs/Denver (719/303) and telnet: $2.75/hr;
+  CNS offers dialup, uucp, slip, xwindows xremote; CNS offers 56K and T1
+  access directly to the T3 ANS backbone nationally
+  Information at 1-800-748-1200 (voice)
+    or write to in...@cscns.com for automated response
+    or write to ser...@cscns.com for operator response
+
+03/93 719-632-4111      oldcolo    Colorodo Spring CO 1200-FAST 24
+  386 - SCO-XENIX frontend, 2 CT Miniframes backend, e-mail conferencing,
+  databases, Naplps Graphics, USENET news;  7 lines 8N1, 2400 on -2906,
+  USR Dual 9600 on -2658;  Self registering for limited free access
+  (political, policy, marketplace)
+  Subscriptions $10, $15, $18 per month for full use.
+  Dave Hughes SYSOP.
+
+01/94 801-539-0900      xmission   Salt Lake City  UT 300-FAST  24
+  Sun Sparc Classic, Solaris;  T1 Connection into Internet Backbone; 10 (at
+  the moment) incoming phone lines (ZyXEL 19.2K 1496E+ modems on all lines);
+  tin, nn, rn newsreaders;  gopher, lynx, www navigators;  hytelnet, telnet,
+  ncftp, ftp;  zmodem, ymodem, xmodem, kermit protocols;  PPP and UUCP
+  connections with all accounts;  gnu software and compilers;  assisted
+  "menus" or shell access;  "Big Dummy's Guide to the Internet" hypertexted
+  online;  nethack, mdg, and robohunt multiplayer games.
+  $5 introductory rate for the first month ... Individuals: $19/mn ($102/6mns),
+  Small businesses: $29/mn ($162/6mns), BBS accounts: $39/mn ($216/6mns).
+  Voice Support at 801-539-0852
+
+04/93 804-627-1828      wyvern     Norfolk         VA 1200-FAST 24
+  Multiple 486/66 networked, SVR4.  Ten v.32bis lines.  Shell accounts,
+  mail, and news feeds available.  Gigs of disk space with lots of
+  games, programming languages, news.  Modest fees.  We provide full
+  Internet services, including ftp, telnet, IRC, archie, etc.  We can
+  provide uucp email and news feeds, and can include your machine in
+  our domain park.
+  login as guest, no password, to register for full access.
+  Contact: Wyvern Technologies, Inc. at (804) 622-4289,
+                                     or sys...@wyvern.wyvern.com
+                                        (uunet!wyvern!system)
+
+03/93 812-333-0450      sir-alan   Bloomington     IN 1200-FAST 24
+  SCO UNIX 3.2; no fee; TB+ on 333-0450 (300-19.2K); archive site for
+  comp.sources.[games,misc,sun,unix,x], some alt.sources, XENIX(68K/286/386)
+  uucp-anon: ogin: nuucp password: anon-uucp
+  uucp-anon directory: /u/pdsrc, /u/pubdir, /u/uunet, help in /u/pubdir/HELP
+  Contact: mii...@iuvax.cs.indiana.edu  (812-855-3974 days 812-333-6564 eves)
+
+01/94 812-476-7564      aquila     Evansville      IN 2400-FAST 24
+  SCO Unix; Email/News provider to the Tri-State area;  Supports regional
+  BBSs;  Has satelitte downlink for 2500+ Usenet newsgroups.  No fee for
+  mail, low fee for news;
+  The Aquila System, PO Box 4912, Evansville IN 47724-0912.
+  Contact: kil...@aquila.nshore.org
+
+03/93 814-353-0566      cpumagic   Bellefonte      PA 1200-FAST 24
+  80386, ESIX 4.0.3a (SVR4);  Dual Standard (v.32/v.32bis/HST);
+  The Centre Programmers Unit BBS, custom BBS software (Micro Magic);
+  Files available: UNIX, GNU, X, ESIX, MSDOS tools and libraries;
+  No fee but up/download ratios enforced.
+  Contact: Mike Loewen at mlo...@cpumagic.scol.pa.us
+                   or ... psuvax1!cpumagic!mloewen
+
+11/93 815-874-3998      maynard    Rockford        IL 300-FAST  24
+  USL UnixWare SysVr4.2;  Provides shell, USENET, E-Mail, uuftp
+  sources, BBS, games, chat and more. $5 Email only
+  $10 Email USENET.. UUCP available  Contact tr...@maynard.chi.il.us
+
+03/94 818-287-5115      abode      El Monte        CA 2400-FAST 24
+  XENIX 2.3.3; 2400-9600 Baud (Telebit T1000 PEP); Fee of $40 per year;
+  Users get access to shell account, C compiler, email, usenet news,
+  games, etc. For more information send email to contact name below
+  or login as 'guest'.
+  Contact: er...@abode.ttank.com (cerritos.edu!ttank!abode!eric)
+
+03/94 818-367-2142      quake      Sylmar          CA 300-FAST  24
+  ESIX/386 3.2D running Waffle;  Telebit WorldBlazer on dial-in line,
+  818-362-6092 has Telebit T2500;  Usenet (1000+ groups), Email
+  (registered as quake.sylmar.ca.us), UUCP/UUPC connections;  Rare Bird
+  Advisories, Technomads, more;  $5 a month if paid a year at a time.
+  New users login as "bbs", then "new".  One week free to new users.
+
+04/94 818-793-9108      kitana     Pasadena        CA 300-FAST  24
+  LINUX; Internet E-mail, Usenet Newsgroups (5,400+), MUD, Chat.
+  Contact: sy...@kitana.org; multi-lines V.32bis; login "mm"
+
+06/93 900-468-7727      uunet      Falls Church    VA 300-FAST  24
+  Sequent S81, Dynix 3.0.17(9);  UUNET Communication Services;  No Shell;
+  Anonymous UUCP, fee $0.40/min -- billed by the telephone company,
+  login: uucp (no passwd);  Multiple lines, PEP and V.32 available;
+  grab "uunet!~/help for more info" ...
+  Full internet mail and USENET access via subscriber UUCP accounts.
+  Contact: in...@uunet.uu.net or call [voice] 703-204-8000.
+
+03/93 904-456-2003      amaranth   Pensacola       FL 1200-FAST 24
+  ISC Unix V/386 2.2.1 TB+ on dialin.  XBBS no fee.  limited NEWS, E-mail
+  For more info: Jon Spelbring jsspelb@amaranth.UUCP
+
+03/93 906-228-4399      lopez      Marquette       MI 1200-2400 24
+  80386, SCO Xenix 2.3.4; Running STARBASE II Software.  Great White North
+  UPLink, Inc. (Non Profit) 100+ local rooms, PLUS USENET, Multi Channel Chat,
+  5 ports, $30 yr, flat rate for full access to net news, mail.
+  Upper Michigan's ORIGINAL BBS (since 1983)
+  Contact: Gary Bourgois ...rutgers!sharkey!lopez!flash (flash@lopez.UUCP)
+
+08/93 908-937-9481      digex      New Brunswick   NJ 300-FAST  24
+  Refer to primary entry (Greenbelt, MD) for system/services details.
+  Telnet to cnj.digex.com or mail to in...@cnj.digex.com for more info;
+  voice phone 1-800-969-9090.
+
+03/94 916-649-0161      sactoh0    Sacramento      CA 1200-FAST 24
+  3B2/310 SYVR3.2; SAC_UNIX, sactoh0.SAC.CA.US;  $2/month;  3 lines,
+  v.32 on 722-6519, TB+ on 649-0161, 2400/1200 baud on 722-5068;
+  USENET, E-Mail, some games; login: new
+  Contact: ro...@sactoh0.SAC.CA.US   or   ..ames!pacbell!sactoh0!root
+
+02/94 916-923-5013      rgm        Sacramento      CA 1200-FAST 24
+  486SX-25.  200mb. Coherent 386 v4.0.1; Dedicated incoming HST line. Full
+  Bourne/Korn shell access for all users.  Internet mail, limited Usenet
+  (requests encouraged). Mail & news feeds available.  $2/mo. for light
+  mail/news users.  login: new; Contact ro...@rgm.com
+
+03/94 919-248-1177      rock       RTP             NC 300-FAST  24
+  SparcStation 1+, SunOS 4.1;  Fee: $50 installation, $30/month.  Full
+  internet access (FTP, TELNET, etc).  Netnews (includes vmsnet, u3b, alt)
+  and E-Mail.  No limit on time,  5 meg disk quotas enforced.  56Kbps and
+  T1 internet connections also available.  Phone number depends on location
+  within North Carolina (PC Pursuit also available).
+  Contact:  in...@concert.net
+
+11/93 +31-1720-42580    mugnet     Alphen a/d Rijn NL 300-FAST  24
+  386 PC/AT, LINUX  -- Mugnet int. hobiest network, Worldblazer 300-19.2k
+  + V42bis + V32;  No Fee services : all good stuff for Linux Fee services:
+  UUCP feeds, internet E-mail mugnet domain.
+  SUITABLE FOR BUSINESS USE TOO
+  Own distribution of Linux/Pro, supplied on disks/tape/removable pack
+  or downloadable.  Anonymous guest account.  Bash Shell Access on Linux
+  system, UUCP News and Mail Feeds.
+  Contact: ro...@nic.nl.mugnet.org,
+  Voice +31 1720 40005 , Fax: +31 1720 30979
+
+04/93 +358-0-455-8331   clinet     Espoo           FI 300-FAST  24
+  Sun 3/60 16M/1G + Motorola M8[48]00-hybrid 32M/300M (terminal server,
+  mostly), SunOS (4.1.1);  Multi-line -8331 (V32bisMNP), -8332 (V32MNP)
+  & -8778 (V32), 4 lines starting at -8688 (V22bis); custom software
+  (locally written), conferences, menu system, other stuff;  TCP/IP
+  connected with IRC, USENET (all groups), E-Mail, shell access, common
+  UNIX software, programming; $10/mo including at least 1hr of daily
+  time ($0.25/hr if all lines busy). login as 'new'.  Since 1987.
+  Contact: cli...@clinet.fi.
+
+09/93 +39-541-27135     nervous    Rimini (Fo)     IT 300-FAST  24
+  386/33, 1GB, Unix System V; Menu driven BBS, no shell.  This system is
+  the official UniBoard Development Site; latest UniBoard releases/fixes
+  are available here.  Also, lots of unix sources (& erotic images) as well
+  as USENET & Fidonet conferences, are available on line.
+  Contact: pi...@nervous.com
+  Foreign callers need to send email to the above address to gain access to
+  most board options.
+
+04/93 +41-61-8115492    ixgch      Kaiseraugst     CH 300-FAST  24
+  80386, SCO XENIX SV2.3.3, USR-DS (-V.32); Host: ixgch.xgp.spn.com (Ixgate
+  Switzerland); Organization: XGP Switzerland & SPN Swiss Public Network;
+  Public UI: PubSh (Public Shell), free!; Services among others: UUCP feeds
+  for Internet Mail and Usenet News, Swiss BBS-List Service, Ixgate-Archive
+  (RFCs,NIC-docs,non-comp-areas etc.), anonymous UUCP, CHAT conference, TALK
+  software and more. BTW: V.32bis connections soon!
+  General info: mail to ser...@spn.com (Subject: help).
+  Contact: sys...@xgp.spn.com (...!gator!ixgch!sysadm)
+
+04/93 +44-734-34-00-55  infocom    Berkshire       UK 300-FAST  24
+  80486, SCO UNIX 3.2.2;  BBS, Teletext pages;  2nd line 32-00-55; Internet
+  Mail/USENET at HOME using FSUUCP (DOS)/UUCP; Max 60.00 + V.A.T. per annum,
+  this will also be the charge when internet access (i.e. ftp & telnet
+  arrive shortly), this level includes UUCP Login & a BBS Login account, if
+  you choose UUCP transfers this can save a lot of connection charges from
+  those nasty telephone companies.
+  File Upload & Download, no quotas; Some services are free and some are pay;
+  login as 'new' (8-N-1) ... on-line registration, password sent by mail;
+  Contact: sy...@infocom.co.uk or mail <infor...@infocom.co.uk> with
+  "general" in the subject line or Fax +44 734 32 09 88
+
+03/94 +44 81 244 6677   ExNet      London          UK 300-2400  24
+  SunOS 4.1, V32/V42b soon.  Mail, news and UNIX shell (/usr/ucb/mail,
+  ream; rn; sh, csh, tcsh, bash) UK#5 per month.  500 USENET groups
+  currently and expanding.  All reasonable mail and USENET use free.
+  Beginner's pack available.  Mail for contract and charges documents.
+  One month free trial period possible.  ***Mail and news feeds.***
+  ***SUITABLE FOR BUSINESS USE TOO.***
+  Contact:  Hel...@exnet.co.uk, or voice +44 81 244 0077 GMT 1300-2300.
+
+08/93 +44-81-317-2222   dircon     London          UK 300-FAST  24
+  UNIX SysV3.2;  The Direct Connection multi-user on-line service; Full
+  Internet Connectivity (including TELNET, FTP, GOPHER, IRC, etc), USENET
+  News conferencing with a choice of newsreaders, Internet electronic mail
+  with an outgoing FAX gateway, 24 hour computer newswire, download areas,
+  chat/talk facilities, personal file areas with access to a choice of shells
+  (including Unix). UUCP and TCP-IP (PPP or SLIP) connections are also
+  available.  Login as 'demo' to sign-up.
+  EMAIL Contact: help...@dircon.co.uk (+44-81-317 0100 [voice]).
+
+12/93 +44-81-863-6646   ibmpcug    London          UK 300-FAST  24
+  486 PC/AT, SCO Unix -- IBM-PC User Group;  Multiple lines,
+  300-19.2k + V42bis + V32;  Fee: ~50 pounds sterling per year,
+  unlimited use;  Internet Access (FTP, Telnet and IRC) as well as News
+  and Mail services via UUCP; Shell Access available as an option.
+  UUCP News and Mail Feeds
+  Contact: in...@ibmpcug.co.uk, Voice +44 81 863 1191
+
+12/93 +44-81-863-6646   WinNET     London          UK 300-FAST  24
+  486 PC/AT, SCO Unix -- IBM-PC User Group;  Multiple lines,
+  300-19.2k + V42bis + V32;  Fee: from 6.75 pounds sterling per month,
+  (3.25 per hour) includes custom Windows 3.x Software;
+  Software available for download vai anon ftp from ftp.ibmpcug.co.uk
+  or via dial up link login as winnet (no password).
+  Internet Access (optional FTP, Telnet and IRC) as well as News
+  and Mail services via UUCP; Shell Access available as an option.
+  UUCP News and Mail Feeds
+  Contact: in...@ibmpcug.co.uk, or req...@win-uk.net Voice +44 81 863 1191
+
+04/93 +49-30-694-61-82  scuzzy     Berlin          DE 300-FAST  24
+  80486/33, ISC 3.0;  HST 14400/v.42bis on the first, HST 14400/V.32bis/V.42bis
+  Modems on other dial-in lines;  Large library of source code including
+  386BSD, GNU, TeX, and X11 -- will distribute on tapes (grab /src/TAPES
+  for the order form, /src/SERVICE for info about support for Free Software).
+  Bulletin Board System with possible full Internet access, i.e. email,
+  USENET, IRC, FTP, telnet (grab /src/BBS for info, or login as 'guest');
+  Login as 'archive' for x/y/z-modem and kermit transfers;  Anonymous UUCP
+  available, grab /src/README for initial info;
+  Contact: s...@contrib.de (Heiko Blume)
+     anon uucp:   ogin: nuucp   word: nuucp
+
+02/94 +49-40-4915655    isys-hh    Hamburg         DE 300-FAST  24
+  Intel 2*80486 >2GB Disk - Unix System V 3.2v4.2 & Linux 0.99PL14,
+  multiple lines w/ V.32bis, ISDN +49-40-40192183,
+  Shells: msh, sh, csh, ksh, bash; nn & tin for newsreaders, ELM for mail,
+  anon. UUCP: ogin: nuucp (no password) get ~/ls-lgR.[Z|z|F]
+  Contact: mi...@isys-hh.hanse.de (Michael 'Mike' Loth)
+
+04/93 +49-69-308265     odbffm     Frankfurt/Main  DE 300-FAST  24
+  Altos 386/2000, Telebit Modem, Public Access Unix; only shell accounts,
+  no bbs software. Mail and news access (currently via UUCP, Internet
+  planned).
+  Contact: o...@odb.rhein-main.de, voice +49 69 331461, fax +49 69 307682
+
+04/94 +61-2-837-1183    kralizec   Sydney          AU 1200-FAST 24
+  Sun 3/50, SunOS 4.0 + 386/40, Linux;  >1GB disk; V.32bis/V.42bis modems;
+  Dialup access to Full Internet services;  80 - 100 Mb software online
+  for download. Full C-shell access to all members;  No joining fee, Usage
+  fee $1/hr (min $10/mn) connect time;  Home of IXgate - Internet to Fidonet
+  gateway - also Fido 713/602.
+  Contact: ni...@kralizec.zeta.org.au
+
+04/93 +64-4-389-5478    actrix     Wellington      NZ 300-FAST  24
+  Zenith 386/33MHz w/ ISC 386/ix 2.02;  Actrix Information Exchange --
+  New Zealand's first Public Access UNIX.  750 Mb disk; 3 lines, USR
+  Courier HST (T2500 due December 1990, X25 in '91).  Fee: NZ$54 p.a. -
+  offers heavily modified XBBS with USEnet and Fidonet, e-mail (elm),
+  hundreds of file areas divided into sections for UNIX, MS-DOS, Amiga,
+  Atari, Apple //, Macintosh, CP/M etc.  Shell w/ many extras available
+  via `Enhanced subscription'.  Planned to join APC (PeaceNet/EcoNet);
+  Contact: pa...@actrix.gen.nz (Paul Gillingwater) PO Box 11-410, Wgtn, NZ
+
+===============================================================================
+NOTE: The information in this document is kept as current as possible ...
+      however, you use this data at your own risk and cost.
+===============================================================================
+Lists are available via any of the following:
+      o  Anonymous uucp from jabber.
+            +1 215 348 9727 [Telebit access]
+            login: nuucp  NO PWD   [no rmail permitted]
+            long list: /usr/spool/uucppublic/nixpub.long
+            short list: /usr/spool/uucppublic/nixpub.short
+            (also available from the "*NIX Depot" BBS)
+      o  Mail server on jabber
+            mail to mail-...@bts.com
+            body containing:
+               get PUB nixpub.long
+            or
+               get PUB nixpub.short
+      o  The nixpub-list electronic mailing list.  To subscribe to
+         the list:
+            mail to mail-...@bts.com
+            body containing:
+               subscribe NIXPUB-LIST Your Name
+      o  USENET, regular posts to:
+            alt.bbs
+            comp.bbs.misc
+            comp.misc
+===============================================================================
+The ``nixpub'' listings are (C) Copyright 1993-94, Bux Technical Services.
+This publication is released for unlimited redistribution over any
+electronic media providing it remains in its original form.  Publishing,
+removing this copyright notice, or in any way revising this document's
+contents is forbidden without written consent from the owner.
+===============================================================================
+--
+ ======================================================================
+|  Phil Eschallier          |    Bux Technical Services                |
+|  ph...@bts.com    or       |    P.O. Box 110 / Doylestown, PA  18901  |
+|  ...!dsinc!jabber!phil    |    (215) 348-9721 / Fax (215) 348-2567   |
+ ======================================================================

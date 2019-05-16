@@ -1,0 +1,16 @@
+System Name	sixhub
+UUCP Name(s)	sixhub
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	
+Web Server
+Hardware
+Location	Upstate New York
+Key Figures
+Local Software
+Notes	"hub machine of the upstate NY UNIX users group (*IX)
+  two line reserved for incoming, bbs no fee, news & email fee $15/year
+  Smorgasboard of BBS systems, UNaXcess and XBBS online,
+  Magpie and Citadel in beta test."

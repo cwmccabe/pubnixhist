@@ -1,0 +1,13 @@
+System Name	wybbs aka "Consultants Connection"
+UUCP Name(s)	wybbs
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX 2.2.1
+Web Server
+Hardware	286
+Location	Jenison, MI
+Key Figures
+Local Software
+Notes	shell access, news

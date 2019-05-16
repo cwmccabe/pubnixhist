@@ -1,0 +1,13 @@
+System Name	magpie
+UUCP Name(s)	magpie
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX SYSV
+Web Server
+Hardware
+Location	New York City, NY
+Key Figures	Steve Manes
+Local Software
+Notes

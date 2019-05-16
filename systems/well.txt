@@ -10,4 +10,6 @@ Hardware	?
 Location	Sausalito, CA
 Key Figures	?
 Local Software	?
-Notes	?
+Notes	https://en.wikipedia.org/wiki/The_WELL
+started by Stewart Brand and Larry Brilliant
+Wikipedia: "Notable items in WELL history include being the forum through which John Perry Barlow, John Gilmore, and Mitch Kapor, the founders of the Electronic Frontier Foundation, first met."

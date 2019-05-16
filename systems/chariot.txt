@@ -1,0 +1,13 @@
+System Name	chariot
+UUCP Name(s)	chariot
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYS V
+Web Server
+Hardware	Convergent MiniFrame (see https://en.wikipedia.org/wiki/Convergent_Technologies)
+Location	Colorado Springs, CO
+Key Figures
+Local Software
+Notes

@@ -1,0 +1,14 @@
+System Name	spies
+UUCP Name(s)	spies
+Start Year	before 1989
+Last Seen <TAB> year
+Active? no
+URL(s)
+Operating System(s)	Unix SysV
+Web Server
+Hardware	Wicat sys 200/150
+Location	Scarborough, NY	Mount Kisco, NY
+Key Figures
+Local Software
+Notes	"Multi-user conferencing, shell access, no fee, no validation.  An open system in the true hobbyist spirit. Will feed other sites."
+  "shell access, 2400 bps avail to friendly/peacefull users"

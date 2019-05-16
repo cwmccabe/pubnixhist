@@ -3,7 +3,7 @@ UUCP Name(s)	?
 Start Year	2018
 Last Seen	2019
 Active?	yes
-URL(s)	http://www.thunix.net
+URL(s)	http://www.thunix.net	https://www.thunix.cf
 Operating System(s)	?
 Web Server  ?
 Hardware	?

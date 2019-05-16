@@ -4,10 +4,10 @@ Start Year	?
 Last Seen	?
 Active?	no
 URL(s)	?
-Operating System(s)	?
+Operating System(s)	SYSV.2    SAC_UNIX
 Web Server  ?
 Hardware	?
 Location	Sacramento, CA
-Key Figures	?
+Key Figures	Norm Hayes
 Local Software	?
 Notes	?

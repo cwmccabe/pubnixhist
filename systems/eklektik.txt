@@ -1,0 +1,13 @@
+System Name	eklektik
+UUCP Name(s)	eklektik
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYSV
+Web Server
+Hardware	UNIX PC	(see https://en.wikipedia.org/wiki/AT%26T_Unix_PC)
+Location	Pittsburg, PA
+Key Figures
+Local Software
+Notes

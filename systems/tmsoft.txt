@@ -1,0 +1,13 @@
+System Name	tmsoft
+UUCP Name(s)	tmsoft
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Sys5r2
+Web Server
+Hardware	NS32016	(see https://en.wikipedia.org/wiki/NS320xx)
+Location	Toronto, ON
+Key Figures	Dave Mason
+Local Software
+Notes	shell; news+mail

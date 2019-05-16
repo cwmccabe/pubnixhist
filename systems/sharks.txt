@@ -1,0 +1,13 @@
+System Name	sharks
+UUCP Name(s)	sharks
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	XENIX 3.2f
+Web Server
+Hardware	Altos 886/80/80
+Location	Santa Clara, CA
+Key Figures
+Local Software
+Notes

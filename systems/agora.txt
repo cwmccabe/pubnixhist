@@ -1,0 +1,14 @@
+System Name	agora
+UUCP Name(s)	agora
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix
+Web Server
+Hardware	286
+Location	Portland, OR
+Key Figures	Alan Batie
+Local Software
+Notes	"news, mail, games, programming
+  two lines with trunk-hunt"

@@ -1,0 +1,13 @@
+System Name	alphacm
+UUCP Name(s)	alphacm
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX
+Web Server
+Hardware
+Location	Southern California
+Key Figures
+Local Software	"The home of XBBS"
+Notes

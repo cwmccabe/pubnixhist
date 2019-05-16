@@ -1,0 +1,13 @@
+System Name	bigtex
+UUCP Name(s)	bigtex
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	
+Web Server
+Hardware
+Location	Austin, TX
+Key Figures
+Local Software
+Notes	"no shell, no fee, anonymous uucp ONLY, Telebit 9600/PEP. mail & newsfeeds (limited) available.  Carries GNU software."

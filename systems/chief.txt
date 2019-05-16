@@ -1,0 +1,13 @@
+System Name	chief
+UUCP Name(s)	chief
+Start Year	before 1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO XENIX 2.2.1
+Web Server
+Hardware
+Location	Woodland Hills, CA
+Key Figures
+Local Software
+Notes	"interests: coins & coin investments"

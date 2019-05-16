@@ -1,0 +1,13 @@
+System Name	anet
+UUCP Name(s)	anet
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Sys III
+Web Server
+Hardware	Altos 68000
+Location	Ann Arbor, MI
+Key Figures
+Local Software
+Notes

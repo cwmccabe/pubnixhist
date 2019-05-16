@@ -1,10 +1,10 @@
 System Name	Big Electric Cat
-UUCP Name(s)	?
+UUCP Name(s)	dasys1
 Start Year	1987
 Last Seen	1990
 Active?	no
 URL(s)	?
-Operating System(s)	?
+Operating System(s)	SYS V
 Web Server  ?
 Hardware	?
 Location	New York, NY

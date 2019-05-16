@@ -1,0 +1,13 @@
+System Name	nuchat
+UUCP Name(s)	nuchat
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)
+Web Server
+Hardware	286
+Location
+Key Figures
+Local Software
+Notes	"USENET, mail, shell access available 120 meg"

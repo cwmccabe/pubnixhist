@@ -1,0 +1,13 @@
+System Name	marob
+UUCP Name(s)	marob
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX 2.2
+Web Server
+Hardware
+Location	New York City, NY
+Key Figures
+Local Software	(magpie bbs?)
+Notes

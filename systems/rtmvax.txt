@@ -1,13 +1,13 @@
 System Name	RTmVax Semi-Public Unix System
 UUCP Name(s)	rtmvax
-Start Year	?
+Start Year	before 1988
 Last Seen	?
 Active?	no
 URL(s)	?
-Operating System(s)	?
+Operating System(s)	Ultrix-32 V1.2
 Web Server  ?
-Hardware	?
+Hardware	mVAX-I
 Location	Orlando, FL
 Key Figures	?
 Local Software	?
-Notes	?
+Notes	"Primary function is Technical exchange."

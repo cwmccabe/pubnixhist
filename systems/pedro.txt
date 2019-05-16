@@ -1,0 +1,13 @@
+System Name	pedro
+UUCP Name(s)	pedro
+Start Year	before 1988
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYS V
+Web Server
+Hardware	386
+Location
+Key Figures	Ken Macleod
+Local Software	home of Unidel Software, Unidel BBS
+Notes
