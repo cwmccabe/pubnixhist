@@ -35,6 +35,16 @@ Jan 1st, 2018
 Red Hat Enterprise Blog
 https://rhelblog.redhat.com/2018/01/12/linux-and-the-enduring-magic-of-unix/
 
+Frequently Asked Questions Regarding Pubnet [including mention of nixpub lists]
+http://www.unicom.com/pw/faq/pubnet.faq
+Chip Rosenthal
+1996/07/21
+
+"The Sorry State of Public Access Unix"
+https://www.ratburger.org/index.php/2018/10/22/the-sorry-state-of-public-access-unix/
+Haakon Dahl
+2018-10-22
+
 "The BBS Documentary"
 Jason Scott
 May 2005
