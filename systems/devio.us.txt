@@ -10,4 +10,4 @@ Hardware	?
 Location	?
 Key Figures	?
 Local Software	?
-Notes	Free OpenBSD Shell Provider
+Notes	Free OpenBSD Shell Provider, with discussion on #devious Freenode channel.

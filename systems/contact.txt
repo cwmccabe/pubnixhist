@@ -1,0 +1,13 @@
+System Name	contact
+UUCP Name(s)	contact
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix 2.3.1
+Web Server
+Hardware	386 clone
+Location	Toronto, ON
+Key Figures
+Local Software
+Notes	"USENET, email, multi-user chat, games."

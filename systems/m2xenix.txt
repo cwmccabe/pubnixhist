@@ -1,0 +1,14 @@
+System Name	m2xenix
+UUCP Name(s)	m2xenix
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix 2.3
+Web Server
+Hardware	386/20
+Location	Portland, OR
+Key Figures
+Local Software
+Notes	"Shell accounts available, NO BBS.  No fee.  E-mail,
+  USENET News, program development"

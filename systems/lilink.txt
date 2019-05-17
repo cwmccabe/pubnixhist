@@ -1,0 +1,15 @@
+System Name	lilink
+UUCP Name(s)	lilink
+Start Year	1989 or earlier
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	???
+Web Server
+Hardware	80318/20 Mhz
+Location	Long Island, NY
+Key Figures
+Local Software
+Notes	"Online games,
+  conferencing, full program development system, full text processing.
+  We carry ALL Usenet groups."

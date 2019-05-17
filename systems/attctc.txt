@@ -1,0 +1,13 @@
+System Name	attctc
+UUCP Name(s)	attctc
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX (???)
+Web Server
+Hardware	3b2/522 (see: https://en.wikipedia.org/wiki/3B_series_computers)
+Location	Dallas, TX
+Key Figures
+Local Software
+Notes	changed name from 'killer'

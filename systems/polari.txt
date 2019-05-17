@@ -1,0 +1,13 @@
+System Name	polari
+UUCP Name(s)	polari
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	???
+Web Server
+Hardware	???
+Location	Seattle, WA
+Key Figures
+Local Software
+Notes	"games, chat, full USENET"

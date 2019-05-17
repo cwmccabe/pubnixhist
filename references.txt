@@ -1,0 +1,55 @@
+This is a stub document, intended to hold references to any material 
+describing historical aspects of public access Unix and GNU/Linux 
+systems.
+
+You can help! If you know of any other relevant materials, please send 
+them by electonic mail to cmccabe@rawtext.club.
+
+  -----------------------
+
+"The Once and Future M-Net "
+James Howard
+Mar 14, 2000
+Great Green 
+Room
+http://rootprompt.org/article.php3?article=170
+
+"A Partial History of Computer Conferencing in Ann Arbor"
+Jan Wolter
+~1997
+https://web.archive.org/web/20160805221621/greatgreenroom.org/cgi-bin/bt/backtalk/wasabi/begin?item=19
+
+Arbornet and M-Net Records: 1985-2002 - History
+University of Michigan, Bentley Historical Library
+https://quod.lib.umich.edu/b/bhlead/umich-bhl-2012017?byte=70603759;focusrgn=bioghist;subview=standard;view=reslist
+
+"Chinet -- Public Access since 1982"
+https://www.chinet.com
+
+Many of the original 'nixpub' lists can still he found here:
+https://groups.google.com/forum/#!searchin/comp.misc/nixpub%7Csort:date
+
+(Linux and) the Enduring Magic of Unix [an article that describes Nyx.net]
+Ross Turk
+Jan 1st, 2018
+Red Hat Enterprise Blog
+https://rhelblog.redhat.com/2018/01/12/linux-and-the-enduring-magic-of-unix/
+
+"The BBS Documentary"
+Jason Scott
+May 2005
+http://www.bbsdocumentary.com 
+
+In Noisy Digital Era, 'Elegant' Internet Still Thrives
+Todd Bookman
+Apr 17, 2012
+NPR - All Things Considered
+https://www.npr.org/2012/04/17/150817325/in-noisy-digital-era-elegant-internet-still-thrives
+
+"I had a couple drinks and woke up with 1,000 nerds"
+The story of Tilde.Club
+Paul Ford
+Oct 9, 2014
+https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf
+
+...

@@ -1,0 +1,16 @@
+System Name	oldcolo
+UUCP Name(s)	oldcolo
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX  frontend	2 CT  Miniframes  backend
+Web Server
+Hardware	386
+Location	Colorado Springs, CO
+Key Figures	Dave Hughes
+Local Software
+Notes	"e-mail 
+  conferencing,  databases,   Naplps Graphics, USENET news. 7 lines 
+  8N1,  2400 on 2906,  USR  Dual  9600  on 2658.   Self registering   
+  for  limited  free  access    (political,    policy, marketplace)"

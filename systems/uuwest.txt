@@ -1,0 +1,14 @@
+System Name	uuwest
+UUCP Name(s)	uuwest
+Start Year	1985
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX
+Web Server
+Hardware	???
+Location	Sunnvale, CA
+Key Figures
+Local Software
+Notes	"USENET news (news.*, music, comics, telecom, etc)
+  The Dark Side of the Moon BBS."

@@ -1,0 +1,16 @@
+System Name	disk
+UUCP Name(s)	disk
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Interactive System V 3.2
+Web Server
+Hardware	386 clone
+Location	Louisville, KY
+Key Figures
+Local Software
+Notes	"Carrying most USENET groups, Shell access, multi-user games(including Realm)
+  multi-user chat, downloads, and more.  Rate info available via a free trial
+  account. Also offering news/mail feeds to the local area. Now reachable
+  via Starlink!"

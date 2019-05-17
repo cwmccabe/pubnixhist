@@ -1,0 +1,13 @@
+System Name	cinnet
+UUCP Name(s)	cinnet
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	ISC 386/ix 2.02 (not UNIX...?)
+Web Server
+Hardware	80386
+Location	Cinncinati, OH
+Key Figures
+Local Software
+Notes	"shell access, Usenet access; news feeds available"

@@ -1,0 +1,14 @@
+System Name	point
+UUCP Name(s)	point
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Sys V 3.2
+Web Server
+Hardware	386
+Location	Chicago, IL
+Key Figures
+Local Software
+Notes	"  AKCS bbs, some usenet conferences available.  200+ MB online storage.
+  Downloads, full usenet & shell access in the works."

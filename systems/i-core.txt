@@ -1,0 +1,15 @@
+System Name	i-core
+UUCP Name(s)	i-core
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYS V
+Web Server
+Hardware	286
+Location	Salt Lake City, UT
+Key Figures
+Local Software
+Notes	"Unidel BBS and Newsreader; a.k.a. Bitsko's Bar & Grill BBS,
+  no limit, no fee; UseNet and Citadel feeds available.  Home of Unidel
+  room-based newsreader and UNIX Citadel network gateway;"

@@ -1,0 +1,13 @@
+System Name	cruzio
+UUCP Name(s)	cruzio
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix 2.3.*
+Web Server
+Hardware	Tandy 4000
+Location	Santa Cruz, CA
+Key Figures
+Local Software
+Notes	"ocus on Santa Cruz activity (ie directory of community and goverment organizations, events, ...)"

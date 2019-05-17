@@ -1,0 +1,14 @@
+System Name	loft386
+UUCP Name(s)	loft386
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SYS V/386 Rel 3.2
+Web Server
+Hardware	80386
+Location	Rapid City, SD
+Key Figures	Doug Ingraham
+Local Software
+Notes	"Usenet mail/news via UUNET, UUNET archive access.
+  NO BBS!  News feeds avaliable.  400 meg hd."

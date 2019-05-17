@@ -1,0 +1,16 @@
+System Name	jdyx
+UUCP Name(s)	jdyx
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	??
+Web Server
+Hardware	386
+Location	Atlanta, GA
+Key Figures	Tom Friedel
+Local Software
+Notes	"XBBS. Usenet (alt, gnu, most comp and a few others) and 
+  shell access.  Second line (2400 below) (404) 325-1719.  200+ meg current
+  Usenet and GNU sources.  Specializing in graphics and ray-tracing under 
+  386/ix (with/with out X11).  Yearly fee for shell and/or downloads. "

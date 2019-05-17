@@ -1,0 +1,13 @@
+System Name	gagme
+UUCP Name(s)	gagme
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	System V 3.2
+Web Server
+Hardware	3B2/300
+Location	Niles, IL
+Key Figures
+Local Software
+Notes	"E-mail, netnews, sources."

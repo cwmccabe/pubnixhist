@@ -1,6 +1,6 @@
 System Name	St0rage.org
 UUCP Name(s)	?
-Start Year	?
+Start Year	2008
 Last Seen	2019
 Active?	yes
 URL(s)	https://st0rage.org/

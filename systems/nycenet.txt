@@ -1,0 +1,13 @@
+System Name	nycenet
+UUCP Name(s)	nycenet
+Start Year	1989
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO-XENIX 2.3
+Web Server
+Hardware	Generic '386
+Location	New York, NY
+Key Figures
+Local Software
+Notes	Runs Magpie BBS software
