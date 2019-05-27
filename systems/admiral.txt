@@ -1,0 +1,15 @@
+System Name	admiral
+UUCP Name(s)	admiral
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Xenix/386 2.3.3
+Web Server
+Hardware	386
+Location	Greenwich, CT
+Key Figures
+Local Software
+Notes	related to sir-alan?
+"Magpie/386 BBS, chat, interactive games, SIGS for Unix/IBM/Mac/Amiga.
+  BBS name is The Grid. All users are welcome, no strings attached."

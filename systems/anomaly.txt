@@ -1,0 +1,16 @@
+System Name	anomaly
+UUCP Name(s)	anomaly
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	SCO Xenix 2.3.2
+Web Server
+Hardware	CSS Laboratories 386
+Location	Esmond, RI
+Key Figures
+Local Software
+Notes	"No fees; Waffle BBS,
+  newusers log in as 'bbs' (no pw.) Shell accounts available to qualified
+  users. USENET feeds available, limited feeds for non-PEP sites. XENIX
+  software archive site, anonymous uucp"

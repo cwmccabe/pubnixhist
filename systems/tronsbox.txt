@@ -1,0 +1,15 @@
+System Name	tronsbox
+UUCP Name(s)	tronsbox
+Start Year	1990
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	UNIX 3.2
+Web Server
+Hardware	?
+Location	Belleville, NJ
+Key Figures
+Local Software
+Notes	"Provides shell for some users, menu driven BBS with
+  GIF and text downloads, adult discussion section;  USENET, E-Mail (feeds
+  available)"

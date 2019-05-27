@@ -1,0 +1,13 @@
+System Name	NShore Public Unix
+UUCP Name(s)	
+Start Year	?
+Last Seen
+Active?	no
+URL(s)
+Operating System(s)	Unix System V
+Web Server
+Hardware
+Location	Cleveland, OH
+Key Figures
+Local Software
+Notes	user level shell access with email & newsgroup access to the internet via UUCP
