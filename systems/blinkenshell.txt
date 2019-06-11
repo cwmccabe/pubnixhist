@@ -4,7 +4,7 @@ Start Year	2006
 Last Seen	2019
 Active?	yes
 URL(s)	ssh.blinkenshell.org:2222
-Operating System(s)	?
+Operating System(s)	Gentoo
 Web Server  https://blinkenshell.org/
 Hardware	?
 Location	Stockholm, Sweden
