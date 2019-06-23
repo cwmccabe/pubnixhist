@@ -1,0 +1,13 @@
+System Name	RadioFreqs.space
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://radiofreqs.space
+Operating System(s)	
+Web Server	https://radiofreqs.space
+Hardware
+Location
+Key Figures	nonlinear
+Local Software
+Notes	A tilde community affiliated with the Tildeverse; a social community organized around a shared interest in radio, techonlgy, and making cools stuff!
