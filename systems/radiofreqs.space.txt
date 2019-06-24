@@ -4,9 +4,9 @@ Start Year	2019
 Last Seen	2019
 Active?	yes
 URL(s)	https://radiofreqs.space
-Operating System(s)	
+Operating System(s)	OpenBSD
 Web Server	https://radiofreqs.space
-Hardware
+Hardware	VPS
 Location
 Key Figures	nonlinear
 Local Software
