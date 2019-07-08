@@ -3,7 +3,7 @@ UUCP Name(s)	?
 Start Year	1998
 Last Seen	2019
 Active?	yes
-URL(s)		https://medialab.freaknet.org
+URL(s)		http://medialab.freaknet.org
 Operating System(s)	Slackware
 Web Server  ?
 Hardware	?
