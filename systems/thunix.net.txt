@@ -1,13 +1,13 @@
 System Name	thunix
-UUCP Name(s)	?
+UUCP Name(s)	NA
 Start Year	2018
 Last Seen	2019
 Active?	yes
 URL(s)	http://www.thunix.net	https://www.thunix.cf
-Operating System(s)	?
-Web Server  ?
-Hardware	?
-Location	?
-Key Figures	amcclure	ubergeek
-Local Software	?
-Notes	?
+Operating System(s)	Debian 9
+Web Server  Apache2
+Hardware	i7, 32GB RAM, 2x3TB Spinning Rust
+Location	Frankfurt, Germany
+Key Figures	amcclure	ubergeek  fosslinux naglfar
+Local Software	iris, bbj, weechat, minetest, gcc, ansible, gopher
+Notes	A system focused on a CI/CD style of administration.  Uses Ansible to manage system, and webhooks to keep code up to date
