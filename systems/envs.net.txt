@@ -1,0 +1,13 @@
+System Name	envs.net
+UUCP Name(s)
+Start Year	2019
+Last Seen	2019
+Active?	yes
+URL(s)	https://envs.net
+Operating System(s)	Debian
+Web Server
+Hardware
+Location
+Key Figures	Sven Kinne
+Local Software
+Notes
