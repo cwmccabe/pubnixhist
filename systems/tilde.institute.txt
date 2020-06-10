@@ -1,13 +1,13 @@
-System Name	tilde.institute
-UUCP Name(s)	?
-Start Year	2018
-Last Seen	2019
-Active?	yes
-URL(s)	https://tilde.institute
+System Name		tilde.institute
+UUCP Name(s)		?
+Start Year		2018
+Last Seen		2020
+Active			yes
+URL(s)			https://tilde.institute
 Operating System(s)	OpenBSD
-Web Server  ?
-Hardware	?
-Location	?
-Key Figures	Ben Morrison (ahriman)
-Local Software	?
-Notes	tilde institute for openbsd education
+Web Server		httpd(8)
+Hardware
+Location		Germany
+Key Figures		Ben Morrison (gbmor)
+Local Software
+Notes			Public-access OpenBSD system
