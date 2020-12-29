@@ -1,0 +1,14 @@
+## GENERIC FORMAT BEGINS BELOW THIS LINE ##
+System Name	Texto-Plano
+UUCP Name(s)	?
+Start Year	2020
+Last Seen	2020
+Active?	yes
+URL(s)	https://texto-plano.xyz
+Operating System(s)	OpenBSD
+Web Server	https://texto-plano.xyz
+Hardware	VPS
+Location	Latin America & Spain
+Key Figures	~ffuentes
+Local Software	bbj	mumble	icecast	git	gopher	nginx	etc	
+Notes Comunidad tilde en español. / Tilde server oriented to Spanish speakers. Non native Spanish speakers are welcome if they are interested in our language and culture.
