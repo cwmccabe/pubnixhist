@@ -1,0 +1,13 @@
+System Name	Lecturify
+UUCP Name(s)	?
+Start Year	2022
+Last Seen	2024
+Active?	yes
+URL(s)	https://lecturify.net
+Operating System(s)	OpenBSD, Debian, Ubuntu
+Web Server  https://lecturify.net
+Hardware	?
+Location	Texas, USA
+Key Figures	Yonle, Siva, gry
+Local Software	?
+Notes	Includes IRC support
